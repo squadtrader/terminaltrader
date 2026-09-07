@@ -1,0 +1,1316 @@
+================================================================================
+TITRE : Week-end - Kashkari de la Fed affirme que le marché obligataire fonctionne bien malgré la hausse des rendements
+DATE  : 23-08-2026 21:10 UTC
+URL   : https://investinglive.com/central-banks/weekend-fed-s-kashkari-says-bond-market-functioning-well-despite-yield-rise/
+================================================================================
+
+Les commentaires de Kashkari s'opposent à tout discours selon lequel la hausse des rendements à long terme reflète un dysfonctionnement du marché, ce qui devrait atténuer une partie de l'anxiété liée aux primes de terme qui s'est glissée dans les échanges de taux au cours des dernières séances. Alors que le taux à 10 ans se situe à près de 4,73 % et le taux à 30 ans proche de son plus haut niveau depuis 2007, le message selon lequel la liquidité reste intacte aura probablement plus d'importance pour les desks obligataires que le niveau de rendement lui-même. Ses inquiétudes persistantes en matière d'inflation, sans un engagement ferme en faveur d'une hausse en septembre, laissent le résultat de la réunion véritablement en direct plutôt que annoncé à l'avance, gardant les actifs sensibles aux taux exposés aux données entrantes d'ici là. L'attention se porte également sur les remarques du nouveau président de la Fed, Kevin Warsh, à Jackson Hole vendredi, que les marchés sont susceptibles de considérer comme un signal politique plus conséquent que les commentaires de n'importe quel président régional dominical.
+
+---
+
+Kashkari qualifie le marché du Trésor de sain, même si les rendements grimpent, tout en gardant la porte ouverte à de nouvelles inquiétudes inflationnistes à l'approche du mois de septembre.
+
+Résumé :
+
+Dimanche, le président de la Banque fédérale de réserve de Minneapolis, Neel Kashkari, a minimisé les inquiétudes concernant la récente hausse des rendements du Trésor américain, déclarant à l'émission Face the Nation de CBS qu'il est peu probable que cette augmentation influence les délibérations de politique monétaire de la banque centrale. Kashkari a déclaré que tout indique que le marché du Trésor fonctionne comme il se doit, avec des transactions en cours et une liquidité suffisante en place, ce qui permet aux décideurs politiques de rester concentrés sur le taux des fonds fédéraux comme principal levier pour ramener l'inflation à son objectif.
+
+Ses commentaires interviennent alors que les rendements sur toute la courbe ont grimpé la semaine dernière, le taux de référence du Trésor à 10 ans ayant clôturé à près de 4,73 % et le taux à 30 ans restant proche de son plus haut niveau depuis 2007. Kashkari a reconnu que les rendements sont élevés par rapport à l'histoire récente, mais a noté qu'ils étaient significativement plus élevés au cours des années 1990, qualifiant le niveau actuel de élevé mais pas historiquement extrême.
+
+Ces remarques arrivent avant la prochaine réunion politique de la Fed en septembre. Les responsables ont laissé les taux d'intérêt inchangés en juillet pour une cinquième réunion consécutive, Kashkari étant parmi les trois décideurs politiques dissidents en faveur d'une augmentation des taux d'un quart de point de pourcentage, invoquant des inquiétudes concernant l'inflation persistante. S'exprimant dimanche, il a réitéré ces préoccupations, sans pour autant s'engager dans une nouvelle dissidence ou une nouvelle pression en faveur d'une hausse, affirmant que davantage de données étaient nécessaires avant la prochaine réunion et qu'il ne voulait pas préjuger du résultat. Il a ajouté qu’il n’est pas actuellement convaincu que l’inflation revienne à son objectif dans un court laps de temps.
+
+Cette semaine, les marchés tournent également leur attention vers le nouveau président de la Fed, Kevin Warsh, qui doit prononcer un discours vendredi lors du symposium annuel de la banque centrale à Jackson Hole, dans le Wyoming. Les commentaires de Warsh auront probablement plus de poids sur les perspectives politiques que les remarques de Kashkari dimanche, en particulier compte tenu de la monnaie, et les deux points de données réunis font de la réunion de septembre un véritable point de décision plutôt qu'une formalité, le contexte des rendements et la trajectoire de l'inflation étant toujours très en jeu.
+
+
+================================================================================
+TITRE : Goldman signale un risque de relance en Chine alors que la croissance reste encore en dessous de l'objectif
+DATE  : 23-08-2026 21:29 UTC
+URL   : https://investinglive.com/central-banks/goldman-flags-china-stimulus-risk-as-growth-slips-further-below-target/
+================================================================================
+
+Un ralentissement confirmé vers la barre des 4 % maintient la pression sur les actions chinoises et le yuan, en particulier si les données d'août et de septembre ne parviennent pas à montrer une stabilisation. L’écart entre les estimations des banques, Goldman à l’extrémité la plus faible proche de 4 %, Macquarie proche de 4,2 %, BNP Paribas à 4,1 %, indique une véritable incertitude quant au niveau de soutien budgétaire et monétaire que Pékin déploiera finalement, ce qui devrait maintenir les actions asiatiques sensibles à la politique et les matières premières industrielles réactives à chaque nouveau point de données. Les marchés considéreront probablement une réduction du taux de réserves obligatoires au quatrième trimestre comme scénario de référence plutôt qu'une baisse du taux directeur, étant donné la réticence de la Banque populaire de Chine à modifier les taux de référence dans un contexte de pression persistante de la guerre commerciale et d'une inflation plus forte à la sortie des usines due à la hausse des prix du pétrole. Tout signal de Pékin allant au-delà d’un soutien progressif, en particulier autour de mesures de consommation plutôt que de mesures manufacturières du côté de l’offre, serait probablement interprété comme un catalyseur positif plus durable pour la demande intérieure chinoise que ne le suggère le mix politique actuel.
+
+---
+
+Note de Goldman Sachs via un rapport Bloomberg (gated) du week-end.
+
+---
+
+La croissance chinoise glisse vers 4 % et, même si les paris sur l'assouplissement se multiplient, Pékin semble toujours plus enclin à bricoler qu'à stimuler fortement.
+
+Résumé :
+
+Selon Goldman Sachs, la croissance économique chinoise est encore tombée en dessous de l'objectif annuel de Pékin au cours des premières semaines du troisième trimestre, ravivant les attentes selon lesquelles les décideurs politiques devront intensifier l'assouplissement monétaire, même si les autorités n'ont jusqu'à présent proposé que des mesures progressives. L'économiste en chef de Goldman pour la Chine, Hui Shan, a estimé dans un rapport que la croissance du produit intérieur brut était d'environ 4 % sur un an au début de ce trimestre, en baisse par rapport aux 4,3 % des trois mois précédents, la faiblesse de la production industrielle, de la consommation et de l'investissement en juillet étant attribuée au ralentissement de la demande plutôt qu'aux contraintes de l'offre.
+
+Hui a décrit la décélération comme plus préoccupante qu'un ralentissement antérieur en avril, car elle est partie d'une base plus basse et a touché des secteurs qui semblaient auparavant résilients. Elle a déclaré que les conversations avec les commerçants et les investisseurs laissent entrevoir des attentes croissantes du marché en matière d'assouplissement de la politique monétaire. L'évaluation de Goldman se situe parmi les plus pessimistes des banques mondiales après les données officielles qui ont montré un ralentissement généralisé le mois dernier. Macquarie Group estime que les données de juillet impliquent une croissance mensuelle du PIB d'environ 4,2%, tandis que BNP Paribas estime ce chiffre à 4,1%, soit environ 0,2 point de pourcentage de moins que le rythme nécessaire au second semestre pour atteindre l'objectif de la Chine pour l'ensemble de l'année. Les économistes de BNP Paribas dirigés par Jacqueline Rong ont déclaré que si la croissance continue de osciller autour de 4 % ou en dessous en août et septembre, même avec un effort budgétaire plus important, l'objectif annuel serait menacé et que les décideurs politiques réagiraient probablement par de nouvelles mesures de relance fin septembre ou début octobre.
+
+Avant cette dernière détérioration, plusieurs économistes avaient déjà renoncé à leurs appels à une baisse des taux cette année, après que la hausse des prix du pétrole ait poussé l’inflation à la sortie des usines. Un sondage Bloomberg auprès d'analystes réalisé en juillet place l'attente médiane à un taux directeur de la Banque populaire de Chine inchangé cette année et l'année prochaine, une réduction du taux de réserves obligatoires des banques étant considérée comme l'outil le plus probable, pouvant intervenir au quatrième trimestre. La Banque populaire de Chine n’a réduit ni son taux directeur ni le RRR depuis plus d’un an, une période qui a coïncidé avec le pic des tensions commerciales avec les États-Unis.
+
+Malgré la pression croissante pour agir, les responsables chinois ont jusqu’à présent signalé peu d’urgence en faveur de mesures de relance plus audacieuses. Le Premier ministre Li Qiang a déclaré lors d'une réunion du cabinet le 17 août que le gouvernement devrait intensifier les mesures de soutien pour atteindre les objectifs annuels de développement, et les responsables ont depuis déclaré qu'ils envisageaient des subventions aux prêts et d'autres soutiens financiers pour les entreprises et les consommateurs. Les médias d'État ont entre-temps repoussé leurs inquiétudes concernant les chiffres de la croissance. Un commentaire du Quotidien du Peuple du 22 août affirmait que les décideurs politiques ne devraient pas se concentrer uniquement sur le taux de croissance ou les indicateurs à court terme, mais plutôt mettre l'accent sur la qualité de l'innovation technologique et la durabilité de la croissance. Un commentaire distinct publié le lendemain sous le même titre décrivait la Chine comme le principal moteur de l’économie mondiale et un point d’ancrage stabilisateur pour les chaînes d’approvisionnement mondiales, décrivant l’économie comme résiliente malgré les pressions extérieures.
+
+Hui, de Goldman, a averti que l'accent continu de Pékin sur l'innovation technologique et l'industrie manufacturière de haute technologie ne devrait pas, à lui seul, augmenter les revenus ou la consommation de manière significative, puisque l'industrie manufacturière ne représente qu'environ un cinquième de l'emploi chinois. Elle a déclaré que les mesures à venir pourraient aider le gouvernement à atteindre l'objectif de croissance de cette année, mais resteraient largement axées sur l'offre, ce qui signifie qu'il est peu probable qu'elles génèrent le type de dynamique de demande durable nécessaire pour modifier la trajectoire de croissance sous-jacente.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 24-08-2026 00:26 UTC
+URL   : https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-reuters-estimate-1/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 24-08-2026 00:44 UTC
+URL   : https://investinglive.com/central-banks/nz-main-opposition-party-pledges-to-restore-rbnz-dual-mandate-on-employment-if-elected/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 24-08-2026 01:15 UTC
+URL   : https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-vs-estimate-at-6-7248/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 24-08-2026 03:56 UTC
+URL   : https://investinglive.com/central-banks/rba-minutes-due-tuesday-to-detail-hike-versus-hold-debate-after-august-pause/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 24-08-2026 07:19 UTC
+URL   : https://investinglive.com/central-banks/ecb-policymaker-cipollone-says-inflation-is-far-from-the-ecb-adverse-and-severe-scenarios/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 24-08-2026 21:40 UTC
+URL   : https://investinglive.com/central-banks/boj-likely-to-hike-next-month-and-again-in-january-says-ex-board-member/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 24-08-2026 23:09 UTC
+URL   : https://investinglive.com/central-banks/mufg-sees-yen-risk-skewed-weaker-despite-80-boj-hike-odds/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 25-08-2026 00:17 UTC
+URL   : https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7219-reuters-estimate/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 25-08-2026 00:41 UTC
+URL   : https://investinglive.com/central-banks/bank-of-korea-rate-call-a-coin-toss-as-economists-split-on-august-hike/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 25-08-2026 01:16 UTC
+URL   : https://investinglive.com/central-banks/pboc-sets-usd-cny-central-rate-at-6-7-vs-estimate-at-6-7219/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 25-08-2026 01:30 UTC
+URL   : https://investinglive.com/central-banks/china-leans-hardest-against-yuan-gains-in-six-months-aud-softens/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 25-08-2026 01:36 UTC
+URL   : https://investinglive.com/central-banks/rba-minutes-reveal-live-debate-over-a-pre-emptive-august-hike/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Concernant la monnaie, le dollar australien s'est déprécié d'environ 1 % sur une base pondérée des échanges depuis la réunion de mai, reflétant un rétrécissement des écarts de rendement et une baisse des prix des matières premières, même s'il reste environ 5 % plus élevé qu'au début de l'année. Le conseil d’administration a estimé que l’indice pondéré en fonction des échanges commerciaux était globalement conforme à son niveau d’équilibre à long terme, ce qui signifie qu’il n’était pas considéré comme fournissant une transmission politique supplémentaire au-delà du canal standard. À l’échelle mondiale, le conseil d’administration a noté que les rendements obligataires à long terme avaient augmenté de manière plus notable aux États-Unis et au Japon, reflétant des augmentations plus importantes des attentes en matière de taux directeurs et des primes de risque qu’en Australie, tandis que les entrées de capitaux dans les actions et les obligations liées à l’IA avaient montré des signes de volatilité dans le contexte d’une réévaluation des rendements potentiels des centres de données.
+
+Le conseil d'administration a réaffirmé qu'il restait concentré sur le retour de l'inflation à son objectif en temps opportun et qu'il était prêt à augmenter davantage le taux directeur si les risques à la hausse qu'il a identifiés commençaient à se matérialiser, des données supplémentaires sur l'inflation, le marché du travail et les comptes nationaux étant attendues avant la prochaine réunion, ce qui devrait affiner son évaluation.
+
+---
+
+Prochaine réunion fin septembre :
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 25-08-2026 14:05 UTC
+URL   : https://investinglive.com/central-banks/fed-s-collins-inflation-is-still-too-high/
+================================================================================
+
+Avertissement sur les risques élevés : les opérations de change comportent un niveau de risque élevé qui peut ne pas convenir à tous les investisseurs. L’effet de levier crée une exposition supplémentaire aux risques et aux pertes. Avant de décider de négocier des devises, examinez attentivement vos objectifs d'investissement, votre niveau d'expérience et votre tolérance au risque. Vous pourriez perdre une partie ou la totalité de votre investissement initial ; n’investissez pas d’argent que vous ne pouvez pas vous permettre de perdre. Renseignez-vous sur les risques liés aux opérations de change et demandez conseil à un conseiller financier ou fiscal indépendant si vous avez des questions.
+
+Avertissement consultatif : investirLive n'est pas un conseiller en investissement, investirLive fournit des références et des liens vers des actualités sélectionnées, des blogs et d'autres sources d'informations économiques et de marché à des fins d'information et en tant que service éducatif à ses clients et prospects et n'approuve pas les opinions ou recommandations des blogs ou d'autres sources d'information. Il est conseillé aux clients et prospects d'examiner attentivement les opinions et analyses proposées dans les blogs ou autres sources d'informations dans le contexte de l'analyse et de la prise de décision individuelles du client ou du prospect. Aucun des blogs ou autres sources d'information ne peut être considéré comme constituant un historique. Les performances passées ne constituent aucune garantie des résultats futurs et InvestingLive recommande spécifiquement par la présente aux clients et prospects d'examiner attentivement toutes les réclamations et représentations faites par les conseillers, blogueurs, gestionnaires de fonds et fournisseurs de systèmes avant d'investir des fonds ou d'ouvrir un compte auprès d'un courtier Forex. Toutes les nouvelles, opinions, recherches, données ou autres informations contenues dans ce site Web sont fournies « telles quelles » en tant que commentaire général du marché et ne constituent pas des conseils d'investissement ou de trading, et nous ne prétendons pas présenter l'intégralité des informations publiques pertinentes ou disponibles concernant un marché ou un titre spécifique. investLive décline expressément toute responsabilité pour toute perte de capital ou de bénéfices pouvant découler directement ou indirectement de l'utilisation ou de la confiance accordée à ces informations, ou en ce qui concerne le contenu présenté sur son site Web, ni ses choix éditoriaux.
+
+Avertissement : InvestingLive peut être rémunéré par les annonceurs qui apparaissent sur le site Web, en fonction de votre interaction avec les publicités ou les annonceurs.
+
+
+================================================================================
+TITRE : Rapport de sources de la BCE : les décideurs sont prêts à relever les taux en septembre
+DATE  : 25-08-2026 19:21 UTC
+URL   : https://investinglive.com/central-banks/ecb-sources-report-policymakers-are-ready-to-raise-rates-in-sep/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 25-08-2026 20:36 UTC
+URL   : https://investinglive.com/central-banks/preview-australia-s-july-cpi-set-to-ease-to-3-2-3-3pct-as-trimmed-mean-holds-near-3-5pct/
+================================================================================
+
+Avant de commencer... la grande nouvelle en développement, si elle est vraie :
+
+C'est parti pour l'aperçu !
+
+Un titre doux a un poids limité sur le marché étant donné l'effet de base largement signalé, de sorte que l'attention des traders se concentrera directement sur la moyenne tronquée. Un résultat égal ou inférieur au consensus de 3,5% renforcerait le prix d'un maintien de la RBA en septembre et pourrait voir le dollar australien céder du terrain en raison de la réduction des attentes de resserrement. Une moyenne tronquée plus chaude que prévu, plus proche du rythme mensuel de 0,4% signalé par Westpac, risque de raviver les discussions sur un nouveau resserrement politique plus tard dans l'année et soutiendrait probablement l'achat d'AUD. Les bureaux de change ont signalé cette publication comme le principal catalyseur national de la semaine, les cross de l'AUD devant connaître la réaction la plus forte à toute surprise de l'inflation sous-jacente plutôt qu'au chiffre global lui-même.
+
+---
+
+La baisse globale de l'IPC de juillet est une histoire d'effet de base, mais l'impression moyenne tronquée est celle qui fera réellement bouger le cadran de la RBA.
+
+Résumé :
+
+Le Bureau australien des statistiques publie son indicateur mensuel de l'indice des prix à la consommation de juillet (attendu et antérieur sur ce lien) ce matin à 11h30 AEST, dans ce que les économistes et les cambistes considèrent comme le point de données nationales le plus important de la semaine.
+
+L'inflation annuelle globale devrait chuter fortement, les quatre grandes banques prévoyant une baisse par rapport aux 3,8 % de juin. CBA et ANZ prévoient 3,2 %, tandis que NAB et Westpac prévoient 3,3 %. Si l’extrémité la plus douce de cette fourchette se confirmait, il s’agirait du taux d’inflation global le plus bas depuis août 2025. Les économistes préviennent que l’amélioration est en grande partie mécanique, tirée par une hausse des prix de 1,3 % à partir de juillet 2025 sortant de la fenêtre de comparaison annuelle, plutôt que par une véritable accélération de la désinflation.
+
+Le chiffre le plus surveillé est la moyenne tronquée, la mesure utilisée par la RBA pour évaluer la pression sous-jacente sur les prix une fois les éléments volatils éliminés. Les grandes banques s’attendent à ce que cet indicateur baisse légèrement à environ 3,5 %, contre 3,6 % en juin. Westpac est allé plus loin, prévoyant que la moyenne tronquée augmenterait toujours de 0,4 % sur une base mensuelle, un rythme qui, selon elle, reste légèrement supérieur à la trajectoire de projection publiée par la RBA.
+
+Cette publication intervient un peu plus de deux semaines après que la Reserve Bank a maintenu son taux directeur à 4,35 % le 11 août, une décision sur laquelle les quatre grandes banques s'étaient alignées après que les données de l'IPC du trimestre de juin aient écarté les arguments immédiats en faveur d'un nouveau resserrement. Ce rapport trimestriel a montré une inflation globale à 3,8% et une moyenne réduite à 3,6%, ce qui a incité Westpac, auparavant le seul faucon parmi les majors, à abandonner son appel à de nouvelles hausses de taux.
+
+L'indicateur mensuel d'aujourd'hui alimentera directement les attentes pour la réunion du conseil d'administration de la RBA en septembre. Une moyenne en ligne ou plus faible renforcerait les arguments en faveur d'un maintien prolongé, tandis que toute surprise à la hausse dans la lecture sous-jacente, même parallèlement à un chiffre global inférieur, risque de rouvrir le débat sur un nouveau resserrement. Les marchés des changes sont positionnés pour réagir davantage aux résultats de l'inflation sous-jacente qu'à la baisse globale attendue, compte tenu de l'origine bien identifiée de l'effet de base de cette dernière.
+
+---
+
+La prochaine réunion de la Reserve Bank of Australia aura lieu fin septembre :
+
+
+================================================================================
+TITRE : La BoJ devrait augmenter à 1,25% en septembre alors que la faiblesse du yen accélère le calendrier
+DATE  : 25-08-2026 22:08 UTC
+URL   : https://investinglive.com/central-banks/boj-seen-hiking-to-1-25pct-in-september-as-yen-weakness-accelerates-timeline/
+================================================================================
+
+Le brusque changement dans les attentes des économistes laisse présager une BOJ qui est désormais véritablement en retard sur le resserrement, avec une prévision de taux terminaux en hausse et un calendrier se resserrant en l'espace d'un seul mois. Pour les cross du yen, cela augmente considérablement les enjeux autour de la réunion de septembre, dans la mesure où une hausse est désormais largement intégrée dans les prix et tout retard risque de provoquer une réaction désordonnée compte tenu de la rapidité avec laquelle le consensus s'est dégagé. Dans le même temps, les conclusions du sondage selon lesquelles l'intervention coordonnée du mois dernier a été largement inefficace suggèrent que le yen reste vulnérable à de nouvelles pressions à la vente, quelles que soient les actions de la BoJ, en particulier si les plans budgétaires de Takaichi se poursuivent sans financement clair. Les traders traiteront probablement la décision de septembre comme un risque d'événement binaire pour les paires de yens, la confirmation d'une hausse faisant moins pour soutenir le yen qu'un maintien surprise ne le ferait pour l'affaiblir davantage.
+
+---
+
+Septembre est sur le point d'être verrouillé :
+
+---
+
+La BoJ est passée d'une chance extérieure de hausse en septembre à une vision consensuelle en l'espace d'un mois, et les économistes ne pensent toujours pas que cela suffira à sauver le yen.
+
+Résumé :
+
+Selon une enquête Reuters, la Banque du Japon devrait désormais agir plus rapidement en matière de hausse des taux d'intérêt que les économistes ne l'avaient prévu il y a à peine un mois, une hausse de 1,25 % en septembre étant désormais l'opinion du consensus plutôt que une possibilité extérieure. L'enquête menée du 17 au 24 août a révélé que 57% des économistes s'attendaient à une telle décision le mois prochain, contre seulement 5% lors de l'enquête de juillet, ce qui marque l'un des changements les plus marqués dans les attentes en matière de taux de la BoJ de mémoire récente.
+
+Ce sondage intervient quelques semaines après que Reuters a annoncé que la banque centrale se préparait à relever ses taux dès septembre et envisageait un rythme de resserrement plus agressif que son rythme historique d'environ deux hausses par an. Un autre coup de pouce du secrétaire au Trésor américain, Scott Bessent, aurait renforcé les attentes du marché quant à une décision en septembre. Ayako Fujita, économiste en chef de JPMorgan Securities au Japon, a déclaré dans le sondage qu'avec une hausse de septembre déjà largement intégrée dans les marchés, un ajustement rapide de la politique monétaire était devenu inévitable, avertissant que retarder cette décision risquait de déstabiliser les marchés qui se sont déjà positionnés pour cela.
+
+Le changement s’étend au-delà de la chronologie immédiate. Près des deux tiers des cinquante-quatre analystes ayant répondu à une question connexe s'attendent désormais à ce que le taux directeur atteigne au moins 1,50 % d'ici la fin mars de l'année prochaine, trois mois plus tôt que prévu dans l'enquête de juillet. Environ 60 % s’attendent à ce que le taux atteigne au moins 1,75 % d’ici le troisième trimestre 2027, et parmi un groupe plus restreint de personnes interrogées spécifiquement sur le taux terminal, la moitié voient désormais 1,75 % comme l’éventuel pic, contre seulement 19 % un mois plus tôt. La proportion s'attendant à un taux terminal de 2 % ou plus est passée de 23 % à 36 % au cours de la même période.
+
+Derrière cette trajectoire de resserrement plus rapide se cache une faiblesse persistante du yen qui s’est révélée résistante à l’intervention politique. Le Japon et les Etats-Unis ont procédé le mois dernier à une rare intervention conjointe sur leurs devises après que le yen soit tombé à son plus bas niveau depuis 40 ans, un effort visant à contenir une vente massive de la monnaie et des obligations d'État japonaises qui avait commencé à se répercuter sur les rendements du Trésor américain. Plus des deux tiers des économistes interrogés, soit dix-huit sur vingt-six, ont décrit cette intervention comme largement ou totalement inefficace, beaucoup la qualifiant de n'avoir fait que retarder plutôt que résoudre la faiblesse sous-jacente de la monnaie.
+
+La politique budgétaire du Premier ministre Sanae Takaichi a été identifiée comme un facteur contributif important, avec 89 % des économistes, soit vingt-cinq sur vingt-huit, affirmant que l'approche de son gouvernement ajoute à la pression sur le yen. Les inquiétudes se concentrent sur la manière dont les réductions d’impôts prévues, y compris les réductions sur les produits alimentaires, seront financées. Kyohei Morita, économiste en chef de Nomura Securities, a déclaré que la politique budgétaire augmente les anticipations d'inflation et intensifie les craintes d'un retard de la BoJ, et a averti qu'une réduction de l'impôt sur la consommation mise en œuvre sans financement clair pourrait accélérer davantage la dépréciation du yen, notamment par le biais des investisseurs étrangers vendant des obligations d'État japonaises.
+
+La BoJ a relevé ses taux pour la dernière fois en juin, portant son indice de référence à 1 %, son plus haut niveau en trois décennies, une décision intervenue dans un contexte de méfiance croissante des banques centrales à l'égard des pressions inflationnistes découlant du conflit plus large entre les États-Unis et Israël avec l'Iran, ainsi que de pressions soutenues sur la monnaie elle-même.
+
+---
+
+La prochaine réunion de la Banque du Japon aura lieu à la mi-septembre :
+
+
+================================================================================
+TITRE : Barkin, de la Fed, affirme que la hausse de la dette américaine finira par conduire à un bilan
+DATE  : 25-08-2026 22:49 UTC
+URL   : https://investinglive.com/central-banks/fed-s-barkin-says-rising-us-debt-will-eventually-lead-to-a-reckoning/
+================================================================================
+
+Les commentaires de Barkin ajoutent une voix de haut niveau à la Fed dans un débat qui a déjà perturbé les marchés obligataires ce mois-ci, à la suite de la forte liquidation des bons du Trésor qui a forcé une intervention extraordinaire de rachat et poussé les rendements à long terme à des sommets de plusieurs décennies. Même s’il n’a pas prédit une crise à court terme, son avertissement direct selon lequel les investisseurs pourraient éventuellement cesser d’acheter de la dette américaine fait écho aux inquiétudes déjà soulevées par les chiffres de Wall Street cette année. Ces commentaires ont un poids supplémentaire étant donné qu'ils accompagnent sa préférence réitérée pour le maintien des taux stables sur la base de preuves d'un ralentissement de l'inflation, tout en laissant la porte ouverte à une hausse si les pressions sur les prix s'intègrent, une combinaison qui laisse l'évolution des taux dépendante des données plutôt que réglée. Intervenant juste avant le discours d'ouverture du président de la Fed Warsh à Jackson Hole vendredi, ces remarques devraient garder l'accent à la fois sur la viabilité budgétaire et sur les perspectives en matière de taux cette semaine.
+
+Informations via Bloomberg.
+
+--
+
+Barkin ne parle pas de la dette américaine, il souligne simplement que ce sont les marchés, et non les décideurs politiques, qui le feront.
+
+Résumé :
+
+Le président de la Banque fédérale de réserve de Richmond, Tom Barkin, a averti que la croissance continue de la dette publique américaine finirait par obliger à faire des comptes, même s'il a ajouté qu'il restait difficile de prédire exactement quand ce point arriverait. Interrogé directement sur le fait que la dette publique totale des États-Unis a dépassé les 40 000 milliards de dollars, Barkin a déclaré que le gouvernement pouvait continuer à emprunter aussi longtemps que les investisseurs continueraient d'acheter cette dette, mais a averti que l'appétit ne pouvait pas être assumé indéfiniment.
+
+"À un moment donné, les gens arrêtent d'acheter votre dette et c'est là le risque qui existe", a déclaré Barkin, offrant l'un des avertissements les plus directs d'un responsable de la Fed en exercice sur la durabilité des emprunts américains ces derniers mois.
+
+Ces remarques arrivent à un moment sensible pour les marchés obligataires. Les rendements du Trésor à long terme ont atteint leurs plus hauts niveaux depuis près de deux décennies au début du mois, provoquant une intervention extraordinaire du département du Trésor sous la forme d'un programme élargi de rachat de dette visant à calmer la vente. Cet épisode a renforcé les inquiétudes des analystes et des organismes de surveillance budgétaire selon lesquels la hausse des déficits et la hausse des coûts d’emprunt risquent de s’alimenter mutuellement, plusieurs personnalités de Wall Street ayant averti ces dernières semaines qu’une certaine forme de calcul de la dette était de plus en plus plausible.
+
+Les commentaires de Barkin sur la viabilité de la dette se sont accompagnés de remarques sur les perspectives politiques à court terme. Il a réitéré son argument en faveur du maintien des taux d’intérêt stables, soulignant la preuve que l’inflation continue de baisser. Dans le même temps, il a reconnu que les responsables de la Fed pourraient être amenés à relever à nouveau les taux si les pressions sur les prix montraient des signes de s'ancrer dans l'économie au lieu de continuer à s'atténuer, une mise en garde qui laisse la porte ouverte à un nouveau resserrement même si son scénario de base reste valable.
+
+Ces commentaires interviennent quelques jours seulement avant que le président de la Fed, Kevin Warsh, ne prononce vendredi son premier discours en tant que président du symposium de politique économique de Jackson Hole, une apparition que les marchés considèrent comme le signal le plus significatif avant la réunion politique de septembre. Les remarques de Barkin ajoutent une dimension fiscale au débat qui précède cet événement, soulignant que les questions sur la durabilité des emprunts publics américains se situent de plus en plus parallèlement, plutôt que séparées, à la conversation sur la direction que prendront ensuite les taux d'intérêt.
+
+
+================================================================================
+TITRE : Quatre banques régionales de la Fed cherchent à relever leurs taux d'escompte avant le maintien du FOMC en juillet
+DATE  : 25-08-2026 23:26 UTC
+URL   : https://investinglive.com/central-banks/four-regional-fed-banks-sought-discount-rate-hike-ahead-of-july-fomc-hold/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : La Banque populaire de Chine devrait fixer le taux de référence USD/CNY à 6,7166 – estimation Reuters
+DATE  : 26-08-2026 00:15 UTC
+URL   : https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-reuters-estimate-2/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 26-08-2026 01:15 UTC
+URL   : https://investinglive.com/central-banks/pboc-sets-usd-cny-mid-point-today-at-vs-estimate-at/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 26-08-2026 01:52 UTC
+URL   : https://investinglive.com/central-banks/aud-higher-australian-cpi-beats-forecasts-as-core-inflation-surprises-to-the-upside/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 26-08-2026 03:24 UTC
+URL   : https://investinglive.com/central-banks/hawkish-board-member-tamura-to-represent-boj-at-jackson-hole-instead-of-ueda/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 26-08-2026 05:43 UTC
+URL   : https://investinglive.com/central-banks/ecb-s-schnabel-says-the-central-bank-must-act-early-to-prevent-second-round-effects/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 26-08-2026 21:31 UTC
+URL   : https://investinglive.com/central-banks/preview-warsh-s-silence-on-rates-leaves-fed-and-markets-guessing-before-jackson-hole/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 26-08-2026 23:14 UTC
+URL   : https://investinglive.com/central-banks/there-is-a-cascade-of-analysts-forecasting-a-near-term-rba-rate-hike-westpac-says-no/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 26-08-2026 23:53 UTC
+URL   : https://investinglive.com/central-banks/bank-consensus-builds-for-near-term-rba-hike-as-economists-cite-sticky-inflation/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 27-08-2026 00:23 UTC
+URL   : https://investinglive.com/central-banks/kansas-city-fed-hawk-schmid-set-for-high-profile-fox-business-interview/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 27-08-2026 00:23 UTC
+URL   : https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-reuters-estimate-3/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 27-08-2026 00:48 UTC
+URL   : https://investinglive.com/central-banks/boj-hawk-himino-speaks-soon-ahead-of-key-september-meeting/
+================================================================================
+
+Les traders considèrent le discours d'Himino de jeudi comme un test en direct de la hausse des taux en septembre, compte tenu de sa position comme l'une des voix les plus bellicistes du conseil d'administration. Toute insistance sur le risque d'inflation à la hausse ou sur le risque de prendre du retard par rapport à la courbe renforcerait probablement la force du yen et pousserait les rendements des obligations japonaises à la hausse, renforçant ainsi les arguments en faveur d'un mouvement de 25 points de base lors de la réunion des 17 et 18 septembre. À l'inverse, un ton plus mesuré axé sur la dépendance aux données pourrait réduire les paris sur une hausse et ajouter de nouveau de la pression sur le yen, qui s'échange dans la fourchette haute de 158 par rapport au dollar, le niveau de 160 étant considéré comme une ligne d'intervention. Le discours tombe également la même semaine que le symposium de Jackson Hole, augmentant le risque que les commentaires de la Fed entrent en concurrence avec les remarques d'Himino pour attirer l'attention du marché des changes et des taux.
+
+---
+
+Plus tôt :
+
+---
+
+Les marchés considèrent le discours de Himino à Saitama comme le premier véritable signal indiquant si la BoJ est prête à relever ses taux en septembre.
+
+Résumé :
+
+Le vice-gouverneur de la Banque du Japon, Ryozo Himino, doit s'adresser aux chefs d'entreprise à Saitama jeudi à 10h30 JST, dans un discours que les marchés considèrent comme un premier test des attentes d'une hausse des taux lors de la réunion politique de la banque centrale en septembre. Une conférence de presse devrait suivre le discours.
+
+La Commonwealth Bank of Australia a déclaré que le discours donnait à la BoJ l'occasion soit de valider, soit de s'opposer aux prix du marché en vue d'une augmentation de 25 points de base en septembre. Selon la CBA, "son discours sera l'occasion pour la BoJ de valider ou de repousser les attentes du marché concernant une hausse des taux d'intérêt de 25 points de base en septembre". La banque a ajouté qu'Himino pourrait signaler une décision imminente en mettant l'accent sur les risques d'inflation à la hausse ou sur la nécessité d'éviter de prendre du retard sur la courbe, un langage qui aurait un ton nettement belliciste par rapport au style de communication généralement prudent de la BoJ.
+
+Les remarques de Himino sont l'un des trois discours du conseil d'administration programmés avant la réunion politique des 17 et 18 septembre, le membre du conseil d'administration Hajime Takata devant s'exprimer à Sapporo le 2 septembre et Kazuyuki Masu suivant dans un discours séparé le 10 septembre. Himino et Masu sont tous deux considérés par les marchés comme parmi les membres les plus bellicistes du conseil d'administration de neuf personnes, tandis que Takata était en désaccord lors de la réunion de juillet en faveur d'une augmentation des taux à 1,25 pour cent.
+
+Le discours intervient dans un contexte de données nationales mitigées, avec une croissance du PIB au deuxième trimestre décrite comme faible, même si les membres du conseil d'administration continuent de faire part de leurs inquiétudes concernant les risques d'inflation à la hausse. Cela coïncide également avec l'ouverture du symposium économique de Jackson Hole aux États-Unis, où les commentaires de la Réserve fédérale devraient rivaliser pour attirer l'attention du marché cette semaine. Le yen s'est récemment négocié dans la fourchette haute de 158 par rapport au dollar, le niveau de 160 étant largement considéré comme un seuil d'intervention potentiel.
+
+Si le ton d'Himino était plutôt belliciste, les traders l'interpréteront probablement comme un renforcement des arguments en faveur d'une décision en septembre, s'ajoutant à une semaine déjà dominée par les signaux des banques centrales des deux côtés du Pacifique.
+
+Himino avec le patron.
+
+
+================================================================================
+TITRE : La Banque de Corée (BOK) procède à une deuxième hausse consécutive de ses taux et relève son indice de référence à 3,00 %
+DATE  : 27-08-2026 01:07 UTC
+URL   : https://investinglive.com/central-banks/bank-of-korea-bok-delivers-second-straight-rate-hike-lifts-benchmark-to-3-00/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 27-08-2026 01:15 UTC
+URL   : https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7-vs-estimate-at-6-7261/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Les dépenses des ménages australiens augmentent, plaidant en faveur d'une augmentation de la RBA
+DATE  : 27-08-2026 01:38 UTC
+URL   : https://investinglive.com/central-banks/australian-household-spending-surges-builds-case-for-rba-hike/
+================================================================================
+
+Le rythme des dépenses des ménages est susceptible de renforcer les anticipations du marché en faveur d'une hausse des taux de la RBA, l'accélération de la croissance annuelle à 7,0% suggérant que la demande des consommateurs est plus forte que ce que la banque centrale avait prévu. Un mouvement de cette ampleur par rapport au consensus de 0,4 % est le genre de surprise qui fait généralement avancer les attentes en matière de taux et soutient le dollar australien. Cela dit, les données sur les dépenses d'investissement privées publiées le même jour compliquent une lecture purement belliciste, la contraction trimestrielle de 3,6% pointant vers une réelle faiblesse de l'investissement des entreprises, même si les ménages continuent de dépenser. Les traders pèseront probablement les deux publications ensemble plutôt que de comparer les chiffres des dépenses de manière isolée, car une hausse effectuée dans un contexte de contraction des investissements des entreprises comporte ses propres risques pour les perspectives de croissance.
+
+---
+
+Les consommateurs australiens ont continué à dépenser bien au-delà des prévisions en juillet, renforçant les arguments en faveur d'une hausse des taux de la RBA, même si les investissements des entreprises ont chuté.
+
+Résumé :
+
+Les dépenses des ménages australiens ont augmenté de 1,1 % sur un mois en juillet, soit près du triple du rythme de 0,4 % prévu par les économistes, dans un communiqué qui ajoute un nouveau poids aux attentes du marché concernant une hausse des taux d'intérêt de la RBA.
+
+Le gain mensuel s'est accéléré par rapport au chiffre déjà solide de 1,0 % enregistré en juin, tandis que la croissance annuelle des dépenses des ménages a grimpé à 7,0 %, contre 6,1 % précédemment. La force de la tendance, plus du double de l'estimation du consensus, indique que la demande des consommateurs est bien supérieure à ce que prévoyaient les propres prévisions de la banque centrale, une dynamique qui tend à faire avancer les prix du marché en faveur d'une politique plus stricte. Pour une banque centrale qui réfléchit déjà au calendrier de sa prochaine action, un secteur de la consommation aussi résilient justifie considérablement plus facilement le fait de s'abstenir de tout nouvel assouplissement ou de s'orienter vers une hausse.
+
+Le tableau de l’investissement des entreprises raconte une tout autre histoire. Les dépenses en capital privé se sont contractées de 3,6 % au cours du trimestre de juin, un résultat nettement inférieur aux attentes d'un chiffre stable et un renversement par rapport à l'expansion de 6,5 % du trimestre précédent. La répartition montre que les dépenses en capital dans la construction ont augmenté de 2,1% après une baisse de 3,8% précédemment, tandis que les dépenses en usines et en machines ont chuté de 8,9%, annulant une hausse de 18,1% au trimestre précédent. La divergence entre le renforcement de la consommation et l'affaiblissement de l'investissement des entreprises complique une lecture simple et belliciste des données du jour, dans la mesure où une hausse des taux réalisée alors que les contrats de dépenses en capital comportent ses propres risques pour les perspectives de croissance à moyen terme.
+
+Dans l’ensemble, ces publications laissent la RBA peser un secteur des ménages qui dépense bien plus tôt que prévu par rapport à un secteur des entreprises qui recule sur ses investissements. Les marchés devraient s'appuyer sur les chiffres des dépenses des ménages comme facteur le plus immédiat des attentes en matière de taux, étant donné leur lecture directe des pressions inflationnistes, tout en traitant la faiblesse des dépenses d'investissement comme un facteur que la banque centrale devra surveiller plutôt que comme un facteur qui fait dérailler les arguments en faveur d'une hausse à court terme.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 27-08-2026 01:45 UTC
+URL   : https://investinglive.com/central-banks/boj-s-himino-signals-more-hikes-flags-growing-upside-inflation-risk/
+================================================================================
+
+Les remarques d'Himino se lisent comme une réaffirmation claire de la tendance au resserrement de la BoJ, avec sa déclaration explicite selon laquelle la banque devrait continuer à relever les taux et à ajuster le degré d'accommodement susceptible de maintenir fermement en jeu les attentes de hausse de septembre. Son commentaire selon lequel le conseil d'administration doit être plus attentif que jamais aux risques de hausse des prix, associé à sa définition de la demande induite par l'IA et de la faiblesse du yen comme des forces inflationnistes, renforce la lecture belliciste pour laquelle les marchés se positionnaient avant le discours. La reconnaissance du fait que le risque de rupture d’approvisionnement dû au conflit au Moyen-Orient a diminué, grâce à une alternative presque complète d’approvisionnement en brut, élimine l’une des réserves les plus conciliantes qui avaient auparavant tempéré la conviction d’une hausse des taux. La force du yen et une légère hausse des rendements des JGB seraient la réaction naturelle du marché à cette combinaison de signaux, même si la propre prudence de Himino selon laquelle les effets de la politique mettent du temps à se répercuter sur les prix suggère que la BoJ ne devrait pas se précipiter.
+
+---
+
+Himino a livré un message nettement belliciste, affirmant que la BoJ devrait continuer à relever ses taux et surveiller les risques d'inflation à la hausse plus étroitement que jamais.
+
+Résumé :
+
+Le vice-gouverneur de la Banque du Japon, Ryozo Himino, a présenté jeudi une évaluation belliciste des perspectives économiques du Japon, déclarant aux chefs d'entreprise locaux de Saitama que la banque centrale devrait continuer à augmenter son taux d'intérêt directeur et à ajuster le degré d'assouplissement monétaire en fonction de l'évolution de l'activité économique, des prix et des conditions financières.
+
+Himino a déclaré que la banque doit être plus que jamais consciente des risques de hausse des prix et devrait y accorder une plus grande attention que par le passé. Il a déclaré qu'il était important de stabiliser l'inflation sous-jacente à un niveau proche de l'objectif de 2% de la BoJ, avertissant qu'un écart au-dessus de ce niveau aurait un impact négatif sur l'économie. Il a ajouté que le conseil d'administration débattra de la politique à chaque réunion en gardant ces considérations à l'esprit, tout en avertissant que la politique monétaire met du temps à se répercuter sur les prix, établissant une comparaison avec un bus dont la vitesse ne change que progressivement en réponse à l'accélérateur et au frein.
+
+Concernant les moteurs de l’inflation, Himino a souligné deux forces agissant dans la même direction. La demande mondiale croissante liée à l'IA fait grimper à la fois l'activité économique et les prix, a-t-il déclaré, soulignant les gains de prix à l'exportation japonais concentrés dans les puces mémoire, les instruments de précision et les équipements de fabrication de semi-conducteurs, avec des effets d'entraînement touchant des secteurs aussi variés que l'exploitation minière du cuivre et le tourisme récepteur. Par ailleurs, il a déclaré que la faiblesse du yen contribue également à faire grimper l'inflation, même si les conditions financières accommodantes continuent de fournir un large soutien à l'économie.
+
+Himino a également abordé le conflit au Moyen-Orient, l'un des quatre facteurs clés qu'il a identifiés comme déterminant les perspectives actuelles, aux côtés de la demande d'IA, du yen et des conditions financières. Il a déclaré que les inquiétudes concernant la perturbation de la chaîne d'approvisionnement avaient considérablement diminué, notant que le Japon avait obtenu en juillet près de 100 % de son pétrole brut requis par des canaux d'approvisionnement alternatifs, y compris une forte augmentation de l'approvisionnement en pétrole des États-Unis. Il a néanmoins noté que le conflit continue d'exercer une pression à la baisse sur l'activité économique tout en poussant les prix à la hausse, parallèlement à une nouvelle escalade des tensions en juillet.
+
+Dans l’ensemble, ce discours renforce l’image d’un conseil d’administration de la BoJ de plus en plus concentré sur le risque d’une inflation persistante au-dessus de l’objectif, plutôt que sur le risque d’un resserrement prématuré qui ferait dérailler la reprise, un changement d’orientation qui est susceptible de maintenir vivantes les attentes du marché quant à de nouvelles hausses des taux directeurs dans les mois à venir.
+
+
+================================================================================
+TITRE : Récapitulatif : Himino de la BoJ appelle à des hausses de taux « opportunes » pour freiner l'inflation
+DATE  : 27-08-2026 02:43 UTC
+URL   : https://investinglive.com/central-banks/recap-boj-s-himino-calls-for-timely-rate-hikes-to-curb-inflation/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Himino, le responsable de la BoJ, ne fera aucun commentaire sur les attentes du marché concernant la hausse des taux
+DATE  : 27-08-2026 05:12 UTC
+URL   : https://investinglive.com/central-banks/boj-policymaker-himino-says-won-t-comment-on-market-expectations-on-rate-hike/
+================================================================================
+
+Avertissement sur les risques élevés : les opérations de change comportent un niveau de risque élevé qui peut ne pas convenir à tous les investisseurs. L’effet de levier crée une exposition supplémentaire aux risques et aux pertes. Avant de décider de négocier des devises, examinez attentivement vos objectifs d'investissement, votre niveau d'expérience et votre tolérance au risque. Vous pourriez perdre une partie ou la totalité de votre investissement initial ; n’investissez pas d’argent que vous ne pouvez pas vous permettre de perdre. Renseignez-vous sur les risques liés aux opérations de change et demandez conseil à un conseiller financier ou fiscal indépendant si vous avez des questions.
+
+Avertissement consultatif : investirLive n'est pas un conseiller en investissement, investirLive fournit des références et des liens vers des actualités sélectionnées, des blogs et d'autres sources d'informations économiques et de marché à des fins d'information et en tant que service éducatif à ses clients et prospects et n'approuve pas les opinions ou recommandations des blogs ou d'autres sources d'information. Il est conseillé aux clients et prospects d'examiner attentivement les opinions et analyses proposées dans les blogs ou autres sources d'informations dans le contexte de l'analyse et de la prise de décision individuelles du client ou du prospect. Aucun des blogs ou autres sources d'information ne peut être considéré comme constituant un historique. Les performances passées ne constituent aucune garantie des résultats futurs et InvestingLive recommande spécifiquement par la présente aux clients et prospects d'examiner attentivement toutes les réclamations et représentations faites par les conseillers, blogueurs, gestionnaires de fonds et fournisseurs de systèmes avant d'investir des fonds ou d'ouvrir un compte auprès d'un courtier Forex. Toutes les nouvelles, opinions, recherches, données ou autres informations contenues dans ce site Web sont fournies « telles quelles » en tant que commentaire général du marché et ne constituent pas des conseils d'investissement ou de trading, et nous ne prétendons pas présenter l'intégralité des informations publiques pertinentes ou disponibles concernant un marché ou un titre spécifique. investLive décline expressément toute responsabilité pour toute perte de capital ou de bénéfices pouvant découler directement ou indirectement de l'utilisation ou de la confiance accordée à ces informations, ou en ce qui concerne le contenu présenté sur son site Web, ni ses choix éditoriaux.
+
+Avertissement : InvestingLive peut être rémunéré par les annonceurs qui apparaissent sur le site Web, en fonction de votre interaction avec les publicités ou les annonceurs.
+
+
+================================================================================
+TITRE : Warsh va-t-il jouer cool et laisser Bessent prendre le volant pour le moment ?
+DATE  : 27-08-2026 07:25 UTC
+URL   : https://investinglive.com/central-banks/will-warsh-play-it-cool-and-let-bessent-take-the-wheel-for-now/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Radev de la BCE affirme que les réunions d'octobre et de décembre restent "en direct", la politique devant être guidée par les données économiques
+DATE  : 27-08-2026 09:46 UTC
+URL   : https://investinglive.com/central-banks/ecb-s-radev-says-october-and-december-meetings-remain-live-policy-to-be-guided-by-economic-data/
+================================================================================
+
+Avertissement sur les risques élevés : les opérations de change comportent un niveau de risque élevé qui peut ne pas convenir à tous les investisseurs. L’effet de levier crée une exposition supplémentaire aux risques et aux pertes. Avant de décider de négocier des devises, examinez attentivement vos objectifs d'investissement, votre niveau d'expérience et votre tolérance au risque. Vous pourriez perdre une partie ou la totalité de votre investissement initial ; n’investissez pas d’argent que vous ne pouvez pas vous permettre de perdre. Renseignez-vous sur les risques liés aux opérations de change et demandez conseil à un conseiller financier ou fiscal indépendant si vous avez des questions.
+
+Avertissement consultatif : investirLive n'est pas un conseiller en investissement, investirLive fournit des références et des liens vers des actualités sélectionnées, des blogs et d'autres sources d'informations économiques et de marché à des fins d'information et en tant que service éducatif à ses clients et prospects et n'approuve pas les opinions ou recommandations des blogs ou d'autres sources d'information. Il est conseillé aux clients et prospects d'examiner attentivement les opinions et analyses proposées dans les blogs ou autres sources d'informations dans le contexte de l'analyse et de la prise de décision individuelles du client ou du prospect. Aucun des blogs ou autres sources d'information ne peut être considéré comme constituant un historique. Les performances passées ne constituent aucune garantie des résultats futurs et InvestingLive recommande spécifiquement par la présente aux clients et prospects d'examiner attentivement toutes les réclamations et représentations faites par les conseillers, blogueurs, gestionnaires de fonds et fournisseurs de systèmes avant d'investir des fonds ou d'ouvrir un compte auprès d'un courtier Forex. Toutes les nouvelles, opinions, recherches, données ou autres informations contenues dans ce site Web sont fournies « telles quelles » en tant que commentaire général du marché et ne constituent pas des conseils d'investissement ou de trading, et nous ne prétendons pas présenter l'intégralité des informations publiques pertinentes ou disponibles concernant un marché ou un titre spécifique. investLive décline expressément toute responsabilité pour toute perte de capital ou de bénéfices pouvant découler directement ou indirectement de l'utilisation ou de la confiance accordée à ces informations, ou en ce qui concerne le contenu présenté sur son site Web, ni ses choix éditoriaux.
+
+Avertissement : InvestingLive peut être rémunéré par les annonceurs qui apparaissent sur le site Web, en fonction de votre interaction avec les publicités ou les annonceurs.
+
+
+================================================================================
+TITRE : Les décideurs politiques ont conclu que les risques pesant sur les perspectives d'inflation étaient orientés à la hausse (comptes de la BCE)
+DATE  : 27-08-2026 11:41 UTC
+URL   : https://investinglive.com/central-banks/policymakers-concluded-that-risks-to-the-inflation-outlook-are-tilted-to-the-upside-ecb-accounts/
+================================================================================
+
+Avertissement sur les risques élevés : les opérations de change comportent un niveau de risque élevé qui peut ne pas convenir à tous les investisseurs. L’effet de levier crée une exposition supplémentaire aux risques et aux pertes. Avant de décider de négocier des devises, examinez attentivement vos objectifs d'investissement, votre niveau d'expérience et votre tolérance au risque. Vous pourriez perdre une partie ou la totalité de votre investissement initial ; n’investissez pas d’argent que vous ne pouvez pas vous permettre de perdre. Renseignez-vous sur les risques liés aux opérations de change et demandez conseil à un conseiller financier ou fiscal indépendant si vous avez des questions.
+
+Avertissement consultatif : investirLive n'est pas un conseiller en investissement, investirLive fournit des références et des liens vers des actualités sélectionnées, des blogs et d'autres sources d'informations économiques et de marché à des fins d'information et en tant que service éducatif à ses clients et prospects et n'approuve pas les opinions ou recommandations des blogs ou d'autres sources d'information. Il est conseillé aux clients et prospects d'examiner attentivement les opinions et analyses proposées dans les blogs ou autres sources d'informations dans le contexte de l'analyse et de la prise de décision individuelles du client ou du prospect. Aucun des blogs ou autres sources d'information ne peut être considéré comme constituant un historique. Les performances passées ne constituent aucune garantie des résultats futurs et InvestingLive recommande spécifiquement par la présente aux clients et prospects d'examiner attentivement toutes les réclamations et représentations faites par les conseillers, blogueurs, gestionnaires de fonds et fournisseurs de systèmes avant d'investir des fonds ou d'ouvrir un compte auprès d'un courtier Forex. Toutes les nouvelles, opinions, recherches, données ou autres informations contenues dans ce site Web sont fournies « telles quelles » en tant que commentaire général du marché et ne constituent pas des conseils d'investissement ou de trading, et nous ne prétendons pas présenter l'intégralité des informations publiques pertinentes ou disponibles concernant un marché ou un titre spécifique. investLive décline expressément toute responsabilité pour toute perte de capital ou de bénéfices pouvant découler directement ou indirectement de l'utilisation ou de la confiance accordée à ces informations, ou en ce qui concerne le contenu présenté sur son site Web, ni ses choix éditoriaux.
+
+Avertissement : InvestingLive peut être rémunéré par les annonceurs qui apparaissent sur le site Web, en fonction de votre interaction avec les publicités ou les annonceurs.
+
+
+================================================================================
+TITRE : Schmid de la Fed affirme que les taux d'intérêt actuels ne freinent pas l'économie, la crédibilité étant intacte
+DATE  : 27-08-2026 12:04 UTC
+URL   : https://investinglive.com/central-banks/fed-s-schmid-says-current-interest-rates-are-not-restraining-the-economy-credibility-intact/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Goolsbee de la Fed : la plus grande crainte à court terme est que l'inflation ne soit pas maîtrisée
+DATE  : 27-08-2026 12:27 UTC
+URL   : https://investinglive.com/central-banks/fed-s-goolsbee-biggest-short-run-fear-is-that-inflation-isn-t-under-control/
+================================================================================
+
+Avertissement sur les risques élevés : les opérations de change comportent un niveau de risque élevé qui peut ne pas convenir à tous les investisseurs. L’effet de levier crée une exposition supplémentaire aux risques et aux pertes. Avant de décider de négocier des devises, examinez attentivement vos objectifs d'investissement, votre niveau d'expérience et votre tolérance au risque. Vous pourriez perdre une partie ou la totalité de votre investissement initial ; n’investissez pas d’argent que vous ne pouvez pas vous permettre de perdre. Renseignez-vous sur les risques liés aux opérations de change et demandez conseil à un conseiller financier ou fiscal indépendant si vous avez des questions.
+
+Avertissement consultatif : investirLive n'est pas un conseiller en investissement, investirLive fournit des références et des liens vers des actualités sélectionnées, des blogs et d'autres sources d'informations économiques et de marché à des fins d'information et en tant que service éducatif à ses clients et prospects et n'approuve pas les opinions ou recommandations des blogs ou d'autres sources d'information. Il est conseillé aux clients et prospects d'examiner attentivement les opinions et analyses proposées dans les blogs ou autres sources d'informations dans le contexte de l'analyse et de la prise de décision individuelles du client ou du prospect. Aucun des blogs ou autres sources d'information ne peut être considéré comme constituant un historique. Les performances passées ne constituent aucune garantie des résultats futurs et InvestingLive recommande spécifiquement par la présente aux clients et prospects d'examiner attentivement toutes les réclamations et représentations faites par les conseillers, blogueurs, gestionnaires de fonds et fournisseurs de systèmes avant d'investir des fonds ou d'ouvrir un compte auprès d'un courtier Forex. Toutes les nouvelles, opinions, recherches, données ou autres informations contenues dans ce site Web sont fournies « telles quelles » en tant que commentaire général du marché et ne constituent pas des conseils d'investissement ou de trading, et nous ne prétendons pas présenter l'intégralité des informations publiques pertinentes ou disponibles concernant un marché ou un titre spécifique. investLive décline expressément toute responsabilité pour toute perte de capital ou de bénéfices pouvant découler directement ou indirectement de l'utilisation ou de la confiance accordée à ces informations, ou en ce qui concerne le contenu présenté sur son site Web, ni ses choix éditoriaux.
+
+Avertissement : InvestingLive peut être rémunéré par les annonceurs qui apparaissent sur le site Web, en fonction de votre interaction avec les publicités ou les annonceurs.
+
+
+================================================================================
+TITRE : Hammack de la Fed : il est approprié de faire preuve d'une certaine retenue sur les taux
+DATE  : 27-08-2026 14:25 UTC
+URL   : https://investinglive.com/central-banks/fed-s-hammack-it-s-appropriate-to-put-some-restraint-into-rates/
+================================================================================
+
+Avertissement sur les risques élevés : les opérations de change comportent un niveau de risque élevé qui peut ne pas convenir à tous les investisseurs. L’effet de levier crée une exposition supplémentaire aux risques et aux pertes. Avant de décider de négocier des devises, examinez attentivement vos objectifs d'investissement, votre niveau d'expérience et votre tolérance au risque. Vous pourriez perdre une partie ou la totalité de votre investissement initial ; n’investissez pas d’argent que vous ne pouvez pas vous permettre de perdre. Renseignez-vous sur les risques liés aux opérations de change et demandez conseil à un conseiller financier ou fiscal indépendant si vous avez des questions.
+
+Avertissement consultatif : investirLive n'est pas un conseiller en investissement, investirLive fournit des références et des liens vers des actualités sélectionnées, des blogs et d'autres sources d'informations économiques et de marché à des fins d'information et en tant que service éducatif à ses clients et prospects et n'approuve pas les opinions ou recommandations des blogs ou d'autres sources d'information. Il est conseillé aux clients et prospects d'examiner attentivement les opinions et analyses proposées dans les blogs ou autres sources d'informations dans le contexte de l'analyse et de la prise de décision individuelles du client ou du prospect. Aucun des blogs ou autres sources d'information ne peut être considéré comme constituant un historique. Les performances passées ne constituent aucune garantie des résultats futurs et InvestingLive recommande spécifiquement par la présente aux clients et prospects d'examiner attentivement toutes les réclamations et représentations faites par les conseillers, blogueurs, gestionnaires de fonds et fournisseurs de systèmes avant d'investir des fonds ou d'ouvrir un compte auprès d'un courtier Forex. Toutes les nouvelles, opinions, recherches, données ou autres informations contenues dans ce site Web sont fournies « telles quelles » en tant que commentaire général du marché et ne constituent pas des conseils d'investissement ou de trading, et nous ne prétendons pas présenter l'intégralité des informations publiques pertinentes ou disponibles concernant un marché ou un titre spécifique. investLive décline expressément toute responsabilité pour toute perte de capital ou de bénéfices pouvant découler directement ou indirectement de l'utilisation ou de la confiance accordée à ces informations, ou en ce qui concerne le contenu présenté sur son site Web, ni ses choix éditoriaux.
+
+Avertissement : InvestingLive peut être rémunéré par les annonceurs qui apparaissent sur le site Web, en fonction de votre interaction avec les publicités ou les annonceurs.
+
+
+================================================================================
+TITRE : Hammack de la Fed : l'inflation pourrait baisser l'année prochaine à environ 2,5% au mieux
+DATE  : 27-08-2026 17:17 UTC
+URL   : https://investinglive.com/central-banks/fed-s-hammack-next-year-inflation-might-ease-to-around-2-5-at-best/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Collins de la Fed : en l'absence de nouveaux tarifs douaniers et de chocs pétroliers, il y a des raisons de croire que l'inflation va ralentir
+DATE  : 27-08-2026 18:02 UTC
+URL   : https://investinglive.com/central-banks/fed-s-collins-absent-new-tariff-and-oil-shocks-there-is-reason-to-believe-inflation-will-ease/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Récapitulatif : les responsables de la Fed signalent les risques d'inflation à l'approche des débuts de Warsh à Jackson Hole
+DATE  : 27-08-2026 21:19 UTC
+URL   : https://investinglive.com/central-banks/recap-fed-officials-flag-inflation-risks-in-run-up-to-warsh-s-jackson-hole-debut/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : La confiance des consommateurs néo-zélandais reste quasiment stable alors que les ménages se préparent à la décision de la RBNZ
+DATE  : 27-08-2026 22:26 UTC
+URL   : https://investinglive.com/central-banks/nz-consumer-confidence-holds-near-flat-as-households-brace-for-rbnz-decision/
+================================================================================
+
+Le chiffre quasi stable du mois d'août donne à la RBNZ peu de signal nouveau avant sa déclaration de politique monétaire du 2 septembre, où les économistes sont largement partagés entre un maintien et une nouvelle hausse de 25 points de base à 2,75 %. Les attentes d’inflation des ménages se sont maintenues à 4,7 %, un chiffre toujours élevé par rapport à l’objectif et peu susceptible d’influencer à lui seul le Comité. L’indice des conditions actuelles plus faibles indique que les pressions persistantes liées aux chocs pétroliers antérieurs ont été exercées, même si les perspectives sur cinq ans ont atteint leur meilleur niveau depuis mai 2021, ce qui suggère que les ménages considèrent les pressions actuelles comme temporaires plutôt que structurelles.
+
+---
+
+Les ménages néo-zélandais restent prudents mais de plus en plus optimistes quant aux années à venir, un contexte plus stable pour la RBNZ alors qu'elle envisage un maintien ou une hausse le 2 septembre.
+
+Résumé :
+
+La confiance des consommateurs néo-zélandais s'est légèrement détendue en août, se maintenant sous la barre neutre de 100, mais bien loin de son plus bas d'avril, alors que les ménages continuent de surmonter les conséquences du choc des prix pétroliers, même si l'optimisme à long terme s'améliore. Les données arrivent quelques jours avant la déclaration de politique monétaire de la Banque de réserve du 2 septembre, où le Comité est confronté à un choix véritablement contesté entre le maintien du taux officiel et une nouvelle hausse.
+
+L'indice global a glissé de 1 point à 98,0. Les conditions actuelles se sont assouplies, passant de 88,5 à 83,4, tandis que les conditions futures ont augmenté à 107,7, élargissant l'écart entre ce que ressentent les ménages maintenant et ce qu'ils attendent pour l'avenir. 21% nets ont déclaré que leur situation était pire qu'il y a un an, même si 22% nets s'attendent à une meilleure situation l'année prochaine, ce qui constitue le chiffre le plus élevé depuis janvier. Les perspectives sur cinq ans ont atteint +13 %, son meilleur niveau depuis mai 2021, ce qui suggère que les ménages considèrent de plus en plus les difficultés récentes comme temporaires.
+
+Les anticipations d'inflation à deux ans se sont maintenues à 4,7%, toujours bien au-dessus de l'objectif, tandis que les attentes en matière de prix de l'immobilier se sont légèrement assouplies. ANZ a attribué une partie de l'atonie du sentiment actuel à la hausse des prix de l'essence en août, bien que ceux-ci se soient stabilisés depuis, et a noté que les dépenses discrétionnaires par carte avaient tendance à augmenter à mesure que les perturbations au Moyen-Orient s'estompent.
+
+La Banque de réserve a relevé l'OCR à 2,50 % en juillet par consensus, après avoir constaté un relâchement des pressions inflationnistes à court terme suite à une réouverture partielle d'Ormuz. Les économistes restent divisés en septembre, partagés entre une nouvelle hausse de 25 points de base à 2,75% et un maintien, une tension reflétée dans les données de ce mois-ci entre prudence à court terme et optimisme à long terme.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 28-08-2026 00:17 UTC
+URL   : https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7-reuters-estimate-7/
+================================================================================
+
+Avertissement sur les risques élevés : les opérations de change comportent un niveau de risque élevé qui peut ne pas convenir à tous les investisseurs. L’effet de levier crée une exposition supplémentaire aux risques et aux pertes. Avant de décider de négocier des devises, examinez attentivement vos objectifs d'investissement, votre niveau d'expérience et votre tolérance au risque. Vous pourriez perdre une partie ou la totalité de votre investissement initial ; n’investissez pas d’argent que vous ne pouvez pas vous permettre de perdre. Renseignez-vous sur les risques liés aux opérations de change et demandez conseil à un conseiller financier ou fiscal indépendant si vous avez des questions.
+
+Avertissement consultatif : investirLive n'est pas un conseiller en investissement, investirLive fournit des références et des liens vers des actualités sélectionnées, des blogs et d'autres sources d'informations économiques et de marché à des fins d'information et en tant que service éducatif à ses clients et prospects et n'approuve pas les opinions ou recommandations des blogs ou d'autres sources d'information. Il est conseillé aux clients et prospects d'examiner attentivement les opinions et analyses proposées dans les blogs ou autres sources d'informations dans le contexte de l'analyse et de la prise de décision individuelles du client ou du prospect. Aucun des blogs ou autres sources d'information ne peut être considéré comme constituant un historique. Les performances passées ne constituent aucune garantie des résultats futurs et InvestingLive recommande spécifiquement par la présente aux clients et prospects d'examiner attentivement toutes les réclamations et représentations faites par les conseillers, blogueurs, gestionnaires de fonds et fournisseurs de systèmes avant d'investir des fonds ou d'ouvrir un compte auprès d'un courtier Forex. Toutes les nouvelles, opinions, recherches, données ou autres informations contenues dans ce site Web sont fournies « telles quelles » en tant que commentaire général du marché et ne constituent pas des conseils d'investissement ou de trading, et nous ne prétendons pas présenter l'intégralité des informations publiques pertinentes ou disponibles concernant un marché ou un titre spécifique. investLive décline expressément toute responsabilité pour toute perte de capital ou de bénéfices pouvant découler directement ou indirectement de l'utilisation ou de la confiance accordée à ces informations, ou en ce qui concerne le contenu présenté sur son site Web, ni ses choix éditoriaux.
+
+Avertissement : InvestingLive peut être rémunéré par les annonceurs qui apparaissent sur le site Web, en fonction de votre interaction avec les publicités ou les annonceurs.
+
+
+================================================================================
+TITRE : Voici l'agenda complet du symposium de la Fed de Jackson Hole
+DATE  : 28-08-2026 00:40 UTC
+URL   : https://investinglive.com/central-banks/here-s-the-full-agenda-for-the-jackson-hole-fed-symposium/
+================================================================================
+
+Avertissement sur les risques élevés : les opérations de change comportent un niveau de risque élevé qui peut ne pas convenir à tous les investisseurs. L’effet de levier crée une exposition supplémentaire aux risques et aux pertes. Avant de décider de négocier des devises, examinez attentivement vos objectifs d'investissement, votre niveau d'expérience et votre tolérance au risque. Vous pourriez perdre une partie ou la totalité de votre investissement initial ; n’investissez pas d’argent que vous ne pouvez pas vous permettre de perdre. Renseignez-vous sur les risques liés aux opérations de change et demandez conseil à un conseiller financier ou fiscal indépendant si vous avez des questions.
+
+Avertissement consultatif : investirLive n'est pas un conseiller en investissement, investirLive fournit des références et des liens vers des actualités sélectionnées, des blogs et d'autres sources d'informations économiques et de marché à des fins d'information et en tant que service éducatif à ses clients et prospects et n'approuve pas les opinions ou recommandations des blogs ou d'autres sources d'information. Il est conseillé aux clients et prospects d'examiner attentivement les opinions et analyses proposées dans les blogs ou autres sources d'informations dans le contexte de l'analyse et de la prise de décision individuelles du client ou du prospect. Aucun des blogs ou autres sources d'information ne peut être considéré comme constituant un historique. Les performances passées ne constituent aucune garantie des résultats futurs et InvestingLive recommande spécifiquement par la présente aux clients et prospects d'examiner attentivement toutes les réclamations et représentations faites par les conseillers, blogueurs, gestionnaires de fonds et fournisseurs de systèmes avant d'investir des fonds ou d'ouvrir un compte auprès d'un courtier Forex. Toutes les nouvelles, opinions, recherches, données ou autres informations contenues dans ce site Web sont fournies « telles quelles » en tant que commentaire général du marché et ne constituent pas des conseils d'investissement ou de trading, et nous ne prétendons pas présenter l'intégralité des informations publiques pertinentes ou disponibles concernant un marché ou un titre spécifique. investLive décline expressément toute responsabilité pour toute perte de capital ou de bénéfices pouvant découler directement ou indirectement de l'utilisation ou de la confiance accordée à ces informations, ou en ce qui concerne le contenu présenté sur son site Web, ni ses choix éditoriaux.
+
+Avertissement : InvestingLive peut être rémunéré par les annonceurs qui apparaissent sur le site Web, en fonction de votre interaction avec les publicités ou les annonceurs.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 28-08-2026 01:15 UTC
+URL   : https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7-vs-estimate-at-6-7208/
+================================================================================
+
+Avertissement sur les risques élevés : les opérations de change comportent un niveau de risque élevé qui peut ne pas convenir à tous les investisseurs. L’effet de levier crée une exposition supplémentaire aux risques et aux pertes. Avant de décider de négocier des devises, examinez attentivement vos objectifs d'investissement, votre niveau d'expérience et votre tolérance au risque. Vous pourriez perdre une partie ou la totalité de votre investissement initial ; n’investissez pas d’argent que vous ne pouvez pas vous permettre de perdre. Renseignez-vous sur les risques liés aux opérations de change et demandez conseil à un conseiller financier ou fiscal indépendant si vous avez des questions.
+
+Avertissement consultatif : investirLive n'est pas un conseiller en investissement, investirLive fournit des références et des liens vers des actualités sélectionnées, des blogs et d'autres sources d'informations économiques et de marché à des fins d'information et en tant que service éducatif à ses clients et prospects et n'approuve pas les opinions ou recommandations des blogs ou d'autres sources d'information. Il est conseillé aux clients et prospects d'examiner attentivement les opinions et analyses proposées dans les blogs ou autres sources d'informations dans le contexte de l'analyse et de la prise de décision individuelles du client ou du prospect. Aucun des blogs ou autres sources d'information ne peut être considéré comme constituant un historique. Les performances passées ne constituent aucune garantie des résultats futurs et InvestingLive recommande spécifiquement par la présente aux clients et prospects d'examiner attentivement toutes les réclamations et représentations faites par les conseillers, blogueurs, gestionnaires de fonds et fournisseurs de systèmes avant d'investir des fonds ou d'ouvrir un compte auprès d'un courtier Forex. Toutes les nouvelles, opinions, recherches, données ou autres informations contenues dans ce site Web sont fournies « telles quelles » en tant que commentaire général du marché et ne constituent pas des conseils d'investissement ou de trading, et nous ne prétendons pas présenter l'intégralité des informations publiques pertinentes ou disponibles concernant un marché ou un titre spécifique. investLive décline expressément toute responsabilité pour toute perte de capital ou de bénéfices pouvant découler directement ou indirectement de l'utilisation ou de la confiance accordée à ces informations, ou en ce qui concerne le contenu présenté sur son site Web, ni ses choix éditoriaux.
+
+Avertissement : InvestingLive peut être rémunéré par les annonceurs qui apparaissent sur le site Web, en fonction de votre interaction avec les publicités ou les annonceurs.
+
+
+================================================================================
+TITRE : Aperçu : La vigueur de l'inflation et de la croissance laisse présager un nouveau resserrement de la RBNZ, selon la BNZ
+DATE  : 28-08-2026 02:00 UTC
+URL   : https://investinglive.com/central-banks/preview-inflation-and-growth-strength-point-to-further-rbnz-tightening-bnz-says/
+================================================================================
+
+Alors que les marchés évaluent déjà une probabilité de hausse de 94%, la décision de septembre elle-même comporte un potentiel de surprise limité, l'accent étant mis sur la manière dont la RBNZ trace la voie à suivre. La prévision d'inflation de 3,7% de la BNZ pour le trimestre de septembre, bien au-dessus de la prévision de 3,3% de la RBNZ pour juillet, indique un écart croissant qui pourrait imposer des orientations plus agressives que ce que les marchés attendent actuellement. La question clé en matière de prix est de savoir si octobre et décembre comportent tous deux un risque de hausse réelle, les contrats à terme ne reflétant actuellement qu'un seul mouvement supplémentaire au cours de ces deux réunions.
+
+La BNZ affirme qu'un relèvement lors de la réunion du 2 septembre est pour l'essentiel verrouillé, mais estime que la RBNZ devra finalement resserrer davantage et plus rapidement que ne le suggèrent actuellement ses propres prévisions.
+
+Résumé :
+
+La BNZ s'attend à ce que la Banque de réserve de Nouvelle-Zélande relève le taux officiel de 25 points de base à 2,75 % lors de sa prochaine déclaration de politique monétaire de septembre, décrivant cette décision comme étant effectivement une affaire accomplie étant donné que les marchés évaluent déjà une probabilité de 94 %. La BNZ s'attend à ce que la RBNZ signale que de nouvelles augmentations sont probables jusqu'à ce que le taux au comptant atteigne ou dépasse la neutralité, avec un pic publié d'environ 3,5 %. Cependant, selon l'opinion de la BNZ, le taux au comptant augmentera finalement de 25 points de base à chaque réunion pour atteindre 4,0 % d'ici mai 2027.
+
+La BNZ a signalé des risques dans les deux sens, même si elle juge les risques à la baisse un peu plus importants, notamment une potentielle récession provoquée par El Niño, des retards dans la reprise liés aux élections et une correction plus large des prix des actifs mondiaux. Du côté positif, il a souligné la possibilité que les pressions inflationnistes structurelles continuent de s’accentuer quelles que soient les réponses des banques centrales.
+
+Au cœur du point de vue de la BNZ se trouve le discours de la RBNZ de juillet selon lequel une nouvelle réduction des mesures de relance monétaire était probablement nécessaire pour ramener l'inflation à son objectif. La BNZ s'attend à ce que l'inflation reste au-dessus de la fourchette cible jusqu'à la mi-2027, prévoyant un IPC annuel de 3,7 % pour le trimestre de septembre, bien au-dessus de la prévision de 3,3 % de la RBNZ, avec une croissance également au moins aussi forte que prévu. Les prix du pétrole, bien qu'en dessous de leur sommet, ont augmenté de 12 % juste avant le commentaire de juillet de la RBNZ, sapant une partie du confort désinflationniste sur lequel la banque centrale avait fait appel.
+
+Sur le marché du travail, la BNZ a déclaré que la seule raison plausible pour laquelle la RBNZ ferait une pause serait un chômage plus élevé, mais avec une croissance de l'emploi et des salaires un peu plus forte que prévu, elle considère cela comme une raison insuffisante pour hésiter. La BNZ s'attend à ce que les données de vendredi montrent une hausse de 0,4% de l'emploi au troisième trimestre, un sommet sur 11 trimestres, suffisamment pour stopper la hausse du chômage. Les ventes au détail au deuxième trimestre ont chuté de 0,5% en rythme trimestriel, ralentissant la croissance annuelle à 3,3%, même si les ventes de base hors automobiles ont encore augmenté de 0,7%, la BNZ s'attendant à un certain rebond au cours du trimestre de septembre alors que les coûts du carburant continuent de reculer.
+
+
+================================================================================
+TITRE : Aperçu de Jackson Hole : le président de la Fed Warsh sautera probablement les signaux de taux de septembre et décembre
+DATE  : 28-08-2026 02:38 UTC
+URL   : https://investinglive.com/central-banks/jackson-hole-preview-fed-chair-warsh-likely-to-skip-september-and-december-rate-signals/
+================================================================================
+
+Si la lecture de Morgan Stanley s'avère correcte, les traders espérant des signaux explicites sur un mouvement de septembre ou sur la trajectoire des taux de fin d'année pourraient être déçus, réduisant ainsi les chances d'une forte réévaluation directionnelle immédiatement après le discours. Au lieu de cela, l'attention du marché pourrait se tourner vers l'analyse du ton de Warsh sur les cinq domaines du groupe de travail, la politique de bilan, le cadre d'inflation, les communications de la Fed, l'IA et la productivité, et la qualité des données, pour obtenir des indices à plus long terme sur la manière dont il entend remodeler l'institution. Un discours axé sur l'orientation stratégique plutôt que sur les orientations à court terme pourrait laisser les prix des taux à court terme largement ancrés dans les publications de données entrantes plutôt que dans le discours lui-même.
+
+---
+
+Oui, l'aperçu de Morgan Stanley me semble logique. Il semble évident qu'il resterait silencieux sur les conseils :
+
+D’autres responsables sont cependant heureux de vous guider :
+
+La bouche de Warsh s'ouvre à 10 heures du matin, heure de l'Est des États-Unis :
+
+---
+
+Morgan Stanley pense que le discours de Warsh à Jackson Hole portera sur la direction qu'il souhaite prendre à long terme pour la Fed, et non sur ce qu'elle fera le mois prochain.
+
+Résumé :
+
+Morgan Stanley ne s'attend pas à ce que le président de la Fed, Kevin Warsh, donne des orientations substantielles sur les taux d'intérêt à court terme lors de son discours à Jackson Hole, selon l'économiste en chef américain de la banque Michael Gapen et le responsable mondial de la stratégie macroéconomique Matthew Hornbach. Leur point de vue repose en grande partie sur la position publique antérieure de Warsh, appelant la Réserve fédérale à réduire le volume de ses communications et à s'abstenir de fournir des orientations prospectives explicites, une préférence que Morgan Stanley espère façonner la manière dont il abordera son premier discours majeur en tant que président.
+
+Plus précisément, les stratèges de la banque estiment qu'il est peu probable que Warsh se concentre sur les choix politiques à court terme dont les marchés sont les plus impatients d'entendre parler, notamment si la Fed agira lors de sa réunion de septembre, où les taux devraient rester stables d'ici décembre, si la prochaine décision de la Fed cette année est une hausse ou une réduction, et tout ajustement à court terme du bilan de la banque centrale. Cela représenterait une rupture avec le modèle suivi par certains présidents de la Fed à Jackson Hole, utilisant la plateforme pour signaler des changements de politique à venir ou renforcer les attentes du marché autour de la prochaine réunion.
+
+Au lieu de cela, Morgan Stanley s'attend à ce que Warsh oriente ses remarques vers des problèmes structurels à plus long terme, dont plusieurs correspondent directement aux groupes de travail qu'il a établis depuis qu'il a pris ses fonctions. Il s'agit notamment du bilan de la Fed de manière plus générale, du cadre de ciblage de l'inflation de la banque centrale, de la manière dont la Fed communique avec les marchés et le public, de l'intersection de l'intelligence artificielle et de la croissance de la productivité, et de la qualité des données économiques américaines utilisées pour éclairer les décisions politiques. Chacun de ces domaines renvoie à des questions institutionnelles et structurelles plutôt qu'à l'évolution immédiate des taux, renforçant ainsi le cadre général du discours de Morgan Stanley.
+
+L'interprétation principale de la banque est que le discours d'ouverture de cette année est plus susceptible de fonctionner comme une déclaration de l'orientation stratégique que Warsh a l'intention de donner à la Réserve fédérale, plutôt que comme une occasion de résoudre les questions concernant le calendrier politique à court terme. Pour les marchés positionnés pour des signaux explicites sur la décision de septembre ou sur la forme de la trajectoire des taux de fin d'année, le point de vue de Morgan Stanley suggère que ces signaux pourraient ne pas se matérialiser directement à partir du discours lui-même, les enseignements les plus significatifs étant susceptibles de concerner la manière dont Warsh a l'intention de remodeler l'approche de l'institution en matière de communication, son bilan et son cadre analytique plus large à moyen et long terme.
+
+Comment les marchés seront laissés.
+
+
+================================================================================
+TITRE : La faiblesse du yen revient au centre de l'attention alors que Katayama et Ueda se dirigent vers la réunion du G20
+DATE  : 28-08-2026 02:56 UTC
+URL   : https://investinglive.com/central-banks/yen-weakness-back-in-focus-as-katayama-ueda-head-to-g20-meeting/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 28-08-2026 03:09 UTC
+URL   : https://investinglive.com/central-banks/90-of-economists-expect-rbnz-hike-on-september-2-poll-shows/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 28-08-2026 07:57 UTC
+URL   : https://investinglive.com/central-banks/no-guidance-from-jackson-hole/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 28-08-2026 13:08 UTC
+URL   : https://investinglive.com/central-banks/fed-s-hammack-it-s-time-to-act-with-rate-hikes-waiting-will-create-pain/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 28-08-2026 14:00 UTC
+URL   : https://investinglive.com/central-banks/fed-s-warsh-numbers-on-price-stability-are-more-concerning/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 28-08-2026 14:36 UTC
+URL   : https://investinglive.com/central-banks/us-dollar-climbs-as-the-market-sees-a-rising-chance-of-a-fed-hike/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 28-08-2026 16:46 UTC
+URL   : https://investinglive.com/central-banks/fed-s-goolsbee-agrees-with-warsh-that-inflation-is-fed-s-main-issue-right-now/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 30-08-2026 21:08 UTC
+URL   : https://investinglive.com/central-banks/new-week-catch-up-time-warsh-s-hawkish-jackson-hole-remarks-lift-rate-hike-odds-pressure-stocks/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 30-08-2026 22:16 UTC
+URL   : https://investinglive.com/central-banks/reserve-bank-of-new-zealand-shadow-board-split-most-back-25bp-rate-hike-this-week/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 30-08-2026 22:33 UTC
+URL   : https://investinglive.com/central-banks/bessent-says-yen-slide-is-contained-backs-ueda-ahead-of-g20-talks/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 30-08-2026 23:33 UTC
+URL   : https://investinglive.com/central-banks/preview-path-of-least-resistance-asb-expects-consensus-rbnz-hike-this-week/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 31-08-2026 00:22 UTC
+URL   : https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7344-reuters-estimate/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 31-08-2026 00:26 UTC
+URL   : https://investinglive.com/central-banks/goldman-sachs-still-sees-fed-on-hold-despite-warsh-s-hawkish-jackson-hole-tone/
+================================================================================
+
+L'analyse de Goldman s'oppose à la réaction la plus vive du marché aux remarques de Warsh à Jackson Hole, arguant que la barre pour une hausse des taux en septembre est plus haute que la hausse initiale des chances de hausse des taux implicite. Si Hatzius a raison de dire que l'IPC et le PCE de base s'afficheront autour de 0,2 pour cent pour le mois d'août, cela serait globalement cohérent avec la tendance récente de l'inflation plutôt qu'avec l'accélération que Warsh a signalée qu'il avait besoin de voir, décevant probablement les traders qui avaient poussé les probabilités de hausse à 60 pour cent sur le seul discours. Un résultat modéré sur les prochaines publications de l'IPC et de l'IPP verrait probablement l'extrémité avant de la courbe du Trésor retracer une partie de la hausse de vendredi et pourrait alléger la pression sur les actions qui ont chuté en raison des inquiétudes sur les taux. À l’inverse, toute surprise à la hausse dans les données sur l’inflation validerait le cadre de Warsh et augmenterait les probabilités que les marchés ont déjà commencé à évaluer, ce qui rendrait les deux points de données suivants inhabituellement conséquents pour la décision de septembre.
+
+---
+
+Plus tôt :
+
+---
+
+Goldman parie que la rhétorique belliciste de Warsh ne sera pas accompagnée de données bellicistes, gardant la Fed comme scénario de base.
+
+Résumé :
+
+Jan Hatzius, économiste en chef de Goldman Sachs, a déclaré que le discours de Kevin Warsh à Jackson Hole était sa prestation la plus belliciste à ce jour en tant que président de la Réserve fédérale, mais il estime que le changement de ton ne suffira probablement pas à lui seul à entraîner une hausse des taux le mois prochain. Dans une note adressée à ses clients, Hatzius a déclaré que Warsh avait clairement indiqué que sa principale préoccupation était de garantir que l'inflation sous-jacente revienne clairement et à une vitesse suffisante vers l'objectif de 2% de la Fed, avertissant qu'il y aurait encore du travail à faire si ce n'était pas le cas.
+
+Selon Hatzius, Warsh a également abordé directement la récente série de données d'inflation encourageantes, reconnaissant que les chiffres du PCE et de l'IPC de cet été étaient meilleurs que prévu, tout en arguant qu'ils n'indiquent pas encore une amélioration significative des tendances sous-jacentes des prix. Ce cadre, a écrit Hatzius, laisse la porte ouverte à une hausse en septembre, mais seulement si les prochains rapports de l'IPC et du PPI d'août surprennent à la hausse.
+
+Les propres prévisions de Goldman suggèrent que la barre ne sera pas franchie. Hatzius a déclaré que la banque continue de s'attendre à ce que l'inflation de base de l'IPC et de la PCE de base s'inscrive autour de 0,2% pour le mois d'août, un rythme que la société considère comme insuffisamment ferme pour justifier le type de réponse politique impliquée par les remarques de Warsh. Sur cette base, le scénario de base de Goldman reste que le Comité fédéral de l'Open Market maintiendra les taux inchangés lors de sa réunion de septembre.
+
+La note arrive juste au moment où les marchés recalibrent les probabilités d'une hausse en septembre suite au discours de Warsh, les contrats à terme sur les taux d'intérêt montrant un bond dans la probabilité implicite d'une hausse après ses remarques à Jackson Hole. L'analyse de Goldman suggère que la révision des prix pourrait s'avérer prématurée à moins que les données d'inflation elles-mêmes ne se raffermissent nettement au cours des prochaines semaines, ce qui ferait des publications de l'IPC et du PPI d'août un apport plus décisif à la décision de septembre que la seule rhétorique de Warsh.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 31-08-2026 01:16 UTC
+URL   : https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7828-vs-estimate-at-6-7344/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 31-08-2026 02:16 UTC
+URL   : https://investinglive.com/central-banks/bofa-says-warsh-s-jackson-hole-speech-raises-pressure-for-september-hike/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 31-08-2026 02:34 UTC
+URL   : https://investinglive.com/central-banks/a-pop-for-yen-despite-usd-jpy-weakening-earlier-past-160-as-warsh-s-hawkish-tone-clashes-with-bessent/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 31-08-2026 08:03 UTC
+URL   : https://investinglive.com/central-banks/swiss-bankers-expect-snb-to-maintain-zero-policy-rate-through-to-next-year/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 31-08-2026 21:10 UTC
+URL   : https://investinglive.com/central-banks/icymi-bessent-lists-reasons-fed-could-skip-a-september-hike-despite-warsh-remarks/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 31-08-2026 23:25 UTC
+URL   : https://investinglive.com/central-banks/bessent-met-ueda-katayama-at-g20-pushed-for-boj-hikes-nhk-reports/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 01-09-2026 00:16 UTC
+URL   : https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7170-reuters-estimate/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 01-09-2026 01:15 UTC
+URL   : https://investinglive.com/central-banks/pboc-sets-usd-cny-central-rate-at-7-vs-estimate-at-7-170/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 01-09-2026 03:21 UTC
+URL   : https://investinglive.com/central-banks/preview-westpac-sees-rbnz-hiking-ocr-to-2-75-tomorrow-data-dependent-from-there/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 01-09-2026 13:05 UTC
+URL   : https://investinglive.com/central-banks/ecbs-nagel-despite-the-middle-east-the-global-economy-remains-in-a-growth-trajectory/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 01-09-2026 13:12 UTC
+URL   : https://investinglive.com/central-banks/fed-s-barr-inflation-remains-too-high-if-inflation-does-not-moderate-soon-will-be-time-for-a-hike/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 01-09-2026 16:21 UTC
+URL   : https://investinglive.com/central-banks/more-bessent-he-emphasized-the-importance-of-sound-formulation-and-communication-of-monetary-policy/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 01-09-2026 22:02 UTC
+URL   : https://investinglive.com/central-banks/ubs-s-rate-cut-thesis-meets-a-tougher-test-after-tuesday-s-yield-surge/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 02-09-2026 00:00 UTC
+URL   : https://investinglive.com/central-banks/bank-of-japan-governor-ueda-says-no-comment-on-markets-pricing-a-september-rate-hike/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 02-09-2026 00:17 UTC
+URL   : https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7238-reuters-estimate/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 02-09-2026 00:22 UTC
+URL   : https://investinglive.com/central-banks/ueda-signals-more-boj-hikes-ahead-but-flags-cumulative-rate-risks/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 02-09-2026 01:15 UTC
+URL   : https://investinglive.com/central-banks/pboc-sets-usd-cny-mid-point-today-at-6-vs-estimate-at-6-7238/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 02-09-2026 01:47 UTC
+URL   : https://investinglive.com/central-banks/boj-hawk-takata-says-nimble-rate-hikes-needed-as-inflation-risks-build/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : La RBNZ relève ses taux directeurs de 25 points de base, comme prévu
+DATE  : 02-09-2026 02:00 UTC
+URL   : https://investinglive.com/central-banks/rbnz-hike-cash-rate-by-25bp-as-expected/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 02-09-2026 02:15 UTC
+URL   : https://investinglive.com/central-banks/rbnz-lifts-ocr-to-2-75-says-gradual-tightening-reduces-risk-of-bigger-hikes-later/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 02-09-2026 03:26 UTC
+URL   : https://investinglive.com/central-banks/rbnz-chief-says-rate-settings-still-accommodative-despite-hikes/
+================================================================================
+
+Les commentaires de Breman suggèrent que la RBNZ ne signale aucun changement important par rapport à ses prévisions précédentes, la trajectoire OCR étant décrite comme très similaire aux projections de la banque de mai, limitant probablement toute réévaluation brutale des attentes de hausse future après la décision de mercredi. Son insistance sur le fait que la politique reste accommodante même après avoir déplacé l'OCR vers la neutralité, combinée à la nécessité déclarée de prendre du temps pour évaluer l'impact des hausses déjà appliquées, suggère une approche dépendante des données plutôt qu'une trajectoire de resserrement prédéfinie. La reconnaissance du fait qu'une nouvelle augmentation de l'OCR est probable, associée à une incertitude explicite quant au calendrier, maintient fermement l'optionnalité auprès du comité et devrait tempérer toute réévaluation agressive dans un sens ou dans l'autre. Sa déclaration directe selon laquelle les élections à venir ne jouent aucun rôle dans les décisions politiques est un point de rassurance classique mais notable pour les marchés qui se méfient de l’ingérence politique dans la politique monétaire.
+
+--
+
+Plus tôt :
+
+Breman dit que d'autres randonnées sont à venir, mais ne lui demandez pas quand.
+
+Résumé :
+
+La gouverneure de la Banque de réserve de Nouvelle-Zélande, Anna Breman, a déclaré aux journalistes après la décision de mercredi sur les taux que la trajectoire OCR de la banque centrale restait globalement cohérente avec les projections publiées en mai, offrant peu d'indications d'un changement significatif dans les perspectives de la banque malgré la dernière augmentation d'un quart de point. Breman a déclaré qu'elle s'attend à ce que la croissance économique de la Nouvelle-Zélande se renforce et s'étende à partir de maintenant, renforçant le ton plus optimiste adopté dans la déclaration officielle du Comité plus tôt dans la journée.
+
+Breman a déclaré que le Comité estime qu'il peut continuer à faire baisser l'inflation tout en continuant à soutenir l'économie dans son ensemble, décrivant la décision actuelle comme une élévation de l'OCR vers un paramètre neutre plutôt que vers un territoire purement restrictif. Elle a pris soin de noter que la politique reste accommodante même après la hausse de mercredi, ce qui suggère que la banque ne considère pas les paramètres actuels comme un frein à la croissance. Dans le même temps, elle a déclaré que le Comité pourrait avoir besoin de prendre un certain temps pour évaluer correctement les effets de sa position politique actuelle avant de décider d'autres mesures.
+
+Concernant la voie à suivre, Breman a clairement indiqué que la RBNZ ne s’engageait pas sur un cap prédéfini et que le calendrier d’une éventuelle augmentation supplémentaire des taux restait très incertain. Ce commentaire renforce le message plus large du Comité selon lequel les décisions futures dépendront de l'évolution de l'équilibre des risques d'inflation plutôt que d'un calendrier mécanique. Néanmoins, Breman a déclaré qu'il y aurait probablement une nouvelle augmentation de l'OCR à un moment donné, le Comité souhaitant d'abord évaluer comment les hausses déjà réalisées se répercutent sur l'économie avant de s'engager sur la prochaine étape.
+
+Interrogé sur le contexte politique, Breman a déclaré que les prochaines élections néo-zélandaises ne sont pas prises en compte dans les décisions politiques du Comité, un commentaire visant à renforcer l'indépendance de la RBNZ par rapport au cycle politique alors que la banque poursuit son resserrement progressif. Prises ensemble, ses remarques suggèrent une banque centrale à l’aise avec sa trajectoire actuelle et confiante dans sa capacité à gérer le compromis entre inflation et croissance, tout en évitant délibérément tout engagement sur un calendrier précis pour sa prochaine action.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 02-09-2026 04:24 UTC
+URL   : https://investinglive.com/central-banks/ecb-policymaker-makhlouf-says-upcoming-policy-decision-will-not-surprise-anybody/
+================================================================================
+
+Avertissement sur les risques élevés : les opérations de change comportent un niveau de risque élevé qui peut ne pas convenir à tous les investisseurs. L’effet de levier crée une exposition supplémentaire aux risques et aux pertes. Avant de décider de négocier des devises, examinez attentivement vos objectifs d'investissement, votre niveau d'expérience et votre tolérance au risque. Vous pourriez perdre une partie ou la totalité de votre investissement initial ; n’investissez pas d’argent que vous ne pouvez pas vous permettre de perdre. Renseignez-vous sur les risques liés aux opérations de change et demandez conseil à un conseiller financier ou fiscal indépendant si vous avez des questions.
+
+Avertissement consultatif : investirLive n'est pas un conseiller en investissement, investirLive fournit des références et des liens vers des actualités sélectionnées, des blogs et d'autres sources d'informations économiques et de marché à des fins d'information et en tant que service éducatif à ses clients et prospects et n'approuve pas les opinions ou recommandations des blogs ou d'autres sources d'information. Il est conseillé aux clients et prospects d'examiner attentivement les opinions et analyses proposées dans les blogs ou autres sources d'informations dans le contexte de l'analyse et de la prise de décision individuelles du client ou du prospect. Aucun des blogs ou autres sources d'information ne peut être considéré comme constituant un historique. Les performances passées ne constituent aucune garantie des résultats futurs et InvestingLive recommande spécifiquement par la présente aux clients et prospects d'examiner attentivement toutes les réclamations et représentations faites par les conseillers, blogueurs, gestionnaires de fonds et fournisseurs de systèmes avant d'investir des fonds ou d'ouvrir un compte auprès d'un courtier Forex. Toutes les nouvelles, opinions, recherches, données ou autres informations contenues dans ce site Web sont fournies « telles quelles » en tant que commentaire général du marché et ne constituent pas des conseils d'investissement ou de trading, et nous ne prétendons pas présenter l'intégralité des informations publiques pertinentes ou disponibles concernant un marché ou un titre spécifique. investLive décline expressément toute responsabilité pour toute perte de capital ou de bénéfices pouvant découler directement ou indirectement de l'utilisation ou de la confiance accordée à ces informations, ou en ce qui concerne le contenu présenté sur son site Web, ni ses choix éditoriaux.
+
+Avertissement : InvestingLive peut être rémunéré par les annonceurs qui apparaissent sur le site Web, en fonction de votre interaction avec les publicités ou les annonceurs.
+
+
+================================================================================
+TITRE : Takata, le responsable de la BoJ, estime qu'il faut envisager un large éventail d'options en matière de réponse à la politique monétaire
+DATE  : 02-09-2026 05:40 UTC
+URL   : https://investinglive.com/central-banks/boj-policymaker-takata-says-need-to-consider-a-broad-range-of-options-on-monetary-policy-response/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : La Banque du Canada maintient ses taux inchangés à 2,25 %.
+DATE  : 02-09-2026 13:45 UTC
+URL   : https://investinglive.com/central-banks/bank-of-canada-keeps-rates-unchanged-at-2-25/
+================================================================================
+
+La Banque du Canada a maintenu ses taux inchangés. Vous trouverez ci-dessous le communiqué complet de la banque centrale.  La conférence de presse avec Tiff Macklem débutera à 10 h 30 HE. Déclaration complète du BOC :
+
+La Banque du Canada a maintenu aujourd'hui son taux cible du financement à un jour à 2,25 %, son taux d'escompte à 2,5 % et son taux de dépôt à 2,20 %.
+
+Le conflit persistant au Moyen-Orient maintient les prix de l’énergie à un niveau élevé. De plus, de nouveaux tarifs douaniers américains et des contre-mesures canadiennes ont été annoncés à la suite de l'échec des négociations commerciales entre le Canada et les États-Unis. Les deux situations restent fluides.
+
+Aux États-Unis, la croissance économique reste solide, tirée par les dépenses de consommation et les investissements liés à l’IA. La croissance dans la zone euro a été plus forte que prévu au deuxième trimestre, tandis que l’économie chinoise a ralenti. Dans l’ensemble, l’économie mondiale a fait preuve de résilience face aux vents géopolitiques contraires, avec une croissance globalement conforme aux projections du Rapport sur la politique monétaire (MPR) de juillet. Avec des prix du pétrole toujours élevés et des marges élevées sur les produits énergétiques raffinés, l’inflation reste élevée dans la plupart des pays.
+
+Les conditions financières se sont durcies depuis juillet. Les rendements obligataires à long terme ont augmenté partout dans le monde, y compris au Canada. Le dollar canadien s'est légèrement apprécié en raison de la faiblesse du dollar américain.
+
+Comme prévu, l'activité économique canadienne s'est renforcée au deuxième trimestre, avec un PIB en hausse de 3,3 %, après une très faible croissance au premier trimestre. Même si une partie de la vigueur récente reflète des facteurs temporaires, la reprise de l’activité a été généralisée. La consommation a enregistré de solides gains. Après plusieurs trimestres faibles, l’activité immobilière a quelque peu rebondi. Les exportations et les investissements des entreprises ont fortement augmenté. Les conditions du marché du travail se sont améliorées ces derniers mois, le taux de chômage étant tombé à 6,4 % en juillet. La demande de main-d’œuvre reste néanmoins modérée et les indicateurs pointent vers une offre toujours excédentaire dans l’économie.
+
+Dans l’ensemble, les données récentes réaffirment la vision du Conseil d’administration d’une reprise généralisée de l’économie canadienne. Cependant, l’incertitude est grande et les nouveaux tarifs douaniers américains ainsi que les menaces de mesures supplémentaires font peser des risques sur la durabilité de la reprise.
+
+L’inflation de l’IPC oscille autour de 3 % ces derniers mois, principalement en raison de la hausse persistante des prix de l’essence. Jusqu’à présent, il y a peu de signes d’une propagation de la hausse des prix de l’énergie à d’autres composantes de l’inflation : hors essence, l’inflation était de 2,2 % et les mesures de l’inflation sous-jacente sont restées proches de 2 % en juillet. Cependant, avec la persistance du conflit au Moyen-Orient et le peu de progrès dans la réouverture du détroit d’Ormuz, les risques à la hausse pesant sur les prévisions d’inflation de la Banque ont augmenté. Plus les prix élevés du pétrole et les marges élevées des raffineries perdurent, plus le risque de répercussions sur les prix d’autres biens et services est grand. Les nouveaux tarifs douaniers américains et les contre-tarifs canadiens augmenteront également les coûts pour certaines entreprises et pourraient se répercuter sur les prix à la consommation au fil du temps.
+
+Alors que l’économie et l’inflation évoluent globalement comme prévu dans le RPM de juillet, le Conseil des gouverneurs a convenu de laisser le taux directeur inchangé. Toutefois, les risques haussiers pesant sur l’inflation se sont accrus, tandis que les nouveaux tarifs douaniers rendent les perspectives de croissance plus incertaines. Le Conseil des gouverneurs évaluera la durabilité de la reprise économique et les perspectives d’inflation, et est prêt à ajuster la politique monétaire si nécessaire. La Banque reste déterminée à maintenir la confiance des Canadiens dans la stabilité des prix pendant cette période de bouleversements mondiaux.
+
+---------------------------------------------
+
+La déclaration de la BOC a une tendance légèrement belliciste, même si elle ne signale pas une hausse des taux. Le message clé est que les risques d’inflation à la hausse ont augmenté, tandis que la reprise économique généralisée réduit l’urgence de réduire les taux. Cette combinaison laisse présager un maintien prolongé, avec une plus grande inquiétude quant à une inflation persistante.
+
+Les signaux bellicistes :
+
+Les compensations conciliantes :
+
+En matière politique, le message est plutôt « moins de marge de manœuvre pour réduire » que « prêt à augmenter ». La Banque conserve la possibilité d’agir dans un sens ou dans l’autre, mais l’accent accru mis sur les risques inflationnistes donne à cette déclaration un caractère belliciste.
+
+
+================================================================================
+TITRE : La déclaration d'ouverture du BOC TIff Macklem par sujet.  Quelles sont les implications pour les traders ?
+DATE  : 02-09-2026 13:58 UTC
+URL   : https://investinglive.com/central-banks/the-opening-statement-from-boc-tiff-macklem-by-topic/
+================================================================================
+
+Le message de Macklem est que l’économie canadienne s’améliore, mais que les tarifs douaniers menacent la croissance tandis que les prix élevés de l’énergie menacent l’inflation. La Banque du Canada doit donc trouver un équilibre entre deux problèmes concurrents.
+
+Tout d’abord, rappelez-vous comment fonctionne la paire de devises :
+
+Les implications monétaires ci-dessous sont des interprétations des commentaires que vous avez fournis, plutôt qu'une description de la réaction réelle du marché.
+
+1. Maintenir les taux d’intérêt à 2,25 % : en attendant plus d’informations
+
+Le taux directeur de la Banque influence les coûts d’emprunt dans l’ensemble de l’économie. Des taux plus bas encouragent généralement les emprunts et les dépenses. Des taux plus élevés ralentissent généralement les dépenses et aident à contrôler l’inflation.
+
+En maintenant les taux stables, Macklem affirme que l’économie n’a pas actuellement besoin d’une aide supplémentaire via une baisse des taux, mais que le tableau de l’inflation n’exige pas encore des taux plus élevés.
+
+Implication monétaire : une prise attendue fournit généralement une nouvelle direction limitée. Ce qui compte le plus, c'est de savoir si les commentaires modifient les attentes quant à la prochaine décision. Des réductions moins nombreuses attendues soutiendraient généralement le CAD et pousseraient l'USDCAD à la baisse, toutes choses égales par ailleurs. Les perspectives des taux canadiens par rapport aux taux américains sont particulièrement importantes.
+
+2. La reprise économique : le Canada est sur des bases plus solides
+
+Les consommateurs dépensent, l’activité immobilière s’est améliorée et les entreprises ont augmenté leurs exportations, leurs investissements et leurs embauches. Cela suggère que la reprise est de plus en plus généralisée.
+
+Toutefois, une partie de la force provient de facteurs temporaires. La Banque veut voir si l’amélioration se poursuit.
+
+Conséquences sur les devises : Une reprise soutenue soutiendrait généralement le dollar canadien, car elle réduit la nécessité de réduire les taux et rend le Canada plus attrayant pour les investisseurs. Cela favoriserait une baisse de l'USDCAD. Une reprise qui s’essoufflerait irait dans la direction opposée.
+
+3. « Offre excédentaire » : l’économie a encore de la marge pour croître
+
+Cela signifie que le Canada compte des travailleurs et des capacités commerciales qui ne sont pas pleinement utilisés. Pensez à une usine qui pourrait produire davantage sans ajouter un autre bâtiment ni payer d’heures supplémentaires.
+
+Lorsque les entreprises peuvent répondre à une demande supplémentaire sans avoir à lutter pour trouver des travailleurs ou augmenter leur production, la pression est moindre pour augmenter fortement les salaires et les prix.
+
+Implication monétaire : cela limite l’urgence d’augmenter les taux. Cela compense en partie le message positif d’une croissance plus forte sur les devises et pourrait peser sur le dollar canadien si cette capacité inutilisée persiste parallèlement à une activité plus faible.
+
+4. Droits de douane : une menace pour les ventes et la confiance au Canada
+
+Les tarifs américains rendent les produits canadiens concernés plus chers pour les acheteurs américains. Cela peut nuire aux ventes et aux bénéfices des exportateurs canadiens.
+
+Macklem affirme que les produits directement concernés représentent environ 5 % des exportations vers les États-Unis. La plus grande préoccupation est que l’incertitude se propage : même les entreprises qui ne sont pas directement ciblées peuvent reporter leur expansion ou leur embauche parce qu’elles ne savent pas ce qui va suivre.
+
+Implication monétaire : ceci est généralement négatif pour le CAD. Des exportations et des investissements plus faibles pourraient ralentir la croissance et accroître la pression en faveur de réductions de taux, favorisant une hausse de l'USDCAD. Toutefois, les droits de douane peuvent également faire monter les prix, ce qui complique la capacité de réduction de la Banque.
+
+5. Inflation proche de 3 % : l’essence fait une grande partie des dégâts
+
+L’inflation globale mesure la variation globale des prix à la consommation. Les mesures de base aident la Banque à évaluer l’inflation sous-jacente en réduisant l’influence des mouvements de prix inhabituellement volatils.
+
+L’argument de Macklem est que l’essence maintient le chiffre global à un niveau élevé, alors que l’inflation ailleurs semble beaucoup plus proche de l’objectif de 2 %.
+
+Implication monétaire : un chiffre de 3 % à lui seul ne signifie pas nécessairement que des taux plus élevés sont à venir. Avec une inflation sous-jacente proche de 2 %, la Banque a une marge d’attente. La question la plus importante est de savoir si les hausses de prix se généraliseront.
+
+6. Coûts énergétiques persistants : le risque de propagation de l’inflation
+
+Les coûts plus élevés du carburant peuvent éventuellement se répercuter sur les frais de livraison, les tarifs aériens, la nourriture et d’autres produits. C’est ce que Macklem entend par « débordement » des prix de l’énergie.
+
+La Banque peut tolérer plus facilement une hausse initiale des prix de l’essence qu’une augmentation continue des prix dans l’ensemble de l’économie. Macklem affirme qu’il y a encore peu de preuves de répercussions à grande échelle, mais le risque augmente.
+
+Implication sur les devises : si les traders s'attendent à ce que ces retombées maintiennent les taux canadiens à un niveau élevé plus longtemps, le CAD pourrait se renforcer et l'USDCAD pourrait chuter. Une inflation plus élevée en elle-même n’est pas automatiquement bénéfique pour une monnaie : la réponse attendue de la banque centrale est importante.
+
+7. La hausse des prix du pétrole : utile pour les exportations, coûteuse ailleurs
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 02-09-2026 15:06 UTC
+URL   : https://investinglive.com/central-banks/bank-of-canada-governor-macklem-answers-questions-after-boc-rate-decision-what-are-the-implications/
+================================================================================
+
+Avertissement sur les risques élevés : les opérations de change comportent un niveau de risque élevé qui peut ne pas convenir à tous les investisseurs. L’effet de levier crée une exposition supplémentaire aux risques et aux pertes. Avant de décider de négocier des devises, examinez attentivement vos objectifs d'investissement, votre niveau d'expérience et votre tolérance au risque. Vous pourriez perdre une partie ou la totalité de votre investissement initial ; n’investissez pas d’argent que vous ne pouvez pas vous permettre de perdre. Renseignez-vous sur les risques liés aux opérations de change et demandez conseil à un conseiller financier ou fiscal indépendant si vous avez des questions.
+
+Avertissement consultatif : investirLive n'est pas un conseiller en investissement, investirLive fournit des références et des liens vers des actualités sélectionnées, des blogs et d'autres sources d'informations économiques et de marché à des fins d'information et en tant que service éducatif à ses clients et prospects et n'approuve pas les opinions ou recommandations des blogs ou d'autres sources d'information. Il est conseillé aux clients et prospects d'examiner attentivement les opinions et analyses proposées dans les blogs ou autres sources d'informations dans le contexte de l'analyse et de la prise de décision individuelles du client ou du prospect. Aucun des blogs ou autres sources d'information ne peut être considéré comme constituant un historique. Les performances passées ne constituent aucune garantie des résultats futurs et InvestingLive recommande spécifiquement par la présente aux clients et prospects d'examiner attentivement toutes les réclamations et représentations faites par les conseillers, blogueurs, gestionnaires de fonds et fournisseurs de systèmes avant d'investir des fonds ou d'ouvrir un compte auprès d'un courtier Forex. Toutes les nouvelles, opinions, recherches, données ou autres informations contenues dans ce site Web sont fournies « telles quelles » en tant que commentaire général du marché et ne constituent pas des conseils d'investissement ou de trading, et nous ne prétendons pas présenter l'intégralité des informations publiques pertinentes ou disponibles concernant un marché ou un titre spécifique. investLive décline expressément toute responsabilité pour toute perte de capital ou de bénéfices pouvant découler directement ou indirectement de l'utilisation ou de la confiance accordée à ces informations, ou en ce qui concerne le contenu présenté sur son site Web, ni ses choix éditoriaux.
+
+Avertissement : InvestingLive peut être rémunéré par les annonceurs qui apparaissent sur le site Web, en fonction de votre interaction avec les publicités ou les annonceurs.
+
+
+================================================================================
+TITRE : Livre beige de la Fed : croissance modeste, inflation modérée
+DATE  : 02-09-2026 18:11 UTC
+URL   : https://investinglive.com/central-banks/fed-beige-book-modest-growth-moderate-inflation/
+================================================================================
+
+Avertissement sur les risques élevés : les opérations de change comportent un niveau de risque élevé qui peut ne pas convenir à tous les investisseurs. L’effet de levier crée une exposition supplémentaire aux risques et aux pertes. Avant de décider de négocier des devises, examinez attentivement vos objectifs d'investissement, votre niveau d'expérience et votre tolérance au risque. Vous pourriez perdre une partie ou la totalité de votre investissement initial ; n’investissez pas d’argent que vous ne pouvez pas vous permettre de perdre. Renseignez-vous sur les risques liés aux opérations de change et demandez conseil à un conseiller financier ou fiscal indépendant si vous avez des questions.
+
+Avertissement consultatif : investirLive n'est pas un conseiller en investissement, investirLive fournit des références et des liens vers des actualités sélectionnées, des blogs et d'autres sources d'informations économiques et de marché à des fins d'information et en tant que service éducatif à ses clients et prospects et n'approuve pas les opinions ou recommandations des blogs ou d'autres sources d'information. Il est conseillé aux clients et prospects d'examiner attentivement les opinions et analyses proposées dans les blogs ou autres sources d'informations dans le contexte de l'analyse et de la prise de décision individuelles du client ou du prospect. Aucun des blogs ou autres sources d'information ne peut être considéré comme constituant un historique. Les performances passées ne constituent aucune garantie des résultats futurs et InvestingLive recommande spécifiquement par la présente aux clients et prospects d'examiner attentivement toutes les réclamations et représentations faites par les conseillers, blogueurs, gestionnaires de fonds et fournisseurs de systèmes avant d'investir des fonds ou d'ouvrir un compte auprès d'un courtier Forex. Toutes les nouvelles, opinions, recherches, données ou autres informations contenues dans ce site Web sont fournies « telles quelles » en tant que commentaire général du marché et ne constituent pas des conseils d'investissement ou de trading, et nous ne prétendons pas présenter l'intégralité des informations publiques pertinentes ou disponibles concernant un marché ou un titre spécifique. investLive décline expressément toute responsabilité pour toute perte de capital ou de bénéfices pouvant découler directement ou indirectement de l'utilisation ou de la confiance accordée à ces informations, ou en ce qui concerne le contenu présenté sur son site Web, ni ses choix éditoriaux.
+
+Avertissement : InvestingLive peut être rémunéré par les annonceurs qui apparaissent sur le site Web, en fonction de votre interaction avec les publicités ou les annonceurs.
+
+
+================================================================================
+TITRE : La Banque populaire de Chine devrait fixer le taux de référence USD/CNY à 6,7167 – estimation Reuters
+DATE  : 03-09-2026 00:32 UTC
+URL   : https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7167-reuters-estimate/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : La Banque populaire de Chine fixe le taux de référence USD/CNY pour aujourd'hui à 6,7807 (contre une estimation à 6,7167)
+DATE  : 03-09-2026 01:15 UTC
+URL   : https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7807-vs-estimate-at-6-7167/
+================================================================================
+
+Avertissement sur les risques élevés : les opérations de change comportent un niveau de risque élevé qui peut ne pas convenir à tous les investisseurs. L’effet de levier crée une exposition supplémentaire aux risques et aux pertes. Avant de décider de négocier des devises, examinez attentivement vos objectifs d'investissement, votre niveau d'expérience et votre tolérance au risque. Vous pourriez perdre une partie ou la totalité de votre investissement initial ; n’investissez pas d’argent que vous ne pouvez pas vous permettre de perdre. Renseignez-vous sur les risques liés aux opérations de change et demandez conseil à un conseiller financier ou fiscal indépendant si vous avez des questions.
+
+Avertissement consultatif : investirLive n'est pas un conseiller en investissement, investirLive fournit des références et des liens vers des actualités sélectionnées, des blogs et d'autres sources d'informations économiques et de marché à des fins d'information et en tant que service éducatif à ses clients et prospects et n'approuve pas les opinions ou recommandations des blogs ou d'autres sources d'information. Il est conseillé aux clients et prospects d'examiner attentivement les opinions et analyses proposées dans les blogs ou autres sources d'informations dans le contexte de l'analyse et de la prise de décision individuelles du client ou du prospect. Aucun des blogs ou autres sources d'information ne peut être considéré comme constituant un historique. Les performances passées ne constituent aucune garantie des résultats futurs et InvestingLive recommande spécifiquement par la présente aux clients et prospects d'examiner attentivement toutes les réclamations et représentations faites par les conseillers, blogueurs, gestionnaires de fonds et fournisseurs de systèmes avant d'investir des fonds ou d'ouvrir un compte auprès d'un courtier Forex. Toutes les nouvelles, opinions, recherches, données ou autres informations contenues dans ce site Web sont fournies « telles quelles » en tant que commentaire général du marché et ne constituent pas des conseils d'investissement ou de trading, et nous ne prétendons pas présenter l'intégralité des informations publiques pertinentes ou disponibles concernant un marché ou un titre spécifique. investLive décline expressément toute responsabilité pour toute perte de capital ou de bénéfices pouvant découler directement ou indirectement de l'utilisation ou de la confiance accordée à ces informations, ou en ce qui concerne le contenu présenté sur son site Web, ni ses choix éditoriaux.
+
+Avertissement : InvestingLive peut être rémunéré par les annonceurs qui apparaissent sur le site Web, en fonction de votre interaction avec les publicités ou les annonceurs.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 03-09-2026 12:42 UTC
+URL   : https://investinglive.com/central-banks/feds-waller-finally-seeing-some-signs-of-disinflation-in-recent-data/
+================================================================================
+
+Waller, de la Fed, s'exprime et bien qu'il garde la porte ouverte à un resserrement, il est également encouragé par les signes de désinflation.  Waller dit :
+
+Waller garde ses options ouvertes avant la réunion de septembre, les données sur l'inflation du mois d'août étant susceptibles de décider dans quelle direction il penchera. Si l’inflation continue de progresser, il serait favorable au maintien des taux inchangés. Cependant, si les données arrivent à chaud, une hausse des taux est sur la table – et il prévient qu’il ne faudra peut-être pas beaucoup d’accélération de l’inflation pour justifier une politique plus stricte.
+
+La bonne nouvelle est que Waller estime que l’inflation sous-jacente se porte mieux que ne le suggèrent les chiffres fondamentaux. L’inquiétude est que l’inflation reste bien supérieure à l’objectif de 2 % de la Fed, tandis que la croissance et le marché du travail restent solides. En d’autres termes, Waller est prêt à attendre si l’inflation coopère, mais est prêt à augmenter si ce n’est pas le cas. Les baisses de taux ne sont pas le message de ces commentaires.
+
+Les rendements américains poussent à la baisse avec le 10 ans en baisse de -320 points de base à 4,756%. Le rendement à 2 ans est en baisse de 5,4 points de base à 4,331%.
+
+Les cours des actions américaines sont également en hausse (mais modestement) avec le Dow Jones en hausse de 223 points lors des échanges avant commercialisation. Le S&P est à 8,4 points. Le Nasdaq est toujours en légère baisse de -12 points.
+
+La Réserve fédérale annoncera sa décision sur les taux d'intérêt le 16 septembre. Les données de l'IPP américain seront publiées la semaine prochaine le 10 septembre, tandis que les données de l'IPC américain seront publiées le 11 septembre. À partir de ces données, les modèles économiques prévoiront les données PCE, qui sont la mesure de l'inflation la plus privilégiée par la Fed. Toutefois, les données officielles du PCE ne seront publiées que plus tard ce mois-ci, après la décision du FOMC sur les taux.
+
+Le marché évalue désormais à 60 % la probabilité d’une hausse des taux. C'est toujours en baisse par rapport aux 67 % d'hier, mais certainement bien en hausse par rapport aux 30 % que nous observions il y a environ une semaine.
+
+Plus de commentaires :
+
+Le rendement du Trésor à 2 ans est particulièrement sensible aux attentes concernant la politique de la Fed. Alors que les traders anticipent une probabilité légèrement inférieure de resserrement, ce rendement est en baisse de 5,4 points de base à 4,331 %. Le rendement à 10 ans est également en baisse, en baisse de 3,2 points de base à 4,756 %. Des rendements plus faibles peuvent contribuer à soutenir les actions en réduisant les coûts d’emprunt et en rendant les bénéfices futurs plus attractifs. Ils peuvent également peser sur le dollar si l’avantage en matière de taux d’intérêt lié à la détention de dollars se réduit.
+
+En d’autres termes, un président de la Fed peut laisser la porte ouverte à une hausse tout en apportant un certain soulagement aux marchés. Ce qui compte, c’est où en étaient les attentes avant les commentaires et comment elles changent par la suite. La baisse actuelle des rendements et l’amélioration modeste des contrats à terme sur actions sont cohérentes avec le fait que les traders se concentrent sur les encouragements de Waller en matière d’inflation. Cela ne veut pas dire qu’il annonce une baisse des taux.
+
+Les prochains rapports sur l’inflation deviennent particulièrement importants car Waller indique aux traders ce qui influencerait son vote. Des chiffres plus faibles renforceraient les arguments en faveur d’un maintien stable. Des chiffres plus élevés ramèneraient la discussion vers une hausse. Son commentaire sur l’importance accordée aux données à court terme accroît l’importance de ces prochaines publications.
+
+Pour les traders, les nouvelles fondamentales constituent le catalyseur, mais l'évolution des prix et les niveaux techniques nous aident à savoir si le marché suit son cours. Si la baisse des rendements pèse sur le dollar, attendez-vous à ce que les ventes de dollars fassent passer les paires de devises au-delà des moyennes mobiles et des zones de swing clés, et restent au-delà de ces niveaux. Si les cassures échouent, les vendeurs auront peut-être eu leur chance. Les gros titres peuvent modifier les attentes. Les niveaux techniques permettent de définir le biais et le risque.
+
+L'indice NASDAQ est désormais en hausse d'environ 45 points alors que les traders commencent à réagir plus favorablement aux commentaires de Waller de la Fed.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 03-09-2026 15:15 UTC
+URL   : https://investinglive.com/central-banks/boe-pill-sees-the-need-to-raise-the-bank-rate-to-4-00-gbpusd-moves-higher-on-the-news/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 04-09-2026 00:24 UTC
+URL   : https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7098-reuters-estimate/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 04-09-2026 01:15 UTC
+URL   : https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7-vs-estimate-at-6-7093/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 04-09-2026 03:21 UTC
+URL   : https://investinglive.com/central-banks/rbnz-signals-december-not-october-for-its-next-rate-hike/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+
+================================================================================
+TITRE : Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+DATE  : 04-09-2026 16:48 UTC
+URL   : https://investinglive.com/central-banks/cleveland-fed-president-beth-hammack-is-sounding-decidedly-hawkish-on-monetary-policy/
+================================================================================
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+

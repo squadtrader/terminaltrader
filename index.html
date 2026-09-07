@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Le Fil — Banques centrales</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper: #ECE7D8;
+    --paper-raised: #F5F1E6;
+    --ink: #1B2A33;
+    --ink-soft: #4A5A61;
+    --brass: #A9743C;
+    --brass-dim: #C79A63;
+    --teal: #33534E;
+    --hairline: #C9BFA5;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:"Source Serif 4", Georgia, serif;
+    line-height:1.5;
+    min-height:100vh;
+  }
+  a{color:var(--teal);}
+  a:hover{color:var(--brass);}
+
+  .shell{
+    max-width:920px;
+    margin:0 auto;
+    padding:0 24px 80px;
+  }
+
+  header.masthead{
+    padding:48px 0 20px;
+    border-bottom:3px double var(--ink);
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-end;
+    flex-wrap:wrap;
+    gap:16px;
+  }
+  header.masthead h1{
+    font-size:2.1rem;
+    font-weight:700;
+    margin:0;
+    letter-spacing:0.01em;
+  }
+  header.masthead .sub{
+    font-family:"IBM Plex Mono", monospace;
+    font-size:0.78rem;
+    color:var(--ink-soft);
+  }
+  header.masthead .controls{
+    font-family:"IBM Plex Mono", monospace;
+    font-size:0.78rem;
+    display:flex;
+    gap:14px;
+    align-items:center;
+  }
+  .lang-toggle{
+    display:inline-flex;
+    border:1px solid var(--ink);
+    border-radius:3px;
+    overflow:hidden;
+  }
+  .lang-toggle button{
+    font-family:"IBM Plex Mono", monospace;
+    font-size:0.75rem;
+    background:var(--paper-raised);
+    color:var(--ink);
+    border:none;
+    padding:5px 10px;
+    cursor:pointer;
+  }
+  .lang-toggle button.active{
+    background:var(--ink);
+    color:var(--paper-raised);
+  }
+  .status-dot{
+    width:7px;height:7px;border-radius:50%;
+    background:var(--teal);
+    display:inline-block;
+    margin-right:6px;
+  }
+
+  #meta-line{
+    font-family:"IBM Plex Mono", monospace;
+    font-size:0.75rem;
+    color:var(--ink-soft);
+    padding:12px 0;
+    border-bottom:1px solid var(--hairline);
+  }
+
+  .feed{
+    margin-top:8px;
+  }
+  .entry{
+    padding:26px 0;
+    border-bottom:1px solid var(--hairline);
+  }
+  .entry .timestamp{
+    font-family:"IBM Plex Mono", monospace;
+    font-size:0.72rem;
+    color:var(--brass);
+    display:block;
+    margin-bottom:8px;
+  }
+  .entry h2{
+    font-size:1.28rem;
+    font-weight:600;
+    margin:0 0 10px;
+    cursor:pointer;
+  }
+  .entry h2:hover{color:var(--teal);}
+  .entry p.excerpt{
+    margin:0 0 10px;
+    color:var(--ink);
+    max-width:70ch;
+  }
+  .entry .full{
+    display:none;
+    white-space:pre-line;
+    max-width:70ch;
+    color:var(--ink);
+    margin:0 0 12px;
+  }
+  .entry.expanded .full{display:block;}
+  .entry.expanded p.excerpt{display:none;}
+  .entry .source-link{
+    font-family:"IBM Plex Mono", monospace;
+    font-size:0.75rem;
+  }
+
+  .empty, .loading{
+    padding:60px 0;
+    text-align:center;
+    color:var(--ink-soft);
+    font-family:"IBM Plex Mono", monospace;
+    font-size:0.85rem;
+  }
+
+  footer{
+    padding:24px 0;
+    font-family:"IBM Plex Mono", monospace;
+    font-size:0.7rem;
+    color:var(--ink-soft);
+    text-align:center;
+  }
+
+  @media (max-width:600px){
+    header.masthead h1{font-size:1.5rem;}
+  }
+</style>
+</head>
+<body>
+<div class="shell">
+  <header class="masthead">
+    <div>
+      <h1>Le Fil — Banques centrales</h1>
+      <div class="sub">Articles collectés depuis investinglive.com/CentralBanks</div>
+    </div>
+    <div class="controls">
+      <span><span class="status-dot"></span><span id="update-label">chargement…</span></span>
+      <div class="lang-toggle">
+        <button id="btn-fr" class="active">FR</button>
+        <button id="btn-en">EN</button>
+      </div>
+    </div>
+  </header>
+
+  <div id="meta-line"></div>
+
+  <main class="feed" id="feed">
+    <div class="loading">Chargement des articles…</div>
+  </main>
+
+  <footer>Généré automatiquement — mis à jour toutes les 30 minutes via GitHub Actions</footer>
+</div>
+
+<script>
+let articles = [];
+let langue = "fr";
+
+function formatDate(iso){
+  const d = new Date(iso);
+  return d.toLocaleString("fr-FR", {
+    day:"2-digit", month:"2-digit", year:"numeric",
+    hour:"2-digit", minute:"2-digit"
+  }) + " UTC";
+}
+
+function render(){
+  const feed = document.getElementById("feed");
+  if(articles.length === 0){
+    feed.innerHTML = '<div class="empty">Aucun article pour le moment. Revenez un peu plus tard.</div>';
+    return;
+  }
+  feed.innerHTML = "";
+  articles.forEach((a, i) => {
+    const titre = langue === "fr" ? (a.titre_fr || a.titre) : a.titre;
+    const contenu = langue === "fr" ? (a.contenu_fr || a.contenu) : a.contenu;
+    const excerpt = (contenu || "").slice(0, 240) + ((contenu || "").length > 240 ? "…" : "");
+
+    const el = document.createElement("article");
+    el.className = "entry";
+    el.innerHTML = `
+      <span class="timestamp">${formatDate(a.date)}</span>
+      <h2>${titre}</h2>
+      <p class="excerpt">${excerpt}</p>
+      <div class="full">${contenu || "(Contenu non trouvé)"}</div>
+      <a class="source-link" href="${a.url}" target="_blank" rel="noopener">Voir la source →</a>
+    `;
+    el.querySelector("h2").addEventListener("click", () => {
+      el.classList.toggle("expanded");
+    });
+    feed.appendChild(el);
+  });
+}
+
+function setLangue(l){
+  langue = l;
+  document.getElementById("btn-fr").classList.toggle("active", l === "fr");
+  document.getElementById("btn-en").classList.toggle("active", l === "en");
+  render();
+}
+
+document.getElementById("btn-fr").addEventListener("click", () => setLangue("fr"));
+document.getElementById("btn-en").addEventListener("click", () => setLangue("en"));
+
+fetch("./articles.json?t=" + Date.now())
+  .then(r => {
+    if(!r.ok) throw new Error("articles.json introuvable");
+    return r.json();
+  })
+  .then(data => {
+    articles = data;
+    document.getElementById("update-label").textContent =
+      articles.length > 0 ? "à jour · " + articles.length + " article(s)" : "en attente du premier cycle";
+    document.getElementById("meta-line").textContent =
+      articles.length > 0 ? "Dernier article : " + formatDate(articles[0].date) : "";
+    render();
+  })
+  .catch(err => {
+    document.getElementById("update-label").textContent = "erreur de chargement";
+    document.getElementById("feed").innerHTML =
+      '<div class="empty">Impossible de charger articles.json pour le moment.<br>Le premier cycle GitHub Actions n\'a peut-être pas encore tourné.</div>';
+  });
+</script>
+</body>
+</html>

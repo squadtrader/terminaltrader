@@ -4,8 +4,11 @@ Script d'extraction quotidienne d'articles - investingLive Central Banks
 --------------------------------------------------------------------------
 Ce script :
 1. Va chercher la liste des articles sur la page Central Banks
-2. Ne garde que les articles publiés dans les dernières 24h
-   (fenêtre glissante : de l'heure actuelle moins 24h, jusqu'à maintenant)
+   (avec pagination automatique si besoin)
+2. Ne garde que les articles publiés dans une fenêtre de temps donnée :
+   - Au tout premier lancement (quand deja_vus.txt n'existe pas encore) :
+     fenêtre de FENETRE_HEURES_PREMIERE_EXECUTION (15 jours par défaut)
+   - Aux lancements suivants : fenêtre de FENETRE_HEURES (24h par défaut)
 3. Visite chaque article retenu et en extrait le titre, la date, le contenu
 4. Sauvegarde tout dans un fichier nommé avec la date du jour,
    exemple : 02-09-2026-CB.txt
@@ -21,6 +24,7 @@ Deux modes d'exécution :
   GitHub Actions, qui se charge lui-même de la planification (cron).
 """
 
+import re
 import sys
 import json
 import requests
@@ -36,7 +40,17 @@ DOSSIER_SORTIE = os.path.dirname(os.path.abspath(__file__))  # dossier où se tr
 FICHIER_DEJA_VUS = os.path.join(DOSSIER_SORTIE, "deja_vus.txt")
 FICHIER_JSON = os.path.join(DOSSIER_SORTIE, "articles.json")
 MAX_ARTICLES_JSON = 300  # nombre max d'articles conservés dans articles.json (pour ne pas grossir indéfiniment)
-FENETRE_HEURES = 24  # on ne garde que les articles publiés dans les dernières 24h
+
+# --- Fenêtre de temps ---
+FENETRE_HEURES = 24  # fenêtre "normale" (tous les lancements après le premier)
+FENETRE_HEURES_PREMIERE_EXECUTION = 15 * 24  # fenêtre pour le tout premier lancement : 15 jours
+
+# --- Pagination ---
+# Nombre max de pages à parcourir. Le script s'arrête plus tôt de lui-même
+# dès qu'une page ne contient plus que des articles hors fenêtre.
+MAX_PAGES_NORMAL = 3
+MAX_PAGES_PREMIERE_EXECUTION = 30  # garde-fou large pour couvrir 15 jours
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 }
@@ -44,7 +58,17 @@ GENERER_VERSION_FR = True  # si True, cree en plus un fichier -CB-FR.txt traduit
 LIMITE_CARACTERES_TRADUCTION = 4500  # Google Translate refuse les blocs trop longs (~5000 max)
 INTERVALLE_SECONDES = 60  # pause entre deux cycles de verification (mode boucle uniquement)
 
+# Motif des dates affichées sur la page de liste, ex: "04/09/2026 | 16:48 GMT"
+MOTIF_DATE_LISTE = re.compile(r"(\d{2}/\d{2}/\d{4})\s*\|\s*(\d{2}:\d{2})\s*GMT")
+
+
 # ---------- OUTILS ----------
+
+def premiere_execution():
+    """Vrai si le fichier deja_vus.txt n'existe pas encore, ce qui indique
+    qu'aucun cycle n'a encore tourné sur cette machine/dépôt."""
+    return not os.path.exists(FICHIER_DEJA_VUS)
+
 
 def charger_deja_vus():
     if not os.path.exists(FICHIER_DEJA_VUS):
@@ -58,19 +82,76 @@ def sauvegarder_deja_vu(url):
         f.write(url + "\n")
 
 
-def recuperer_liens_articles():
-    reponse = requests.get(URL_LISTE, headers=HEADERS, timeout=15)
-    reponse.raise_for_status()
-    soup = BeautifulSoup(reponse.text, "html.parser")
+def url_page(numero_page):
+    """Construit l'URL d'une page de la liste des articles.
+    Page 1 = URL_LISTE elle-même, page 2+ = URL_LISTE + page/N/"""
+    if numero_page <= 1:
+        return URL_LISTE
+    return URL_LISTE.rstrip("/") + f"/page/{numero_page}/"
+
+
+def extraire_dates_page(texte_html):
+    """Extrait toutes les dates de publication affichées sur une page de
+    liste (format DD/MM/YYYY | HH:MM GMT) et les renvoie triées."""
+    dates = []
+    for jour_mois_annee, heure_minute in MOTIF_DATE_LISTE.findall(texte_html):
+        try:
+            dt = datetime.strptime(
+                f"{jour_mois_annee} {heure_minute}", "%d/%m/%Y %H:%M"
+            ).replace(tzinfo=timezone.utc)
+            dates.append(dt)
+        except ValueError:
+            continue
+    return dates
+
+
+def recuperer_liens_articles(fenetre_heures, max_pages):
+    """Parcourt la page Central Banks (et ses pages suivantes si besoin)
+    pour récupérer les liens d'articles. S'arrête dès qu'une page ne
+    contient plus que des articles antérieurs à la fenêtre demandée,
+    ou après max_pages pages (garde-fou)."""
+    maintenant = datetime.now(timezone.utc)
+    debut_fenetre = maintenant - timedelta(hours=fenetre_heures)
 
     liens = set()
-    for a in soup.find_all("a", href=True):
-        href = a["href"]
-        if "/central-banks/" in href.lower() and href.rstrip("/").lower() != "https://investinglive.com/central-banks":
-            if href.startswith("/"):
-                href = "https://investinglive.com" + href
-            if href.startswith("https://investinglive.com/central-banks/"):
-                liens.add(href.split("?")[0])
+
+    for numero_page in range(1, max_pages + 1):
+        url_courante = url_page(numero_page)
+        try:
+            reponse = requests.get(url_courante, headers=HEADERS, timeout=15)
+            reponse.raise_for_status()
+        except Exception as e:
+            print(f"  -> Impossible de charger la page {numero_page} ({url_courante}) : {e}")
+            break
+
+        soup = BeautifulSoup(reponse.text, "html.parser")
+
+        liens_page = set()
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            if "/central-banks/" in href.lower() and href.rstrip("/").lower() != "https://investinglive.com/central-banks":
+                if href.startswith("/"):
+                    href = "https://investinglive.com" + href
+                if href.startswith("https://investinglive.com/central-banks/"):
+                    liens_page.add(href.split("?")[0])
+
+        if not liens_page:
+            # Page vide ou plus de contenu : on arrête la pagination
+            break
+
+        liens |= liens_page
+        print(f"  -> Page {numero_page} : {len(liens_page)} lien(s) trouvé(s) (total {len(liens)})")
+
+        # On regarde les dates affichées sur cette page pour savoir si on
+        # doit continuer à paginer.
+        dates_page = extraire_dates_page(reponse.text)
+        if dates_page and min(dates_page) < debut_fenetre:
+            print(f"  -> Dates plus anciennes que la fenêtre détectées sur la page {numero_page}, arrêt de la pagination.")
+            break
+
+        if numero_page < max_pages:
+            time.sleep(1)  # pause polie entre deux pages
+
     return sorted(liens)
 
 
@@ -194,8 +275,18 @@ def sauvegarder_json(nouveaux_articles):
 
 def cycle():
     """Un seul passage : verifie les nouveaux articles, extrait, sauvegarde."""
+    premier_lancement = premiere_execution()
+
+    if premier_lancement:
+        fenetre_heures = FENETRE_HEURES_PREMIERE_EXECUTION
+        max_pages = MAX_PAGES_PREMIERE_EXECUTION
+        print(f"Premier lancement detecte : fenetre de {fenetre_heures // 24} jours, jusqu'a {max_pages} page(s).")
+    else:
+        fenetre_heures = FENETRE_HEURES
+        max_pages = MAX_PAGES_NORMAL
+
     maintenant = datetime.now(timezone.utc)
-    debut_fenetre = maintenant - timedelta(hours=FENETRE_HEURES)
+    debut_fenetre = maintenant - timedelta(hours=fenetre_heures)
 
     # Nom du fichier de sortie basé sur la date du jour, ex: 02-09-2026-CB.txt
     nom_fichier = maintenant.strftime("%d-%m-%Y") + "-CB.txt"
@@ -204,7 +295,7 @@ def cycle():
     fichier_sortie_fr = os.path.join(DOSSIER_SORTIE, nom_fichier_fr)
 
     deja_vus = charger_deja_vus()
-    liens = recuperer_liens_articles()
+    liens = recuperer_liens_articles(fenetre_heures, max_pages)
     candidats = [lien for lien in liens if lien not in deja_vus]
 
     if not candidats:
@@ -225,7 +316,7 @@ def cycle():
                 continue
 
             if date_pub < debut_fenetre:
-                # Article trop ancien, hors fenetre des dernieres 24h
+                # Article trop ancien, hors fenetre
                 sauvegarder_deja_vu(url)
                 continue
 
@@ -239,7 +330,7 @@ def cycle():
         time.sleep(1)  # pause polie entre chaque requete
 
     if not articles_retenus:
-        print("Aucun article dans la fenetre des dernieres 24h.")
+        print("Aucun article dans la fenetre demandee.")
         return
 
     # Tri du plus ancien au plus recent

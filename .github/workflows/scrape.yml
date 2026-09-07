@@ -1,0 +1,44 @@
+name: Collecte des articles Central Banks
+
+on:
+  schedule:
+    # Toutes les 30 minutes. Attention : GitHub peut retarder les cron
+    # jobs de quelques minutes en cas de forte charge, et désactive
+    # automatiquement les workflows planifiés d'un dépôt resté inactif
+    # (aucun commit) pendant 60 jours — un commit ou un lancement manuel
+    # suffit à les réactiver.
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}  # permet de lancer le job manuellement depuis l'onglet Actions
+
+permissions:
+  contents: write  # nécessaire pour que le job puisse recommit les fichiers générés
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Lancer un cycle de collecte
+        run: python ffnews_cycle.py --once
+
+      - name: Publier les changements
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add articles.json deja_vus.txt *-CB.txt *-CB-FR.txt 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "Rien de nouveau a publier."
+          else
+            git commit -m "Mise a jour automatique des articles"
+            git push
+          fi

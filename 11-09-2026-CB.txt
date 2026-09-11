@@ -65,3 +65,28 @@ The setting itself adds a layer of context worth noting for anyone following the
 It is worth being clear about what is confirmed here and what is anticipated. The scheduled appearance, its time and venue, and the fact that it follows this week's rate decision are established facts drawn from the ECB's own published calendar. The specific content of her remarks, however, has not yet been made public, and everything described above regarding likely themes should be read as an informed but unconfirmed preview based on her recent public statements, not as a report of what she has actually said. Coverage following the event will be needed to confirm what, if anything, Lagarde adds to the picture beyond her comments earlier in the week.
 
 
+================================================================================
+TITRE : ANZ sees ECB hiking again in December, lifting deposit rate to 2.75%
+DATE  : 11-09-2026 02:28 UTC
+URL   : https://investinglive.com/central-banks/anz-sees-ecb-hiking-again-in-december-lifting-deposit-rate-to-2-75/
+================================================================================
+
+The split between ANZ and ING captures the core tension facing euro rates markets right now: whetherThursday's hikemarks the ECB essentially done, or the first of at least one more move before year end. ANZ's call for a December hike to 2.75%, alongside its estimate of a roughly 90% probability the market has already priced in for an October increase, points toward a more sustained tightening cycle than ING's read, which frames the latest move as an insurance hike unlikely to be repeated absent a genuine second-round inflation problem. For EUR, the practical takeaway is that positioning around the ECB's next moves will likely hinge less on the hike itself, which was fully expected, and more on how energy prices and bond yields evolve from here, since both banks agree that outlook is unusually dependent on the trajectory of the Middle East conflict.
+
+ANZ thinks the ECB isn't finished hiking this year, while ING reads Thursday's move as a one-off insurance hike rather than the start of a longer tightening run.
+
+Summary:
+
+Two bank research notes offer contrasting views on how far the European Central Bank is willing to go after Thursday's rate decision, which lifted the deposit facility rate by 25 basis points to 2.5%. ANZ Bank expects the tightening cycle to continue, forecasting a further 25 basis point hike in December that would take the deposit rate to 2.75%, and pointing to market pricing that already assigns a roughly 90% probability to an October increase. The bank ties its call directly to the escalating conflict in the Middle East and its effect on energy prices, arguing the ECB may be inclined to keep tightening gradually as long as that pressure persists.
+
+ING takes a more cautious view of what comes next, even while agreeing that Thursday's move made sense. The bank describes the hike as falling into the category of an "insurance" rate rise, a move intended to keep the ECB ahead of the curve and prevent higher energy costs from feeding through into broader price pressures, rather than a response to an economy that is genuinely overheating. ING points out that measures stripping out energy, including core and services inflation as well as survey-based inflation expectations, continue to show little sign of the kind of second-round effects that would justify a more aggressive tightening path.
+
+That assessment is grounded in the ECB's newly updated staff projections, which ING says leave headline inflation unchanged at 3% for this year, while revising the 2027 and 2028 forecasts upward to 2.5% and 2.1% respectively. Core inflation is projected at 2.5%, 2.6% and 2.3% across 2026, 2027 and 2028. Growth forecasts were also nudged higher, to 0.9% this year and 1.4% in 2027. ING notes that these projections do not yet fully account for the more recent surge in bond yields and oil prices, meaning the picture could still shift in either direction.
+
+On the substance of the decision itself, ING and ANZ appear to agree the hike was straightforward given the circumstances. ING calls it "almost a no-brainer," arguing that moving the policy rate to the top of what the ECB itself considers a neutral range carried little risk of looking either too aggressive or too passive, particularly with the cost to central bank credibility of doing nothing seen as the bigger risk. Where the two diverge is on what happens next. ING argues that pushing rates higher still would require the ECB to conclude the economy needs genuinely restrictive policy, a bar it thinks has not been cleared, especially given ongoing public finance concerns and elevated bond yields. The bank frames the current episode as a textbook supply-side shock rather than a demand-driven overheating problem, one it doubts the ECB would risk a recession to address through additional tightening. Still, ING concedes the risk of at least one more hike is not negligible, noting the ECB's own projections are built on market pricing that already assumes one to two further increases. Both banks agree that the ultimate path depends heavily on how the Middle East conflict and energy prices evolve from here, a variable neither institution claims to be able to predict with confidence.
+
+---
+
+European Central Bank 2026 dates:
+
+

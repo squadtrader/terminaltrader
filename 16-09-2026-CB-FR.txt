@@ -303,3 +303,34 @@ Advisory warning: investingLive is not an investment advisor, investingLive prov
 Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
 
 
+================================================================================
+TITRE : Fed hikes, hints at more: 7 takeaways from the September FOMC
+DATE  : 16-09-2026 21:07 UTC
+URL   : https://investinglive.com/central-banks/fed-hikes-hints-at-more-7-takeaways-from-the-september-fomc/
+================================================================================
+
+A new hiking cycle, alongside an upward revision to the Fed's longer run neutral rate estimate, points to a higher for longer rate environment than markets had been pricing coming into the meeting. The unanimous vote and the median dot's call for at least one more 2026 hike leave little ambiguity about the Committee's near term bias, which typically supports the dollar and pressures front end Treasury yields higher. With four participants pencilling in three hikes for the year against just two seeing September's move as the last one needed, the spread of views also signals scope for volatility around upcoming data, particularly inflation prints, as the market tries to locate the actual pace of tightening within that range.
+
+---
+
+Key takaway #8 is that this guy isn't happy. But, he never is.
+
+Trump-splaining tweet:
+
+---
+
+The Fed just kicked off a new hiking cycle, and its own projections say this one won't be the last.
+
+Summary (7 key takeaways):
+
+The Federal Reserve raised its benchmark interest rate by 25 basis points to a range of 3.75% to 4.00% on Wednesday, its first increase since July 2023, with the Federal Open Market Committee citing an economy that is expanding solidly even as inflation stays elevated. The decision was unanimous, with no dissents recorded.
+
+In its policy statement, the Fed said inflation remains elevated while economic activity is expanding solidly, productivity growth is strong, capital investment is robust, and job gains are keeping pace with growth in the workforce. That combination of persistent price pressure alongside resilient activity underpinned the case for a new round of rate increases.
+
+The Committee's updated quarterly projections point to further tightening through the rest of 2026. The median dot implies one additional rate increase this year, though the committee is split on the pace ahead: twelve participants see two hikes in total for 2026, four see three, and two regard Wednesday's move as the only increase needed this year. Looking further out, the median funds rate projection sits at 4.00% to 4.25% for 2027, 3.75% to 4.00% for 2028, and 3.50% to 3.75% for 2029. Policymakers also lifted their estimate of the longer run neutral rate to 3.25%, up from 3.06% previously, a signal that officials now see less room to eventually cut rates back toward pre pandemic norms.
+
+The new Summary of Economic Projections also showed a firmer inflation outlook. The median forecast for 2026 core personal consumption expenditures inflation was revised up to 3.4%, with headline PCE seen at 3.7%, before both measures are projected to ease toward roughly 2.1% and 2.2% respectively by 2028. Growth forecasts were nudged higher too, with GDP now expected to expand 2.3% in 2026 and 2.4% in 2027, while the unemployment rate forecast was lowered to 4.1% across 2026 through 2028, pointing to a somewhat stronger labour market outlook than officials had previously pencilled in.
+
+Taken together, the update signals a Fed more focused on containing inflation than on labour market slack, with a new tightening cycle now expected to run into 2027 before rates plateau at a materially higher longer run level than markets had assumed earlier this year.
+
+

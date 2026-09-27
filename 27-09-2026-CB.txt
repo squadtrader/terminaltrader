@@ -19,3 +19,30 @@ The comments land against a live inflation debate. Diesel and gasoline prices, e
 Bessent was also asked about China's role in the Iran conflict, and said Beijing has substantially reduced any assistance to Tehran. He estimated only around 15 million barrels of Iranian oil remain on the water bound for China, and said he expects Iran to make its final delivery to Chinese buyers within roughly two weeks, after which China would have no further access to Iranian crude. That dynamic, Bessent suggested, adds to the pressure already building on Iran to reach a deal on reopening the Strait of Hormuz, tying the administration's domestic economic messaging directly to its broader strategy in the Iran standoff.
 
 
+================================================================================
+TITRE : BOJ July minutes preview: a hold overtaken by September's rate hike
+DATE  : 27-09-2026 22:18 UTC
+URL   : https://investinglive.com/central-banks/boj-july-minutes-preview-a-hold-overtaken-by-september-s-rate-hike/
+================================================================================
+
+Today's minutes are largely a formality at this point: the market has already moved past the July decision and is trading the September outcome and its aftermath. The bigger story for FX and rates is the yen's counterintuitive weakness following an actual hike, with USD/JPY pushing past 157 as the 7-2 vote split and Ueda's refusal to offer firm forward guidance undercut expectations for a faster hiking cycle. That keeps the yen carry trade, borrowing cheaply in yen to fund higher-yielding assets elsewhere, intact for now, since the US-Japan rate gap remains wide even after Japan's tightening. Japanese Government Bond yields eased on the dovish framing, while the Nikkei 225 rallied on relief that policy would not tighten aggressively from here. For AUD and other Asia-linked crosses, the read-through is a BOJ that is normalising policy only gradually, leaving broader risk appetite and the US rate path as the more dominant drivers this week.
+
+---
+
+A look ahead instead of backwards here:
+
+---
+
+The minutes due today are really a look back at the meeting that predicted the next one, since the lone July dissenter's call for 1.25% is exactly where the Bank of Japan landed two months later.
+
+Summary:
+
+The Bank of Japan publishes the minutes of its 30 to 31 July policy meeting today, a release that arrives largely as historical record given how quickly events have overtaken it. At that meeting, the board voted 8-1 to hold the overnight call rate near 1.0%, with board member Hajime Takata the lone dissenter, proposing an immediate move to 1.25%. Takata argued Japan had entered a new phase requiring a more nimble policy response to upside inflation risks and shifting overseas financial conditions, a view that would prove prescient. The accompanying summary of opinions described inflation risks as significantly skewed to the upside, citing yen weakness, geopolitical tensions, elevated crude oil costs and AI-driven demand, with one unnamed board member warning the pace of future hikes could end up faster than markets were pricing.
+
+That warning was borne out within two months. At its 17 to 18 September meeting, the BOJ raised its policy rate to 1.25%, the highest level since 1995, effectively delivering the exact outcome Takata had called for in July. The vote this time was 7-2, with members Toichiro Asada and Ayano Sato dissenting in favour of holding steady, a split that itself became a significant part of the market story. Governor Kazuo Ueda used his post-meeting press conference to keep the board's future path deliberately open, saying "there could be various possibilities" and that policymakers "shouldn't rule anything out," while also cautioning against tightening too quickly or unsettling asset valuations.
+
+The market reaction to an actual rate hike was, on its face, counterintuitive. Rather than strengthening, the yen weakened further, with USD/JPY pushing past the 157 level. Two factors appear to explain this: the divided 7-2 vote signalled genuine disagreement within the board over the pace of further tightening, and Ueda's press conference offered none of the hawkish forward guidance that would have been needed to convince markets a faster hiking cycle was coming. With US interest rates still substantially higher than Japan's even after the move to 1.25%, the yen carry trade, borrowing cheaply in yen to fund higher-yielding assets abroad, remains largely intact.
+
+Elsewhere in the market response, ten-year Japanese government bond yields fell on the dovish framing, while the Nikkei 225 rallied 1.5% as equity investors welcomed signs the BOJ would not tighten aggressively from current levels. Core inflation data added to that more benign read, easing to 1.7% in August from 1.8% in July. Today's minutes, in that context, function less as a forward-looking signal and more as confirmation of how close the July board came to moving early, and how right its most hawkish member turned out to be.
+
+

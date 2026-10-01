@@ -148,3 +148,38 @@ Advisory warning: investingLive is not an investment advisor, investingLive prov
 Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
 
 
+================================================================================
+TITRE : Fed's Cook names two inflation worries: the AI buildout and persistent supply shocks
+DATE  : 01-10-2026 20:43 UTC
+URL   : https://investinglive.com/central-banks/fed-s-cook-names-two-inflation-worries-the-ai-buildout-and-persistent-supply-shocks/
+================================================================================
+
+Cook's remarks lean hawkish and, if shared more widely on the committee, would argue against any easing and keep the door open to further rate rises, which could support short-dated Treasury yields and the US dollar. Her suggestion that the Fed may no longer simply look through supply shocks matters for oil: if energy-driven price spikes are treated as more policy-relevant, higher crude prices could feed more directly into expectations for additional tightening rather than being dismissed as transitory. For equities, her view that the AI buildout is inflationary in the near term adds a new angle to the AI trade, linking the capital spending boom to the risk of more hikes. Traders will want to see whether colleagues echo the theme before repricing materially.
+
+---
+
+Earlier:
+
+---
+
+Cook is no longer sure the Fed can afford to look through supply shocks, and she thinks AI, often sold as a disinflationary force, is currently doing the opposite.
+
+Summary:
+
+Federal Reserve Governor Lisa Cook said on Thursday that recent supply shocks have had surprisingly persistent effects and are becoming more important for monetary policy, while naming artificial intelligence as her top risk for 2027.
+
+Speaking in conversation with New York Fed President John Williams at an event at the regional Fed bank, Cook said policymakers had traditionally been inclined to look through supply shocks. The reasoning, she explained, was that tighter monetary policy cannot influence oil prices or a war, but could damage employment and output, outcomes the central bank would be more concerned about.
+
+Cook suggested that view may need revisiting. In her opinion, the most appropriate policy response to a supply shock could now differ depending on factors such as which sectors are affected.
+
+She also stressed the importance of keeping inflation expectations from becoming unanchored and said the Fed needs to remain attentive to consumer confidence.
+
+Much of her focus was on AI. Cook said she views AI as the leading risk for 2027, arguing that the technology is already generating inflationary pressure rather than easing it. In her assessment, the AI buildout is creating pockets of inflation and supply bottlenecks that may not resolve quickly. She said she is concerned about when productivity gains from AI will arrive, and noted she is wary that the technology could bring a major reorganisation of work.
+
+The comments challenge a common market assumption that AI will primarily be disinflationary through higher productivity. Cook's framing suggests she sees the near-term investment phase, with its demand for capacity and inputs, as an inflation risk in its own right, with any productivity dividend coming later and on an uncertain timetable.
+
+On financial stability, Cook said she does not believe private credit is having a large effect.
+
+Her remarks are her own views and do not signal a decision by the Federal Open Market Committee. Still, they add to the picture of policymakers weighing persistent price pressures from several directions. Markets will watch whether other officials echo her concern about supply shocks and AI-driven inflation, and whether it begins to shape the debate over the path of interest rates into 2027.
+
+

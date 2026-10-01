@@ -60,3 +60,65 @@ Labour and financing conditions were little changed. The employment index for al
 Firms assume the dollar will average around 154 yen and the euro around 178 yen in the current fiscal year. Large manufacturers assume around 154 yen to the dollar.
 
 
+================================================================================
+TITRE : Australia: RBA says most mortgage holders keep equity even if house prices fall another 20%
+DATE  : 01-10-2026 01:55 UTC
+URL   : https://investinglive.com/central-banks/australia-rba-says-most-mortgage-holders-keep-equity-even-if-house-prices-fall-another-20/
+================================================================================
+
+The relaxed read on housing removes one argument against further tightening, which fits the RBA's warning that it is prepared to raise rates again after Tuesday's hike. The more market-relevant message is the central bank's focus on offshore risks, with leveraged investors in bonds and AI equities named as amplifiers of volatility and high asset prices leaving global markets exposed to a disruptive pullback. That makes sentiment toward the AI investment boom a plausible channel through which global stress could reach Australian assets. The review is a stability assessment and not a rate decision, so it does not by itself change the policy outlook.
+
+---
+
+Earlier:
+
+---
+
+The RBA says falling house prices are not what threatens Australia's financial stability, pointing instead to AI-driven markets, leverage and cyber risk abroad as the shocks to watch.
+
+Summary:
+
+The Reserve Bank of Australia said most Australian mortgage holders would keep positive equity even if house prices fell a further 20% and unemployment rose above 6%, according to its Financial Stability Review released on Thursday. The report followed the central bank'sfourth interest rate increase of the cycle on Tuesday, which lifted the cash rate to 4.6%, a 15-year high, with the RBA warning that it was prepared to hike again if needed.
+
+The RBA said that while risks to the economic outlook had risen, most indebted households appeared well placed to cope with a wide range of adverse outcomes, helped by the earlier run-up in house prices and prudent lending standards. Fewer than 1% of borrowers are currently in negative equity, it said, and about 2% of owner-occupiers face a cash flow shortfall, with most of those holding savings that would cover at least six months of expenses. In the 20% price-fall scenario, the bank estimated that only about 5% of mortgages would be in negative equity. In a harsher scenario, with unemployment at 6.3% from 4.6% now, inflation at 7% and the cash rate at 5.6%, the share of mortgage holders at risk of defaulting would rise to around 5%, slightly above the 2023 peak.
+
+Banks were described as highly capitalised and profitable, with sound lending practices that leave them well placed to weather a material deterioration in the housing market. The RBA noted pockets of stress among households and businesses but said loan arrears remain low. Cash flow pressures are expected to build for smaller and energy-intensive businesses, while most firms can manage elevated costs and some are passing them on to customers. Private credit has grown significantly in Australia but remains small and is not yet a threat to overall stability.
+
+The housing backdrop is softening. Data from Cotality released on Thursday showed home prices fell for a sixth straight month in September and are more than 5% below their peak, while AMP economists forecast a drop of 10% to 15% this cycle, which would be the largest downturn in three decades.
+
+The RBA said the main threats to financial stability are increasingly coming from abroad, including regional wars, cyber attacks, higher sovereign debt and a possible crash in financial markets. It singled out a shift in sentiment toward the AI investment boom as one possible trigger, citing funding that is becoming more opaque and circular and is exposed to profit disappointment. It added that rapid advances in frontier AI have made cyber threats more complex. The review suggests the central bank sees little need to hold back on policy because of housing, while treating AI-linked markets and cyber risk as the shocks to monitor.
+
+
+================================================================================
+TITRE : ICYMI: BOJ opinions and tankan both point to more rate hikes after September's move
+DATE  : 01-10-2026 02:06 UTC
+URL   : https://investinglive.com/central-banks/icymi-boj-opinions-and-tankan-both-point-to-more-rate-hikes-after-september-s-move/
+================================================================================
+
+The dollar's rise to about 157.87 yen suggests traders read the opinions as supportive of more hikes but not of an immediate follow-up, so expectations for an October move have been trimmed. Softer U.S. inflation data and the Cabinet Office's call for caution both argue against a rapid pace. Elevated oil prices and firm corporate price expectations in the tankan pull the other way. The BOJ's quarterly growth and inflation forecasts are the next catalyst for that debate.
+
+---
+
+Earlier:
+
+---
+
+The BOJ's hawks and a strong tankan favour further hikes, but doves, the Cabinet Office and eased yen pressure leave the timing between October and December still open.
+
+Summary:
+
+In case you missed it, two Japanese releases this week sharpened the debate over how quickly the Bank of Japan will raise interest rates again after its September increase to 1.25%, a 31-year high. A summary of opinions from the September meeting showed some policymakers saw a need to accelerate the pace of rate rises, or to move the policy rate closer to the central bank's goal soon, while the quarterly tankan survey showed business confidence at an eight-year high.
+
+Most of the opinions in the summary favoured following September's hike with further increases as inflationary pressure builds, reinforcing market views of another rise this year. One member said the pace of hikes would need to accelerate if signs of an upward deviation in prices emerged, and another said moving closer to the approximate goal relatively soon would give the bank room to respond to unexpected developments. A further member pointed to the risk that crude oil prices could stay high amid the Middle East conflict, and several opinions said underlying inflation had reached, or was close to reaching, the 2% target. The BOJ is seen as under greater pressure to hike than other central banks because its policy rate remains near the bottom of the estimated 1.1% to 2.5% range for Japan's nominal neutral rate.
+
+Not everyone agreed. Two doves on the nine-member board, Toichiro Asada and Ayano Sato, dissented from September's decision, and the summary included opinions, probably theirs, warning of weak consumption and subdued services inflation. A Cabinet Office representative urged the bank to examine the cumulative effects of past hikes and to take neutral-rate estimates into account. Reuters noted that Economy Minister Minoru Kiuchi attended for the Cabinet Office and is seen as an aide to Prime Minister Sanae Takaichi, who is viewed as cautious about hikes that could raise the cost of funding her spending plans. The dollar rose to about 157.87 yen after the summary as investors trimmed bets on a back-to-back hike in October, and many analysts expect the next move in October or December.
+
+The tankan added support for the hawks. The index for large manufacturers rose to +24 from +22 in June, the highest since March 2018, though just under the +25 forecast, while the large non-manufacturers index slipped to +35 from +37, short of the +36 forecast and its first fall in five quarters. Firms forecast inflation of 2.6% in three years and 2.5% in five, and big companies plan to lift capital spending by 11.3% this financial year. Shinichiro Kobayashi of Mitsubishi UFJ Research and Consulting said the results show underlying price pressure remains firm, while Masato Koike of Sompo Institute Plus said the BOJ's hikes appear to have had limited impact on corporate financing conditions.
+
+The BOJ will weigh the tankan in its quarterly growth and inflation forecasts this month, which should offer clues on timing. Softer than expected U.S. inflation data may also reduce the need to hike quickly to avoid yen falls that raise import costs, which keeps the October versus December question open.
+
+----
+
+October 29 and 30 the next meeting:
+
+

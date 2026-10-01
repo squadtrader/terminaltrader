@@ -1,0 +1,62 @@
+================================================================================
+TITRE : BOJ opinions show members open to faster hikes if inflation risks overshooting 2% target
+DATE  : 30-09-2026 23:55 UTC
+URL   : https://investinglive.com/central-banks/boj-opinions-show-members-open-to-faster-hikes-if-inflation-risks-overshooting-2-target/
+================================================================================
+
+The tone of the forward-looking comments leans hawkish, with talk of a possible faster pace of hikes and a rate that should move closer to its goal relatively soon, which tends to support the yen and push Japanese government bond yields higher. The focus on oil and import prices means crude remains a key swing factor for Japan's inflation outlook, since higher energy costs would add to the upside price risks members highlighted. The government's request that the Bank examine the cumulative effects of past hikes is a counterweight that traders will watch. Because the summary is anonymous and covers individual views rather than a decision, pricing for the October meeting will still hinge on inflation and wage data, the yen and oil.
+
+-
+
+Background here
+
+-
+
+BOJ members see policy entering a new phase in which preventing an inflation overshoot matters as much as lifting prices, with oil and the yen as the swing risks.
+
+Summary:
+
+Bank of Japan policymakers see a shift in the phase of monetary policy, and some flagged that rate hikes may need to speed up if prices threaten to overshoot the 2% target, according to the Summary of Opinions from the 17 and 18 September meeting. The Bank raised its policy rate by 25 basis points to 1.25% at that meeting on a 7-2 vote. The summary is an anonymous digest of views from board members and government representatives, which the governor, as chairman, edits.
+
+On the economy, members described a moderate recovery with pockets of weakness, partly linked to the situation in the Middle East, and expected moderate growth to continue, underpinned by government measures and global AI-related demand. One member put the soft domestic demand in April-June GDP down to technical factors, such as the treatment of patent rights sold abroad and free school lunches. Another said the breakdown showed domestic demand shrank and that external demand was positive only because imports fell amid Middle East supply constraints, so the economy could not be called strong.
+
+On prices, members judged underlying inflation to be close to, or generally at, 2%, and expected it to reach a level consistent with the target between the second half of fiscal 2026 and fiscal 2027. Some cautioned that the indicators were mixed, and one noted that two core measures had stayed between 1.5% and 2.0%, partly because of government measures. Rising distribution costs were expected to help firms pass costs on. Concerns about a sharp hit from the Middle East had not materialised, partly thanks to petroleum reserves and alternative supply, but upside price risks remained high and crude could stay elevated.
+
+Most opinions backed the hike, citing an economy largely on track, the Middle East, AI demand and exchange rates as factors to watch, and accommodative financial conditions. One member noted it would be the first hike in three months, with a shorter interval than before because the economy had proved more resilient. Two opinions favoured holding, pointing to headline CPI below 2% and the lack of a clearly strong economy.
+
+Looking ahead, members said further hikes were appropriate. One said the task had moved from lifting inflation to stabilising it around 2%, and that the Bank should show it will respond nimbly to overseas conditions and prices while weighing the impact of currency moves. Another said the Bank would need to accelerate the pace if signs of an upward deviation in prices appeared. A further view was that the rate should move closer to the approximate goal relatively soon, leaving room to adjust in either direction. Others saw no need for hasty action. Members also said the neutral rate could deviate upward depending on overseas developments and should be assessed after each hike rather than assumed.
+
+The Ministry of Finance expected the Bank to explain its intentions carefully to the market, while the Cabinet Office asked it to examine the cumulative effects of past hikes. The next policy meeting is on 29 and 30 October, and the full September minutes are due on 5 November.
+
+
+================================================================================
+TITRE : Japanese firms expect consumer prices to rise 2.6% a year from now, down from 2.7%
+DATE  : 01-10-2026 00:02 UTC
+URL   : https://investinglive.com/central-banks/japanese-firms-expect-consumer-prices-to-rise-2-6-a-year-from-now-down-from-2-7/
+================================================================================
+
+The survey points to steady but not accelerating business conditions, with both large manufacturers and large non-manufacturers expecting a lower reading by December than the latest one. Firms' one-year inflation expectations edged lower but remain above the Bank of Japan's 2% target, and input price pressure among large manufacturers eased only slightly, so the data give the Bank little reason to change its view that price risks are still to the upside. The mix of softer big-firm outlooks and pockets of strength among small manufacturers leaves room for different readings on how far tightening can go. The yen assumptions of around 154 per dollar are a useful reference for how weak a currency companies are budgeting for, which is relevant to import costs. This is one quarterly survey, so traders will still weigh it against inflation, wage and oil price data.
+
+---
+
+Earlier:
+
+---
+
+Japan's tankan shows big-firm sentiment broadly steady but slightly short of forecasts, with small firms firmer than expected and price expectations easing a notch.
+
+Summary:
+
+Sentiment among Japan's big manufacturers improved but fell a touch short of forecasts in the Bank of Japan's September tankan survey. The large manufacturers' index came in at +24, against a median forecast of +25 in a Reuters poll of economists, and up from +22 in June. The large non-manufacturers' index was +35, against a forecast of +36, and down from +37 three months earlier. The indexes measure the share of firms reporting favourable conditions minus those reporting unfavourable ones. The survey covered 9,104 companies, including 1,631 large firms, between 26 August and 30 September.
+
+Looking ahead, large manufacturers expect their index to fall to +21 in December, against a forecast of +22, while large non-manufacturers expect +30, in line with forecasts. Smaller firms were firmer than economists expected. The small manufacturers' index rose to +14, against a forecast of +11, from +9 in June, and small manufacturers see +12 in December against a forecast of +7. Small non-manufacturers were unchanged at +15, in line with forecasts, and expect +10 in December, slightly above the forecast of +9.
+
+Business investment plans gave a mixed picture. Large firms plan to lift capital spending by about 11% in the current fiscal year, a little below the forecast of about 12%, while small firms plan to cut spending by about 5%, in line with forecasts. Large manufacturers expect recurring profits to rise by nearly 14%.
+
+The survey's price expectations section showed firms expect consumer prices to rise an average 2.6% a year from now, down slightly from 2.7% in the previous survey. They expect annual increases of 2.6% three years from now, unchanged from the previous survey, and 2.5% five years from now, down from 2.6%. Among large manufacturers, the share reporting higher input prices net of those reporting lower prices eased to +59 from +62, while the output price reading held at +40.
+
+Labour and financing conditions were little changed. The employment index for all firms was -38, compared with -37 in June, which means many more firms report a shortage of workers than a surplus. The financial conditions index for all firms was steady at +11. Large manufacturers' production capacity index moved to -2 from zero, indicating slightly more firms reporting excess capacity than a shortage.
+
+Firms assume the dollar will average around 154 yen and the euro around 178 yen in the current fiscal year. Large manufacturers assume around 154 yen to the dollar.
+
+

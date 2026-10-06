@@ -81,3 +81,32 @@ Advisory warning: investingLive is not an investment advisor, investingLive prov
 Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
 
 
+================================================================================
+TITRE : RBA papers show a 20% AI stock slump could cut Australian spending by about 2.5%
+DATE  : 06-10-2026 21:59 UTC
+URL   : https://investinglive.com/central-banks/rba-papers-show-a-20-ai-stock-slump-could-cut-australian-spending-by-about-2-5/
+================================================================================
+
+The papers cut both ways for rates. Model estimates putting the NAIRU near 5%, above the current 4.6% jobless rate, imply the labour market may still be tighter than the RBA's working assumption, which supports the case for a further hike. The neutral rate range adds to that. With the cash rate at 4.6% and headline inflation at 4%, the rough real policy rate sits inside the RBA's estimated neutral band, a simple calculation that suggests policy may be less restrictive than it looks. Against that, the combined drag from falling house prices and a possible AI-led equity correction points to downside risks to consumption, which would argue for caution. For the Australian dollar and short-end rates, the balance probably keeps November in play while making the decision more data-dependent.
+
+---
+
+The RBA has quietly modelled what an AI bubble bursting would do to Australian spending, and the answer is uncomfortable for a household sector already losing ground on housing.
+
+Summary:
+
+Australian households are more exposed to a downturn in artificial intelligence stocks than their direct shareholdings suggest, and a sharp correction could feed through to consumer spending, according to internal Reserve Bank of Australia documents released to Bloomberg.
+
+A paper from the RBA's domestic markets division, dated 1 September, estimated that around 5.5% of household financial wealth is held in AI stocks. Most of that exposure comes indirectly through superannuation funds rather than shares held directly, and almost 90% of it is in overseas companies. Drawing on earlier research into how share market wealth affects spending, the paper found that a permanent 20% fall in AI stock prices would leave consumption about 0.7% lower in the long run, rising to around 2.5% if losses spread to the wider equity market. Staff cautioned that the figures may overstate the effect, because households tend to watch their super balances less closely than shares they own directly.
+
+The warning comes as Australians already face a large hit to wealth from falling house prices. A separate RBA paper found that each 1% rise in housing wealth lifts long-run household spending by about 0.16%, with roughly half the effect arriving within two quarters. Bloomberg Economics estimates around A$510 billion of housing wealth has been lost since the end of March. It expects further price falls after the RBA's latest hike to create a drag on spending of A$40 billion to A$50 billion into early 2027.
+
+The documents also show how the RBA judges the labour market. Its models put the NAIRU, the unemployment rate consistent with stable inflation, at around 5%, but staff apply judgment to lower that assumption to 4.6%, where unemployment stood in August. Staff said they would stay alert to the risk that the true figure is higher. Another document, marked highly restricted, estimated the real neutral interest rate, the inflation-adjusted level that neither stimulates nor restrains the economy, at between 0.4% and 1.2%.
+
+The papers land at a sensitive point for policy. The RBA raised its cash rate to a 15-year high of 4.6% on 29 September, its fourth increase of 2026, as the energy shock from the US-Iran war added to domestic capacity pressures. Headline inflation was 4% in August, well above the 2% to 3% target band. Several economists, including Westpac chief economist and former RBA assistant governor Luci Ellis, expect another hike in November, although household spending was flat in August and the housing market has weakened sharply.
+
+The next main signals for policy will come from the minutes of the September meeting on 13 October and the September-quarter inflation figures on 28 October.
+
+Reserve Bank of Australia Governor Bullock.
+
+

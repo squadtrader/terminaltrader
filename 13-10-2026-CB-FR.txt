@@ -1,0 +1,98 @@
+================================================================================
+TITRE : PBOC is expected to set the USD/CNY reference rate at 6.6981 – Reuters estimate
+DATE  : 13-10-2026 00:28 UTC
+URL   : https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6981-reuters-estimate/
+================================================================================
+
+The fixing mechanism matters most right now because its message has shifted over the past month. For nearly a year, the PBOC has set its daily guidance weaker than market expectations, which traders read as an effort to slow the yuan's appreciation, and in late August that gap reached its widest since February, shortly after the yuan touched a three-and-a-half-year high. Through September, however, the midpoint has strengthened at a faster pace, narrowing its gap with market expectations and suggesting the central bank has eased its resistance to yuan gains. The fixing is still set weaker than models imply, so this looks like a loosening of the brakes rather than their removal. The balance Beijing is weighing is unchanged: a firmer currency supports capital stability and import costs, but too rapid a rise risks eroding export competitiveness while the domestic economy remains soft. The gap between each day's fixing and consensus estimates remains one of the clearest guides to how far the PBOC is willing to let the yuan run.
+
+---
+
+Earlier:
+
+---
+
+The daily fixing is Beijing's quietest but clearest tool for telling markets how fast it wants the yuan to move, and after months of saying slow down, it has lately been saying go, gradually.
+
+Summary:
+
+The People's Bank of China sets the daily USD/CNY reference rate at around 0115 GMT, a fixing that remains one of the most closely watched signals in Asian foreign exchange markets. It has taken on added significance in recent weeks as policymakers have shifted from restraining the yuan's rise to guiding it higher.
+
+China operates a managed floating exchange rate system, under which the yuan is allowed to trade within a band of plus or minus 2% around the central midpoint set each trading day. That midpoint reflects a mix of inputs, including the previous day's closing price, movements in major currencies such as the US dollar, broader international FX conditions, and domestic considerations like capital flows, growth momentum and financial stability objectives. The calculation is not purely mechanical, giving policymakers room to use the fixing to guide market expectations.
+
+Once the midpoint is set, onshore USD/CNY trades freely within the allowable range. Should market pressure push the currency toward either edge of that band, the central bank can step in to smooth volatility, whether through direct buying or selling of yuan, adjustments to liquidity conditions, or guidance channelled through state-owned banks. As a result, the daily fixing is often read as a policy signal rather than a purely technical reference point. A stronger-than-expected midpoint typically suggests the PBOC is leaning against depreciation, while a weaker fixing can signal tolerance for a softer currency, or unease with how quickly the yuan is rising.
+
+That second reading has dominated for much of the past year. For nearly a year, the central bank set its daily guidance weaker than market expectations, a pattern traders and analysts interpreted as an attempt to slow the yuan's appreciation. The gap reached its widest since February in late August, shortly after the yuan touched a three-and-a-half-year high against the dollar.
+
+September has brought a clear change of tone. The midpoint has strengthened at a faster pace this month, narrowing its gap with market expectations and suggesting the PBOC has eased its resistance to yuan gains. The central bank strengthened the fixing for eight consecutive sessions, the longest streak since 2023, and the midpoint has since reached its strongest level since February 2023. The onshore yuan has traded at its strongest since January 2023, while the offshore rate has reached levels last seen in July 2022. Even so, the fixing is still being set well weaker than market estimates, with one recent midpoint more than 500 pips below a Reuters survey forecast, a reminder that Beijing is allowing appreciation on its own terms rather than stepping aside.
+
+The underlying tension is a familiar one. A firmer yuan supports capital stability and eases import costs, but a rapid rise risks undermining export competitiveness at a moment when China's broader economy continues to show signs of softness. For traders and investors, the gap between each day's fixing and consensus estimates remains one of the clearest windows into how Beijing is weighing that trade-off, and whether the recent green light for gains stays in place once the summit has passed.
+
+
+================================================================================
+TITRE : RBA minutes show three reasons for hike to 4.60% and leave door open to further increases
+DATE  : 13-10-2026 00:40 UTC
+URL   : https://investinglive.com/central-banks/rba-minutes-show-three-reasons-for-hike-to-4-60-and-leave-door-open-to-further-increases/
+================================================================================
+
+The minutes read hawkish,not unexpectedly,with the board explicitly keeping further hikes on the table and markets already pricing roughly another 15 basis points by year-end and 30 basis points in the first half of 2027. Oil is central to the outlook: domestic fuel prices were running well above the RBA’s August assumptions, and any further escalation of the Iran war would feed directly into the risk of more tightening. The board’s concern that a lagging RBA could weaken the Australian dollar suggests it is willing to keep pace with other central banks, which should support the currency against a backdrop of rising global yields. Rate-sensitive sectors such as banks, property and consumer discretionary remain vulnerable, given falling house prices and the board’s view that household spending must stay subdued for some time.
+
+---
+
+The RBA has concluded the economy is running hotter and the neutral rate is higher than it thought, which is central bank language for “we may not be done yet”.
+
+Summary:
+
+The Reserve Bank of Australia raised interest rates last month because several of the upside risks to inflation it had flagged in August had either materialised or were building, according to minutes of the 28 to 29 September meeting released on Tuesday. The board signalled it was prepared to tighten further if needed.
+
+The board voted unanimously to lift the cash rate by 25 basis points to 4.60%. Members said the August forecasts, which had inflation returning to the midpoint of the target range by around late 2027, depended on a series of favourable developments that no longer looked likely to all occur.
+
+The minutes set out three main arguments for the move. First, the risks identified in August had largely come to pass. The Middle East conflict had broadened and oil prices were well above the level assumed in the forecasts, with domestic petrol and diesel prices running about 13% higher than projected. Global cost pressures were intensifying, driven partly by extraordinary demand for AI-related products, and domestic capacity appeared tighter than assessed. Second, members judged that responding quickly would best balance their inflation and employment goals, given inflation has been above target for an extended period and surveys point to a risk that business inflation expectations are rising. Third, the board said the cash rate might not be high enough to restore balance within a reasonable timeframe even if the risks did not fully materialise.
+
+That last point reflected a significant shift in thinking about the neutral interest rate, the level at which policy neither stimulates nor restrains the economy. Members said that if market signals of a higher global neutral rate were correct, the previous 4.35% cash rate was less restrictive than it had been two years earlier. They added that if the RBA held still while other central banks tightened, Australian financial conditions could loosen through a weaker currency.
+
+On the economy, the board noted June quarter growth was a little stronger than expected, driven by business investment that rose more than 10% over the year, partly reflecting data centre and renewable energy construction. Household consumption slowed to a below-trend pace, house prices fell faster than expected, and unemployment rose to 4.6% in August. Staff increasingly questioned whether the unemployment rate consistent with target inflation is higher than previously thought, which would mean more pressure on capacity than estimated. Unit labour cost growth, driven by weak productivity rather than strong wages, also remained above levels consistent with the target.
+
+Members acknowledged the trade-off between inflation and employment had worsened because of global cost pressures, and said returning inflation to target would require accepting slower growth in demand and jobs. The board will remain attentive to incoming data and said it will do what is necessary, including increasing the cash rate further if required.
+
+
+================================================================================
+TITRE : PBOC sets USD/ CNY central rate at 6.7298 (vs. estimate at 6.6981), strongest since 2 February 2023
+DATE  : 13-10-2026 01:21 UTC
+URL   : https://investinglive.com/central-banks/pboc-sets-usd-cny-central-rate-at-6-7298-vs-estimate-at-6-6981-strongest-since-2-february-2023/
+================================================================================
+
+High risk warning: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade foreign exchange, carefully consider your investment objectives, experience level, and risk tolerance. You could lose some or all your initial investment; do not invest money that you cannot afford to lose. Educate yourself on the risks associated with foreign exchange trading and seek advice from an independent financial or tax advisor if you have any questions.
+
+Advisory warning: investingLive is not an investment advisor, investingLive provides references and links to selected news, blogs and other sources of economic and market information for informational purposes and as an educational service to its clients and prospects and does not endorse the opinions or recommendations of the blogs or other sources of information. Clients and prospects are advised to carefully consider the opinions and analysis offered in the blogs or other information sources in the context of the client or prospect's individual analysis and decision making. None of the blogs or other sources of information is to be considered as constituting a track record. Past performance is no guarantee of future results and investingLive specifically hereby acknowledges clients and prospects to carefully review all claims and representations made by advisors, bloggers, money managers and system vendors before investing any funds or opening an account with any Forex dealer. Any news, opinions, research, data, or other information contained within this website is provided on an "as-is" basis as a general market commentary and does not constitute investment or trading advice, and we do not purport to present the entire relevant or available public information with respect to a specific market or security. investingLive expressly disclaims any liability for any lost principal or profits which may arise directly or indirectly from the use of or reliance on such information, or with respect to any of the content presented within its website, nor its editorial choices.
+
+Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
+
+
+================================================================================
+TITRE : BoE’s Greene warns waiting for second-round inflation effects would be too late
+DATE  : 13-10-2026 03:17 UTC
+URL   : https://investinglive.com/central-banks/boe-s-greene-warns-waiting-for-second-round-inflation-effects-would-be-too-late/
+================================================================================
+
+Greene’s remarks reinforce the hawkish wing of the MPC and support market expectations of a November hike, which recent reports put at around 84%. Her warning about second-round effects ties directly to the energy shock from the Iran war: if higher oil and diesel costs feed into wages and pricing, the case for tightening strengthens further, keeping short-dated gilt yields and sterling sensitive to energy prices. The comments also add pressure on the gilt market at a time when global bond yields are already elevated. Upcoming UK wage and inflation data will be key for whether her view gains wider support on the committee.
+
+--Greene’s message is simple: by the time inflation shows up in wages and prices, it will be too late, so the Bank should move before it gets there.
+
+Summary:
+
+Bank of England policymaker Megan Greene said UK monetary policy is not that restrictive, warning that waiting for second-round inflation effects to become visible before acting would leave the central bank responding too late.
+
+Greene, an external member of the Monetary Policy Committee, said she sees the bigger risk as failing to be proactive enough in tackling inflation, rather than raising interest rates too soon. Second-round effects occur when an initial price shock, such as a rise in energy costs, feeds into wages and broader price-setting, making inflation more persistent.
+
+Her comments reinforce her position as one of the more hawkish members of the committee. Greene voted for a quarter-point rate increase at the Bank’s July and September meetings, when she was among three members outvoted by a majority that preferred to keep rates on hold.
+
+Greene has made similar arguments in recent days. Last week, she said she expected the UK to see some second-round effects from the current inflation cycle and voiced concern that wage growth of around 3.5% next year would be worrying, raising the risk that higher prices feed into pay deals and prompt firms to raise prices further.
+
+She said the International Monetary Fund’s latest forecasts for the UK did not surprise her. The IMF raised its 2026 UK growth forecast to 1.3% this week, citing stronger AI-related investment, while warning that the global outlook faces significant risks from the war in the Middle East and elevated energy prices.
+
+The UK, like other major economies, is grappling with inflation pressure from higher oil and diesel prices following the conflict involving Iran. Policymakers who favour acting early argue that letting those costs become embedded in wages and inflation expectations would ultimately require more painful tightening later.
+
+Markets have increasingly priced a rate hike at the Bank’s November meeting, and Greene’s remarks suggest she will continue to make the case for tighter policy. The next round of UK wage and inflation data will help determine whether that view gains broader support on the committee.
+
+

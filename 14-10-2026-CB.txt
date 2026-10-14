@@ -1,0 +1,137 @@
+================================================================================
+TITRE : Singapore’s MAS holds policy steady, surprising all 10 analysts who expected tightening
+DATE  : 14-10-2026 00:11 UTC
+URL   : https://investinglive.com/central-banks/singapore-s-mas-holds-policy-steady-surprising-all-10-analysts-who-expected-tightening/
+================================================================================
+
+The decision is a dovish surprise against a unanimous call for tightening, which leaves the Singapore dollar vulnerable to some softening against its trading partners as positions built for a hawkish move unwind. The policy band still has an appreciating slope, though, so this is a pause in tightening, not an easing. Energy is the key swing factor. MAS explicitly flagged a sharp, sustained surge in energy prices as an upside risk, so a renewed jump in crude tied to Gulf escalation would put tightening firmly back on the table at the next review. Singapore’s position as a regional oil-trading and refining hub makes its imported inflation particularly sensitive to oil and refined product prices.
+
+--
+
+MAS chose patience over pre-emption, betting that slightly elevated inflation will ease on its own as the AI boom cools and import costs fade.
+
+Summary:
+
+The Monetary Authority of Singapore kept its monetary policy settings unchanged on Wednesday, defying expectations for a tightening as it judged that slightly elevated inflation should ease over time.
+
+The central bank, which manages policy through the exchange rate, said it would maintain the current rate of appreciation of its policy band, known as the Singapore dollar nominal effective exchange rate or S$NEER. There will be no change to the width of the band or the level at which it is centred. The band is already on an appreciating path, which helps restrain imported inflation, so the decision leaves that tightening bias in place without adding to it. All 10 analysts polled by Reuters had expected MAS to tighten.
+
+MAS said the economy should continue to expand at a firm pace in the immediate quarters ahead, but moderate thereafter as the AI cycle eases from its exceptional pace and global financial conditions tighten. It expects AI-related activity to slow in the second half of 2027 and the economy’s positive output gap, a sign that demand is running ahead of capacity, to narrow through next year. The government will announce its growth forecasts for 2026 and 2027 in November.
+
+On prices, MAS expects firming imported cost pressures to keep both core and headline inflation at their current slightly elevated levels in the months ahead. Core inflation is forecast to average 1.5% to 2.0% for 2026 as a whole, before easing more discernibly from the middle of next year as import costs ebb.
+
+The central bank stressed that significant uncertainty surrounds the outlook and that, for now, risks to inflation remain tilted to the upside. A sharp and sustained surge in global energy or food prices could lift Singapore’s import costs by more than forecast. On the other hand, a larger-than-expected rise in interest rates or a sharper pullback in AI-related investment could drag on growth and, in turn, inflation.
+
+The hold suggests MAS is prepared to look through near-term price pressures on the view that they will fade, while keeping its appreciating policy stance in place. With risks still skewed to the upside, the path of energy prices and the strength of the AI cycle are likely to shape whether it moves at its next review.
+
+The Monetary Authority of Singapore is the coutnry's central bank.
+
+---
+
+Also out were GDP data for Q3 2026 in Singapore, advance reading:
+
+1.1% q/q
+
+5.4% y/y
+
+
+================================================================================
+TITRE : PBOC is expected to set the USD/CNY reference rate at 6.6922 – Reuters estimate
+DATE  : 14-10-2026 00:29 UTC
+URL   : https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6922-reuters-estimate/
+================================================================================
+
+High risk warning: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade foreign exchange, carefully consider your investment objectives, experience level, and risk tolerance. You could lose some or all your initial investment; do not invest money that you cannot afford to lose. Educate yourself on the risks associated with foreign exchange trading and seek advice from an independent financial or tax advisor if you have any questions.
+
+Advisory warning: investingLive is not an investment advisor, investingLive provides references and links to selected news, blogs and other sources of economic and market information for informational purposes and as an educational service to its clients and prospects and does not endorse the opinions or recommendations of the blogs or other sources of information. Clients and prospects are advised to carefully consider the opinions and analysis offered in the blogs or other information sources in the context of the client or prospect's individual analysis and decision making. None of the blogs or other sources of information is to be considered as constituting a track record. Past performance is no guarantee of future results and investingLive specifically hereby acknowledges clients and prospects to carefully review all claims and representations made by advisors, bloggers, money managers and system vendors before investing any funds or opening an account with any Forex dealer. Any news, opinions, research, data, or other information contained within this website is provided on an "as-is" basis as a general market commentary and does not constitute investment or trading advice, and we do not purport to present the entire relevant or available public information with respect to a specific market or security. investingLive expressly disclaims any liability for any lost principal or profits which may arise directly or indirectly from the use of or reliance on such information, or with respect to any of the content presented within its website, nor its editorial choices.
+
+Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
+
+
+================================================================================
+TITRE : How Singapore’s monetary policy works: the S$NEER band explained in three levers
+DATE  : 14-10-2026 00:33 UTC
+URL   : https://investinglive.com/central-banks/how-singapore-s-monetary-policy-works-the-s-neer-band-explained-in-three-levers/
+================================================================================
+
+How Singapore’s monetary policy works: the S$NEER band explained in three levers
+
+Most central banks fight inflation by raising or cutting interest rates. Singapore does it differently. The Monetary Authority of Singapore steers the economy by managing the value of the Singapore dollar against a basket of its trading partners’ currencies. When MAS “tightens,” it lets the currency strengthen faster, which makes imports cheaper and cools inflation. When it “eases,” it slows or reverses that appreciation.
+
+That is whyWednesday’s decision to hold policy steadywas framed entirely in terms of an exchange rate band, with no mention of an interest rate.
+
+Why Singapore uses the exchange rate
+
+Singapore is one of the most open economies in the world. It imports most of what it consumes, from food and fuel to raw materials, and trade flows are large relative to the size of its economy. That makes the exchange rate a far more powerful influence on prices than domestic interest rates.
+
+There is also a practical constraint. Singapore allows capital to move freely in and out of the country. A central bank with open capital flows can control either its exchange rate or its interest rates, but not both. MAS chose the exchange rate in 1981, and local interest rates largely follow global rates, particularly those in the US.
+
+What is the S$NEER?
+
+The S$NEER, or Singapore dollar nominal effective exchange rate, measures the Singapore dollar against a weighted basket of the currencies of Singapore's main trading partners. MAS does not publish the basket's composition or weights. It manages the S$NEER within a policy band, stepping into the currency market when needed to keep it there.
+
+The three levers
+
+MAS adjusts policy through three features of the band, none of which it discloses precisely.
+
+Analysts estimate the band’s width and slope from the currency’s movements, but MAS keeps the exact parameters private. That gives it room to act without inviting speculation against fixed levels.
+
+How often MAS decides
+
+MAS reviews policy four times a year, in January, April, July and October, having moved from a twice-yearly schedule in 2024. Decisions are released early in the Singapore morning, which is around midnight GMT.
+
+The inflation measure that matters
+
+MAS focuses on core inflation, which excludes accommodation and private transport costs. Those categories are heavily influenced by government policy and housing and car-ownership cycles, so stripping them out gives a cleaner read on underlying price pressures. On Wednesday, MAS forecast core inflation to average 1.5% to 2.0% for 2026 and to ease more discernibly from mid-2027.
+
+What Wednesday’s decision means
+
+By leaving all three levers unchanged, MAS kept the Singapore dollar on its existing appreciating path. That is still a restraint on imported inflation, just not an increased one. All 10 analysts polled by Reuters had expected a tightening, most likely through a steeper slope, so the hold was a dovish surprise relative to expectations, even though the policy setting itself remains a tightening bias.
+
+Key takeaway for traders
+
+When reading an MAS statement, watch for the words “slope,” “width” and “centre.” Any change to them is the policy decision. For the Singapore dollar, the slope sets the medium-term direction against the basket, while a re-centring can produce a sharp immediate move. Because Singapore’s inflation is so sensitive to import costs, especially energy, oil prices are often a better guide to the next MAS move than local interest rates.
+
+
+================================================================================
+TITRE : Singapore: MAS could tighten again in 2027 if inflation risks materialise, says ANZ
+DATE  : 14-10-2026 00:52 UTC
+URL   : https://investinglive.com/central-banks/singapore-mas-could-tighten-again-in-2027-if-inflation-risks-materialise-says-anz/
+================================================================================
+
+ANZ’s view tempers any dovish reading of Wednesday’s surprise hold. If markets come to see it as a pause within a tightening cycle, any Singapore dollar weakness against its trading partners could prove limited. The bar for a further move now appears to be evidence that inflation risks are materialising, which puts imported energy costs at the centre of the outlook. A renewed surge in oil or refined product prices tied to Gulf escalation would be the most likely trigger for MAS to steepen the slope of its policy band again. Easing in crude would strengthen the case for an extended hold.
+
+--
+
+ANZ reads the MAS hold as a breather, not a turning point: the earlier tightenings need time to work, but the door to more remains open.
+
+Summary:
+
+The Monetary Authority of Singapore could resume tightening next year if upside risks to inflation materialise, according to ANZ, one of the few forecasters that correctly predicted the central bank would leave policy unchanged on Wednesday.
+
+Khoon Goh, head of Asia research at ANZ, said MAS judged there was no need to tighten further at this stage because the effects of its two earlier tightening moves, in April and July, are still feeding through the economy. Monetary policy works with a lag, and changes to the path of the Singapore dollar take time to show up in import prices and, in turn, consumer inflation.
+
+That was despite a stronger economic backdrop than expected. Goh noted that third-quarter GDP growth beat expectations and that MAS still expects core inflation to remain slightly elevated in the near term. He stressed, however, that the decision does not signal the end of the tightening cycle, and that MAS could tighten again if upside inflation risks emerge next year.
+
+ANZ’s call set it apart from the consensus. All 10 analysts polled by Reuters ahead of the decision had expected a tightening, making [Wednesday’s hold] a surprise to most of the market.
+
+MAS, whichmanages policy through the Singapore dollar’s trade-weighted exchange rate, kept the rate of appreciation, width and centre of its policy band unchanged. Because the band remains on an appreciating path, the decision leaves the existing tightening stance in place without adding to it. [Our explainer on how MAS policy works] sets out how the three levers operate.
+
+In its statement, the central bank said the economy should expand at a firm pace in the coming quarters before moderating as the AI cycle eases and global financial conditions tighten. It forecast core inflation to average 1.5% to 2.0% in 2026 and to ease more discernibly from mid-2027, but said risks to inflation remain tilted to the upside, including from a sharp and sustained rise in energy or food prices.
+
+ANZ’s assessment suggests the next move, if any, is more likely to be a tightening than an easing. The path of imported costs, particularly energy, and whether core inflation proves stickier than MAS expects will shape the outlook for its upcoming reviews.
+
+
+================================================================================
+TITRE : PBOC sets USD/ CNY mid-point today at 6.7249 (vs. estimate at 6.6922)
+DATE  : 14-10-2026 01:15 UTC
+URL   : https://investinglive.com/central-banks/pboc-sets-usd-cny-mid-point-today-at-6-7249-vs-estimate-at-6-6922/
+================================================================================
+
+High risk warning: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade foreign exchange, carefully consider your investment objectives, experience level, and risk tolerance. You could lose some or all your initial investment; do not invest money that you cannot afford to lose. Educate yourself on the risks associated with foreign exchange trading and seek advice from an independent financial or tax advisor if you have any questions.
+
+Advisory warning: investingLive is not an investment advisor, investingLive provides references and links to selected news, blogs and other sources of economic and market information for informational purposes and as an educational service to its clients and prospects and does not endorse the opinions or recommendations of the blogs or other sources of information. Clients and prospects are advised to carefully consider the opinions and analysis offered in the blogs or other information sources in the context of the client or prospect's individual analysis and decision making. None of the blogs or other sources of information is to be considered as constituting a track record. Past performance is no guarantee of future results and investingLive specifically hereby acknowledges clients and prospects to carefully review all claims and representations made by advisors, bloggers, money managers and system vendors before investing any funds or opening an account with any Forex dealer. Any news, opinions, research, data, or other information contained within this website is provided on an "as-is" basis as a general market commentary and does not constitute investment or trading advice, and we do not purport to present the entire relevant or available public information with respect to a specific market or security. investingLive expressly disclaims any liability for any lost principal or profits which may arise directly or indirectly from the use of or reliance on such information, or with respect to any of the content presented within its website, nor its editorial choices.
+
+Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
+
+

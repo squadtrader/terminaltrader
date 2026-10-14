@@ -267,3 +267,86 @@ Advisory warning: investingLive is not an investment advisor, investingLive prov
 Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
 
 
+================================================================================
+TITRE : Fed catch up - Goolsbee calls CPI discouraging as Beige Book flags diesel-fuelled price pressure
+DATE  : 14-10-2026 21:36 UTC
+URL   : https://investinglive.com/central-banks/fed-catch-up-goolsbee-calls-cpi-discouraging-as-beige-book-flags-diesel-fuelled-price-pressure/
+================================================================================
+
+Together, the two releases make an October hike harder to dismiss. Markets are pricing close to a 40% chance of a move on October 27-28, even though key officials had steered expectations toward December. The oil link is central: diesel costs from the Iran war now run through freight, farming and airfares, which raises the risk of second-round effects the Fed cannot easily look through. That supports Treasury yields at the front end and the US dollar, and keeps mortgage rates under upward pressure. Further strength in crude or diesel would add weight to the case for moving sooner. Next week’s Fed commentary, before the pre-meeting blackout, is the next test of whether officials push back on October pricing.
+
+---
+
+One Fed president is hearing about prices everywhere he goes, and the Fed’s own survey says businesses are hearing about diesel even more.
+
+Summary:
+
+Two Federal Reserve releases on Wednesday painted a picture of inflation pressure that is broadening rather than fading, hours after US consumer price data came in hotter than expected. Chicago Fed President Austan Goolsbee described the September figures as discouraging, and the Fed’s Beige Book survey showed price growth intensifying in parts of the country, driven increasingly by diesel costs.
+
+Consumer prices rose 3.7% in the 12 months through September, well above the Fed’s 2% target and ahead of economists’ forecasts. Higher gasoline costs linked to the Iran war accounted for much of the strength, while rising software and toy prices pointed to AI-driven demand and tariffs.
+
+Speaking to Yahoo Finance, Goolsbee said he was concerned not only with the headline number but with the detail. Services inflation, he said, showed little sign of improvement and ran above 5% in the latest reading, a component that cannot be explained by tariffs or oil prices. He said that everywhere he went in the Midwest, he heard about costs and prices but very little that suggested a downturn or recession risk. In his view, that makes demand-side overheating a greater worry than a straightforward supply shock.
+
+Goolsbee did not say how he thought the Fed should respond in the near term. However, he said there was no ambiguity about the central bank’s job if inflation stays high: it must prevent overheating from building, because demand-driven inflation tends to be persistent and hard to reverse. He said the Fed would get inflation back to 2%.
+
+The Beige Book, which compiles business commentary from the Fed’s 12 regional banks, reinforced those concerns. Three districts described price growth as robust and eight as moderate, with three of those eight saying it was intensifying. Diesel fuel costs were cited 21 times, compared with two in the previous report and none in the surveys taken just before the US-Israeli war with Iran began in late February. Dallas Fed contacts named diesel as the most common factor pushing up costs, affecting freight, agriculture and airfares, and squeezing margins across many industries. Contacts also pointed to pressure from other commodities, tariffs and insurance.
+
+The labour market remained stuck in a low-hire, low-fire pattern. Several districts noted the absence of mass layoffs, but five said firms were cutting staff by not replacing departing workers or by delaying hiring. Several also reported cost-of-living pressure feeding into wage demands. Artificial intelligence featured too: one business services firm told the Chicago Fed that AI productivity gains had allowed it to reduce headcount through attrition.
+
+Housing was a clear weak spot. Mortgage rates rising toward three-year highs pushed buyers out of the market and kept existing owners from moving. Trade tensions with Canada were cited as a drag on manufacturing and tourism in four districts. The survey data were collected on or before October 5.
+
+The Fed raised its target range by a quarter point to 3.75% to 4% in September and signalled one more increase this year. Key officials have played down a move at the October 27-28 meeting, pointing instead toward December, but markets are now pricing close to a 40% chance of a hike this month.
+
+
+================================================================================
+TITRE : Fed’s Daly: more rate hikes likely needed, but no urgency to move in October
+DATE  : 14-10-2026 21:44 UTC
+URL   : https://investinglive.com/central-banks/fed-s-daly-more-rate-hikes-likely-needed-but-no-urgency-to-move-in-october/
+================================================================================
+
+Daly’s comments are the clearest pushback yet against the jump in October hike pricing that followed the CPI data. Expect them to trim the odds of a move on October 27-28 without denting expectations for a December increase. That mix would ease some pressure on the front end of the Treasury curve while leaving longer-dated yields anchored to a higher-for-longer outlook. Because Daly linked headline inflation directly to gasoline prices, oil remains the key swing factor. A further surge in crude tied to the Iran war would test her view that the Fed can afford to wait. Her remarks also contrast with Goolsbee’s more anxious tone, a reminder that officials agree on direction but not on timing.
+
+---
+
+Daly agrees the Fed probably has more hiking to do, but she sees no reason to rush it out the door this month.
+
+Summary:
+
+The Federal Reserve will probably need to raise interest rates further to bring down inflation, San Francisco Fed President Mary Daly said on Wednesday, but she signalled there is no need to act at the central bank’s October 27-28 meeting. Daly made the remarks in an exclusive interview with Reuters.
+
+Daly said further adjustments were more likely than not, but that she was still weighing their timing. She said she did not feel any urgency to decide on a limited set of information and believed the Fed had the time it needed. In her view, reacting when there is time to make a good decision would be imprudent, and it is better for policymakers to be thoughtful and deliberate.
+
+Her comments came on the same day asSeptember consumer price data, which showed inflation running at 3.7% from a year earlier, above expectations and well over the Fed’s 2% goal. Daly said the figures showed gasoline prices driving headline inflation, while core inflation, which strips out volatile food and energy costs, remained sticky, as she had expected. She said it was not yet clear whether inflation would ease as recent shocks fade, or worsen if they persist.
+
+Daly said the risks of inflation staying above target remain elevated. A stable labour market, she added, means the Fed can concentrate on price stability. She also said she found it reassuring that markets had calmed after an initially strong reaction to the CPI report, and that investors understood how the Fed would respond.
+
+The remarks help define where policymakers stand ahead of this month’s meeting. Earlier on Wednesday, Chicago Fed President AustanGoolsbee called the CPI data discouraging, pointing to persistent services inflation. The Fed’sBeige Book survey showed price pressures intensifyingacross parts of the country, driven increasingly by diesel costs. The CPI release had lifted market expectations of an October hike, and Daly’s comments suggest she would prefer to wait.
+
+The Fed raised its target range by a quarter point to 3.75% to 4% in September and signalled one more increase this year. Most officials have pointed to December rather than October as the likelier timing, and Daly’s comments fit that view.
+
+
+================================================================================
+TITRE : ICYMI: Citi now expects a December Fed rate hike after hotter September US inflation
+DATE  : 14-10-2026 23:29 UTC
+URL   : https://investinglive.com/central-banks/icymi-citi-now-expects-a-december-fed-rate-hike-after-hotter-september-us-inflation/
+================================================================================
+
+Citi’s shift removes one of the last prominent holdouts against a December hike, so the debate moves from whether the Fed tightens again to when. The swing in October pricing, which spiked after the data and then faded, shows traders are uncertain about the timing and are likely to react strongly to any Fed speaker who leans either way before the meeting. A higher-for-longer path, with cuts pushed out to mid-2027, tends to support the US dollar and Treasury yields and to weigh on rate-sensitive assets. The core detail matters most: inflation spreading beyond gasoline is harder for the Fed to look through than an energy spike alone.
+
+--Thehot CPI printwas enough to turn Citi from a Fed sceptic into a December hiker, and markets are now asking whether October comes first.
+
+Summary:
+
+Citigroup now expects the Federal Reserve to raise interest rates by 25 basis points in December, after US consumer inflation for September came in above expectations. The bank had previously forecast no further Fed moves this year, even though financial markets had already largely priced in a December increase.
+
+Citi said it expects the Fed to leave rates unchanged after that December hike, and does not see cuts beginning until June 2027.
+
+Wednesday’s Consumer Price Index report showed headline inflation rising to 3.7% in the year to September from 3.4% in August, slightly above the 3.6% expected. Prices rose 0.6% on the month, in line with forecasts, driven by a surge in gasoline costs. The more worrying detail for policymakers was that price pressures spread beyond energy. Core inflation, which excludes food and energy, climbed to 2.6% from 2.4%, above the 2.5% expected, with a monthly gain of around 0.3% against forecasts of 0.2%. That raised concern that underlying inflation could prove sticky.
+
+Markets reacted quickly. Rate futures pointed to roughly a 94% probability of a December hike. Pricing for the Fed’s October 27 to 28 meeting moved sharply too. CME Group’s FedWatch tool showed the implied chance of an October hike jumping to around 47% after the data, from roughly 22% beforehand. That has since eased, with FedWatch showing a probability of around 32% at the time of writing.
+
+The shift leaves the October meeting as a genuine decision point rather than a formality. Markets are still treating a December move as close to certain, but the timing of the next hike has become a live debate.
+
+Citi’s change of view matters because it brings one of the major Wall Street forecasters into line with market pricing. It also signals that a single inflation report showing broader price pressure can be enough to shift expectations. Attention now turns to remaining Fed commentary before the October meeting and to the next round of inflation data, including the September PCE figures, for confirmation of whether price pressures are spreading or easing.
+
+

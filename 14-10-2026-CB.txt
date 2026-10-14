@@ -135,3 +135,63 @@ Advisory warning: investingLive is not an investment advisor, investingLive prov
 Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
 
 
+================================================================================
+TITRE : Goldman Sachs says RBA minutes lower bar for November hike, with three hawkish signals
+DATE  : 14-10-2026 02:22 UTC
+URL   : https://investinglive.com/central-banks/goldman-sachs-says-rba-minutes-lower-bar-for-november-hike-with-three-hawkish-signals/
+================================================================================
+
+Goldman’s read raises the risk that the next RBA move comes sooner than its own base case. That leaves the third-quarter CPI release as the main event for the Australian dollar and short-dated bond yields. The minutes’ emphasis on domestic capacity shifts the focus from energy pass-through to underlying inflation, so even a moderate headline print could carry hawkish weight if services and core measures stay firm. Oil still matters at the margin: the minutes noted that domestic fuel prices were running well above the RBA’s August assumptions, and a renewed jump in crude tied to the Iran war would strengthen the case for tightening. Market pricing had already leaned toward further hikes before the September decision, so a hot CPI reading could quickly firm up expectations for November.
+
+---
+
+Goldman isn’t calling a November hike yet, but it thinks theRBA minuteshave opened the door, and the CPI report later this month will decide whether the board walks through it.
+
+Summary:
+
+Minutes of the Reserve Bank of Australia’s September policy meeting have likely lowered the bar for another interest rate increase in November, according to Goldman Sachs economists. The bank still expects rates to stay on hold.
+
+In a report, three members of Goldman’s economics research team said they viewed the minutes, released on Tuesday, as more hawkish than Governor Michele Bullock’s press conference after the decision, for three reasons. Among them, the economists said the minutes showed increased concern about domestic capacity pressures, with the board treating July’s stronger-than-expected inflation data as evidence of that.
+
+Goldman continues to expect the RBA to hold the cash rate at 4.60% at its next meeting. However, it judged that the minutes have lowered the threshold for a further hike in November, depending on the outcome of the third-quarter consumer price index report.
+
+The minutes support that reading. They showed the board unanimously raised rates by 25 basis points at the 28 to 29 September meeting because several upside risks to inflation flagged in August had either materialised or were building. Those risks included a broader Middle East conflict pushing oil prices higher, cost pressures from the global AI boom, and tighter domestic capacity than assumed. Members said excess demand in the economy appeared greater than previously assessed. Staff increasingly questioned whether the unemployment rate consistent with target inflation was higher than thought, and business surveys pointed to a drift higher in firms’ inflation expectations.
+
+The board also noted that, if global neutral interest rates have risen, the previous 4.35% cash rate was less restrictive than it had been two years earlier. It said holding steady while other central banks tightened could loosen Australian financial conditions through a weaker currency. Members concluded that they would remain attentive to incoming data and would raise rates further if required.
+
+The third-quarter CPI report, due on 28 October at 00:30 GMT (20:30 ET on 27 October), now looks pivotal. The RBA’s next decision follows on 3 November at 03:30 GMT (22:30 ET on 2 November), alongside its updated quarterly forecasts. A strong reading on underlying and services inflation would test Goldman’s hold call and could push the board toward a second consecutive increase.
+
+---
+
+If nothing in November the RBA has another crack in December before a long break until the next meeting 8–9 February 2027:
+
+
+================================================================================
+TITRE : Lagarde: no second-round effects yet, but ECB can’t wait until they are in full view
+DATE  : 14-10-2026 02:37 UTC
+URL   : https://investinglive.com/central-banks/lagarde-no-second-round-effects-yet-but-ecb-can-t-wait-until-they-are-in-full-view/
+================================================================================
+
+Lagarde’s message leans hawkish at the margin. A central bank that will act on early hints, without waiting for clear evidence of second-round effects, could move sooner than markets expect if wage settlements firm. That supports front-end European yields and the euro on a relative basis. Energy is the key transmission channel. With inflation driven mainly by energy prices, a further jump in oil or gas from Gulf escalation would raise the odds of pre-emptive tightening, making crude and TTF gas direct inputs into ECB pricing. Her comments on France offer no backstop signal, so the French-German yield spread remains exposed to Paris’s budget politics.
+
+-
+
+Lagarde sees no wage-price spiral yet, but she has made clear the ECB will act on the first signs rather than wait for proof.
+
+Summary:
+
+European Central Bank President Christine Lagarde said the euro area has yet to see second-round effects from higher energy prices, but signalled the central bank would not wait for them to become fully visible before responding.
+
+Lagarde said inflation has been rising predominantly, though not exclusively, as a result of energy prices. While there is no sign yet of those increases feeding through into broader wages and prices, she said policymakers must anticipate and look for early hints. The ECB is paying particular attention to collective bargaining arrangements, where expectations of future wage increases tend to show up first.
+
+Second-round effects occur when an initial price shock, such as a jump in energy costs, prompts workers to seek higher wages and companies to raise prices further, turning a temporary spike into more persistent inflation. Lagarde’s emphasis on acting before those effects are fully evident suggests a readiness to respond pre-emptively if wage settlements begin to firm.
+
+On the economy, Lagarde said growth is not brilliant, but that euro area growth of 1.1% in 2026 is not bad.
+
+Asked about France’s debt, she said the primary and first solution lies in French fiscal policy. The remark puts the onus on Paris rather than the ECB as French borrowing costs face pressure. Goldman Sachs noted in a recent client discussion that the spread between French and German government bond yields has widened sharply amid political tensions over the French budget, an issue it expects to persist ahead of the French presidential election in the first half of next year.
+
+Lagarde, who is French, also said she will not run for president of France.
+
+Her comments leave energy prices and wage negotiations as the key indicators for the ECB’s next steps. A renewed rise in energy costs, or early evidence of stronger pay demands, would increase pressure on policymakers to act before inflation becomes entrenched.
+
+

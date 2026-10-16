@@ -1,0 +1,108 @@
+================================================================================
+TITRE : PBOC is expected to set the USD/CNY reference rate at 6.6947 – Reuters estimate
+DATE  : 16-10-2026 00:19 UTC
+URL   : https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6947-reuters-estimate/
+================================================================================
+
+The fixing mechanism matters most right now because its message has shifted over the past month. For nearly a year, the PBOC has set its daily guidance weaker than market expectations, which traders read as an effort to slow the yuan's appreciation, and in late August that gap reached its widest since February, shortly after the yuan touched a three-and-a-half-year high. Through September, however, the midpoint has strengthened at a faster pace, narrowing its gap with market expectations and suggesting the central bank has eased its resistance to yuan gains. The fixing is still set weaker than models imply, so this looks like a loosening of the brakes rather than their removal. The balance Beijing is weighing is unchanged: a firmer currency supports capital stability and import costs, but too rapid a rise risks eroding export competitiveness while the domestic economy remains soft. The gap between each day's fixing and consensus estimates remains one of the clearest guides to how far the PBOC is willing to let the yuan run.
+
+---
+
+The daily fixing is Beijing's quietest but clearest tool for telling markets how fast it wants the yuan to move, and after months of saying slow down, it has lately been saying go, gradually.
+
+Summary:
+
+The People's Bank of China sets the daily USD/CNY reference rate at around 0115 GMT, a fixing that remains one of the most closely watched signals in Asian foreign exchange markets. It has taken on added significance in recent weeks as policymakers have shifted from restraining the yuan's rise to guiding it higher.
+
+China operates a managed floating exchange rate system, under which the yuan is allowed to trade within a band of plus or minus 2% around the central midpoint set each trading day. That midpoint reflects a mix of inputs, including the previous day's closing price, movements in major currencies such as the US dollar, broader international FX conditions, and domestic considerations like capital flows, growth momentum and financial stability objectives. The calculation is not purely mechanical, giving policymakers room to use the fixing to guide market expectations.
+
+Once the midpoint is set, onshore USD/CNY trades freely within the allowable range. Should market pressure push the currency toward either edge of that band, the central bank can step in to smooth volatility, whether through direct buying or selling of yuan, adjustments to liquidity conditions, or guidance channelled through state-owned banks. As a result, the daily fixing is often read as a policy signal rather than a purely technical reference point. A stronger-than-expected midpoint typically suggests the PBOC is leaning against depreciation, while a weaker fixing can signal tolerance for a softer currency, or unease with how quickly the yuan is rising.
+
+That second reading has dominated for much of the past year. For nearly a year, the central bank set its daily guidance weaker than market expectations, a pattern traders and analysts interpreted as an attempt to slow the yuan's appreciation. The gap reached its widest since February in late August, shortly after the yuan touched a three-and-a-half-year high against the dollar.
+
+September has brought a clear change of tone. The midpoint has strengthened at a faster pace this month, narrowing its gap with market expectations and suggesting the PBOC has eased its resistance to yuan gains. The central bank strengthened the fixing for eight consecutive sessions, the longest streak since 2023, and the midpoint has since reached its strongest level since February 2023. The onshore yuan has traded at its strongest since January 2023, while the offshore rate has reached levels last seen in July 2022. Even so, the fixing is still being set well weaker than market estimates, with one recent midpoint more than 500 pips below a Reuters survey forecast, a reminder that Beijing is allowing appreciation on its own terms rather than stepping aside.
+
+The timing has been linked to diplomacy.
+
+The underlying tension is a familiar one. A firmer yuan supports capital stability and eases import costs, but a rapid rise risks undermining export competitiveness at a moment when China's broader economy continues to show signs of softness. For traders and investors, the gap between each day's fixing and consensus estimates remains one of the clearest windows into how Beijing is weighing that trade-off, and whether the recent green light for gains stays in place once the summit has passed.
+
+
+================================================================================
+TITRE : PBOC sets USD/ CNY reference rate for today at 6.7220 (vs. estimate at 6.6947)
+DATE  : 16-10-2026 01:15 UTC
+URL   : https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7220-vs-estimate-at-6-6947/
+================================================================================
+
+High risk warning: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade foreign exchange, carefully consider your investment objectives, experience level, and risk tolerance. You could lose some or all your initial investment; do not invest money that you cannot afford to lose. Educate yourself on the risks associated with foreign exchange trading and seek advice from an independent financial or tax advisor if you have any questions.
+
+Advisory warning: investingLive is not an investment advisor, investingLive provides references and links to selected news, blogs and other sources of economic and market information for informational purposes and as an educational service to its clients and prospects and does not endorse the opinions or recommendations of the blogs or other sources of information. Clients and prospects are advised to carefully consider the opinions and analysis offered in the blogs or other information sources in the context of the client or prospect's individual analysis and decision making. None of the blogs or other sources of information is to be considered as constituting a track record. Past performance is no guarantee of future results and investingLive specifically hereby acknowledges clients and prospects to carefully review all claims and representations made by advisors, bloggers, money managers and system vendors before investing any funds or opening an account with any Forex dealer. Any news, opinions, research, data, or other information contained within this website is provided on an "as-is" basis as a general market commentary and does not constitute investment or trading advice, and we do not purport to present the entire relevant or available public information with respect to a specific market or security. investingLive expressly disclaims any liability for any lost principal or profits which may arise directly or indirectly from the use of or reliance on such information, or with respect to any of the content presented within its website, nor its editorial choices.
+
+Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
+
+
+================================================================================
+TITRE : Goldman: Warsh’s quieter Fed: why less guidance could mean more market volatility
+DATE  : 16-10-2026 01:16 UTC
+URL   : https://investinglive.com/central-banks/goldman-warsh-s-quieter-fed-why-less-guidance-could-mean-more-market-volatility/
+================================================================================
+
+Less forward guidance shifts the burden onto data, which points to bigger moves in short-dated Treasuries, the dollar and rate-sensitive equities around key releases, as this week’s CPI reaction showed. Bond volatility may stay elevated even if the eventual Fed path matches the consensus for a single December hike. Oil is a central variable in that regime: with the Iran war keeping energy costs high, every swing in crude feeds directly into inflation expectations, and with less Fed guidance to anchor them, into rate pricing. Gold is likely to keep trading off yields and hike expectations rather than geopolitical headlines.
+
+---
+
+Warsh wants markets to stop staring at the Fed and start reading the economy, but after 15 years of hand-holding, the first steps without guidance may be wobbly ones.
+
+Summary:
+
+For more than a decade, investors have been trained to read the Federal Reserve’s every word. Kevin Warsh wants to break the habit, and Goldman Sachs is warning clients that weaning markets off Fed guidance could come with a price: longer policy lags and more volatility.
+
+The Fed chair,who speaks at the IMF and World Bank meetings in Bangkokon Friday, has set up five task forces to review how the central bank works. They cover communications, the balance sheet, data sources, productivity and jobs, and the inflation framework. Communications is the one most likely to change how markets trade. Warsh has argued that the Fed should say less about its internal thinking so that investors form their own view of the economy, likening it to watching the game rather than the official. He has also said he opposes giving guidance on whether the Fed will hike, cut or hold at upcoming meetings.
+
+In its latest quarterly update for clients, Goldman’s Investment Strategy Group said any changes from the task forces are likely to be gradual. But it flagged a concern shared by some investors. If the Fed tells markets less, it may take longer for policy to work through financial conditions, and the adjustment could be bumpier for both markets and the real economy.
+
+The logic is straightforward. Forward guidance has long worked as a policy tool in its own right. When the Fed signals its path, bond yields, mortgage rates and the dollar move ahead of any decision, doing part of the tightening or easing in advance. Take the signals away and markets must wait for the data, and for the decisions themselves, to adjust. That could mean bigger moves on key releases and more frequent repricing between meetings.
+
+There are early signs of what that looks like. In the space of a week in late September, futures pricing for an October hike swung from around 70% to below 40% as softer inflation data and comments from a senior Fed official changed the picture. Goldman itselfpushed back its expected next hike from October to Decemberat the start of the month. This week’s hotter-than-expected consumer price data then lifted Treasury yields sharply as traders added to bets on further tightening.
+
+The September hike, the first since 2023, came with a statement that offered no explicit guidance on future moves. That leaves markets leaning heavily on data and on individual officials, with regional presidents such as Cleveland’s Beth Hammack filling some of the gap with their own views.
+
+Warsh’s case has merit. Heavy guidance can lock a central bank into a path that the data no longer support, and can encourage markets to bet on the Fed rather than on the economy. A market that does its own homework may also price risk more honestly. The trade-off is that the transition period, while investors relearn how to read the economy without a script, is likely to be noisier.
+
+For traders, that suggests a regime in which economic releases matter more and Fed meetings matter differently. Short-dated Treasuries, the dollar and rate-sensitive equities are likely to be the most exposed. Bond volatility may stay elevated even if the Fed’s path ends up close to what Wall Street expects, with most major banks now forecasting a single further hike in December.
+
+Friday’s appearance in Bangkok is a test case. If Warsh sticks to his script and offers little on October, markets will have to make their own call before the Fed meets on 27 and 28 October, which is exactly the point.
+
+
+================================================================================
+TITRE : Bailey says UK second-round inflation effects subdued so far, too early to judge
+DATE  : 16-10-2026 02:25 UTC
+URL   : https://investinglive.com/central-banks/bailey-says-uk-second-round-inflation-effects-subdued-so-far-too-early-to-judge/
+================================================================================
+
+The comments are more balanced than Bailey’s late-September warnings, and could take a little heat out of heavily priced November hike bets in short-dated gilts and sterling, without ruling a move out. His point that Middle East news is the biggest driver of gilt yields puts oil and gas prices at the centre of the UK rate outlook: renewed escalation in the Iran war would lift energy costs and strengthen the case for a hike, while any easing would weaken it. Next week’s September inflation data and the 28 October Budget are the next catalysts.
+
+---
+
+Background:
+
+---
+
+Bailey is frustrated with inflation but not yet alarmed by it, which leaves November live without giving hike-hungry markets the nod they wanted.
+
+Summary:
+
+Bank of England Governor Andrew Bailey said on Friday that higher energy prices have so far had only a limited knock-on effect on wider British prices, but that it is too early to form a firm view. That leaves the door open to a rate rise without signalling that one is imminent.
+
+Speaking at the Institute of International Finance’s annual meeting in Bangkok, held alongside the IMF and World Bank annual meetings, Bailey said the evidence on so-called second-round effects has been quite subdued. These are effects where higher energy costs feed into wages and the prices of other goods and services. He added that businesses are emphasising cost-cutting, rather than passing costs on.
+
+At the same time, Bailey described above-target UK inflation as enormously frustrating. He said the economy has proved more resilient than the Bank expected, but is not as strong as it needs to be, and that news from the Middle East is the biggest factor driving UK government bond yields.
+
+The comments matter because markets have been betting heavily on a rate rise at the Bank’s next decision on 5 November. Bank Rate stands at 3.75%, and at the September meeting the Monetary Policy Committee voted 6-3 to hold, with three members preferring an immediate increase. Bailey voted with the majority. In late September, however, he warned that persistently high energy prices would make it harder to keep rates on hold, a shift in tone that helped push hike expectations higher.
+
+Friday’s remarks are more balanced. Describing second-round effects as subdued is consistent with the Bank’s September assessment, and suggests Bailey is not yet convinced the energy shock is becoming embedded in wage and price setting. That is the key test for the MPC majority. His frustration over inflation, however, signals little tolerance for a prolonged overshoot, so the comments stop short of pushing back against a November move.
+
+His point on gilt yields underlines how far UK rates now depend on oil and gas prices tied to the Iran war. A further rise in energy costs would strengthen the case for tightening, while an easing in Middle East tensions would weaken it.
+
+The next markers are UK September inflation data next week, the 28 October Budget, and the Bank’s November decision, which will come with fresh forecasts.
+
+

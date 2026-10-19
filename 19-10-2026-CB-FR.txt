@@ -135,3 +135,30 @@ Advisory warning: investingLive is not an investment advisor, investingLive prov
 Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
 
 
+================================================================================
+TITRE : China LPR preview: rates seen on hold for a 17th month after Q3 GDP beat
+DATE  : 19-10-2026 20:05 UTC
+URL   : https://investinglive.com/central-banks/china-lpr-preview-rates-seen-on-hold-for-a-17th-month-after-q3-gdp-beat/
+================================================================================
+
+A hold is widely expected and should be largely priced, so any reaction is likely to come only from a surprise. An unexpected cut (not gonna happen ... thats how unespected it'd be!) would probably weigh on the yuan, given the already wide gap between US and Chinese yields, while giving Chinese equities and property names a lift. The Australian and New Zealand dollars, often traded as proxies for Chinese growth, could firm on a cut as a sign of extra support for demand. For oil, any easing from the world’s largest crude importer would be a modest positive for demand, at a time when Iran war disruptions are already keeping supply risk elevated. A hold keeps the focus on liquidity tools such as a reserve requirement ratio cut as the more likely form of any future easing.
+
+---
+
+With growth back inside Beijing’s target range and the Fed tightening, the PBOC has little reason to move its lending benchmarks and good reason to keep its powder dry.
+
+Summary:
+
+China is expected to leave its benchmark lending rates unchanged at Tuesday’s monthly fixing, which would extend the hold to a 17th consecutive month, after stronger-than-expected third-quarter growth eased pressure on Beijing to add monetary support. The one-year loan prime rate is seen staying at 3.0% and the five-year LPR at 3.5%, with the fixing due at 9:00 a.m. Beijing time (0100 GMT / 2100 US Eastern time).
+
+The loan prime rate is China’s benchmark for domestic lending and the reference point for pricing new bank loans. It is compiled each month from rate submissions by a panel of 20 designated commercial banks, although the People’s Bank of China retains strong influence over the outcome. There are two tenors: the one-year LPR, on which most new and outstanding loans are based, and the five-year LPR, which serves as the reference for mortgage pricing. The LPR replaced China’s old benchmark lending rate in August 2019 as part of a shift toward more market-based rate setting.
+
+In practice, the LPR follows the central bank’s lead. Since a framework change in mid-2024, the PBOC has treated its seven-day reverse repo rate as its main policy rate, replacing the medium-term lending facility rate that previously served as the anchor for banks’ submissions. When the seven-day rate moves, the LPRs typically follow, and with it unchanged, the benchmarks have stayed put. Both tenors were last cut in May 2025, by 10 basis points each, following a larger quarter-point reduction in October 2024.
+
+Monday’s data strengthened the case for patience.Gross domestic product grew 4.5%from a year earlier in the third quarter, slightly ahead of forecasts and up from 4.3% in the second quarter, lifting growth back to the bottom of Beijing’s 4.5% to 5% target range. September retail sales and industrial output also beat expectations, though property investment fell by around 21% in the first nine months of the year, underlining the weakness in housing. A Reuters poll conducted ahead of the release found economists expect the LPRs and the reserve requirement ratio to remain unchanged through the first quarter of 2027.
+
+External conditions also argue against a cut. The Federal Reserve raised rates in September and signalled more could follow, widening the policy gap with China, and the premium on 10-year US Treasuries over Chinese government bonds was near a record high last month. Further easing would risk adding pressure on the yuan. At home, policymakers face weak credit demand and squeezed bank margins, which limit the appeal of lower lending rates.
+
+A hold would keep attention on fourth-quarter data and on whether Beijing leans on liquidity measures or fiscal support rather than rate cuts if growth falters again.
+
+

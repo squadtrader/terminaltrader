@@ -1,0 +1,129 @@
+================================================================================
+TITRE : PBOC is expected to set the USD/CNY reference rate at 6.6813 – Reuters estimate
+DATE  : 20-10-2026 00:18 UTC
+URL   : https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6813-reuters-estimate/
+================================================================================
+
+The fixing mechanism matters most right now because its message has shifted over the past month. For nearly a year, the PBOC has set its daily guidance weaker than market expectations, which traders read as an effort to slow the yuan's appreciation, and in late August that gap reached its widest since February, shortly after the yuan touched a three-and-a-half-year high. Through September, however, the midpoint has strengthened at a faster pace, narrowing its gap with market expectations and suggesting the central bank has eased its resistance to yuan gains. The fixing is still set weaker than models imply, so this looks like a loosening of the brakes rather than their removal. The balance Beijing is weighing is unchanged: a firmer currency supports capital stability and import costs, but too rapid a rise risks eroding export competitiveness while the domestic economy remains soft. The gap between each day's fixing and consensus estimates remains one of the clearest guides to how far the PBOC is willing to let the yuan run.
+
+---
+
+The daily fixing is Beijing's quietest but clearest tool for telling markets how fast it wants the yuan to move, and after months of saying slow down, it has lately been saying go, gradually.
+
+Summary:
+
+The People's Bank of China sets the daily USD/CNY reference rate at around 0115 GMT, a fixing that remains one of the most closely watched signals in Asian foreign exchange markets. It has taken on added significance in recent weeks as policymakers have shifted from restraining the yuan's rise to guiding it higher.
+
+China operates a managed floating exchange rate system, under which the yuan is allowed to trade within a band of plus or minus 2% around the central midpoint set each trading day. That midpoint reflects a mix of inputs, including the previous day's closing price, movements in major currencies such as the US dollar, broader international FX conditions, and domestic considerations like capital flows, growth momentum and financial stability objectives. The calculation is not purely mechanical, giving policymakers room to use the fixing to guide market expectations.
+
+Once the midpoint is set, onshore USD/CNY trades freely within the allowable range. Should market pressure push the currency toward either edge of that band, the central bank can step in to smooth volatility, whether through direct buying or selling of yuan, adjustments to liquidity conditions, or guidance channelled through state-owned banks. As a result, the daily fixing is often read as a policy signal rather than a purely technical reference point. A stronger-than-expected midpoint typically suggests the PBOC is leaning against depreciation, while a weaker fixing can signal tolerance for a softer currency, or unease with how quickly the yuan is rising.
+
+That second reading has dominated for much of the past year. For nearly a year, the central bank set its daily guidance weaker than market expectations, a pattern traders and analysts interpreted as an attempt to slow the yuan's appreciation. The gap reached its widest since February in late August, shortly after the yuan touched a three-and-a-half-year high against the dollar.
+
+September has brought a clear change of tone. The midpoint has strengthened at a faster pace this month, narrowing its gap with market expectations and suggesting the PBOC has eased its resistance to yuan gains. The central bank strengthened the fixing for eight consecutive sessions, the longest streak since 2023, and the midpoint has since reached its strongest level since February 2023. The onshore yuan has traded at its strongest since January 2023, while the offshore rate has reached levels last seen in July 2022. Even so, the fixing is still being set well weaker than market estimates, with one recent midpoint more than 500 pips below a Reuters survey forecast, a reminder that Beijing is allowing appreciation on its own terms rather than stepping aside.
+
+The timing has been linked to diplomacy.
+
+The underlying tension is a familiar one. A firmer yuan supports capital stability and eases import costs, but a rapid rise risks undermining export competitiveness at a moment when China's broader economy continues to show signs of softness. For traders and investors, the gap between each day's fixing and consensus estimates remains one of the clearest windows into how Beijing is weighing that trade-off, and whether the recent green light for gains stays in place once the summit has passed.
+
+
+================================================================================
+TITRE : China holds loan prime rates for 17th month as policy focus shifts to short-term rates
+DATE  : 20-10-2026 01:03 UTC
+URL   : https://investinglive.com/central-banks/china-holds-loan-prime-rates-for-17th-month-as-policy-focus-shifts-to-short-term-rates/
+================================================================================
+
+The hold was widely expected and should have little direct market impact. The more important signals for traders now come from China’s short-term rates. Monday’s comments from PBOC Governor Pan Gongsheng about moving to an overnight policy rate matter more for the outlook, since the level at which any new rate is set will shape expectations for future easing. With Q3 growth back inside Beijing’s target range and the Federal Reserve tightening, the case for imminent cuts is weak, which limits downside pressure on the yuan from rate differentials. For the Australian and New Zealand dollars and for oil, an unchanged LPR offers no fresh stimulus signal for Chinese demand, keeping the focus on fiscal support and incoming activity data.
+
+Newswire cut:China kept its one-year loan prime rate at 3.0% and five-year at 3.5%, the 17th straight month on hold. The seven-day reverse repo at 1.40% is the main policy rate, and Pan has flagged a move to an overnight rate, but the LPR still prices most loans.
+
+One-line wrap:China’s lending benchmarks have not moved in 17 months, and with the central bank now steering through short-term rates, the LPR has become less a policy lever than a price tag on the country’s loans.
+
+Summary:
+
+China left its benchmark lending rates unchanged for a 17th consecutive month on Tuesday, as expected, with the one-year loan prime rate held at 3.0% and the five-year LPR at 3.5%.
+
+The decision comes as the LPR’s role in Chinese monetary policy continues to shrink. Since a framework change in 2024, the People’s Bank of China has used its seven-day reverse repo rate, currently 1.40%, as its main policy rate. That is the rate the central bank sets directly to steer borrowing costs, and the LPR has followed its lead. With the seven-day rate unchanged, there was little reason for the benchmarks to move.
+
+The LPR has nonetheless kept an important job. It is compiled monthly from quotes submitted by a panel of 20 banks and serves as the reference rate for pricing most new and outstanding loans across the economy. The one-year rate anchors most corporate and household lending, while the five-year rate is the benchmark for mortgages. For borrowers, the LPR remains the number that most directly determines what they pay, even if it no longer drives policy.
+
+That role is set to narrow further. Speaking at the Financial Street Forum in Beijing on Monday, PBOC Governor Pan Gongsheng said the central bankwould study switching its main policy operations to an overnight tenor when the time is right, making the overnight reverse repo rate the main policy rate. He also said financially strong companies would be able to choose either the overnight rate or the LPR as the benchmark for floating-rate loans, while lending to households and smaller firms would remain mainly tied to the LPR. The central bank also plans to improve how LPR quotes are set.
+
+Economic conditions also argued against a cut.China’s economy grew 4.5% from a year earlier in the third quarter, slightly above forecasts and back at the bottom of Beijing’s growth target range, with retail sales and industrial output also beating expectations. Abroad, the Federal Reserve’s tightening has kept the gap between US and Chinese bond yields wide, adding to pressure on the yuan if Beijing were to ease. A Reuters poll conducted before the GDP release found economists expect the LPRs and the reserve requirement ratio to stay unchanged through the first quarter of 2027.
+
+Both LPRs were last cut in May 2025, by 10 basis points each. Attention now shifts to the timing of the overnight rate switch and the level at which the new policy rate is set, which will offer a clearer signal of the PBOC’s next move than the monthly LPR fixing.
+
+
+================================================================================
+TITRE : PBOC sets USD/ CNY mid-point today at 6.7200 (vs. estimate at 6.6813)
+DATE  : 20-10-2026 01:19 UTC
+URL   : https://investinglive.com/central-banks/pboc-sets-usd-cny-mid-point-today-at-6-7200-vs-estimate-at-6-6813/
+================================================================================
+
+High risk warning: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade foreign exchange, carefully consider your investment objectives, experience level, and risk tolerance. You could lose some or all your initial investment; do not invest money that you cannot afford to lose. Educate yourself on the risks associated with foreign exchange trading and seek advice from an independent financial or tax advisor if you have any questions.
+
+Advisory warning: investingLive is not an investment advisor, investingLive provides references and links to selected news, blogs and other sources of economic and market information for informational purposes and as an educational service to its clients and prospects and does not endorse the opinions or recommendations of the blogs or other sources of information. Clients and prospects are advised to carefully consider the opinions and analysis offered in the blogs or other information sources in the context of the client or prospect's individual analysis and decision making. None of the blogs or other sources of information is to be considered as constituting a track record. Past performance is no guarantee of future results and investingLive specifically hereby acknowledges clients and prospects to carefully review all claims and representations made by advisors, bloggers, money managers and system vendors before investing any funds or opening an account with any Forex dealer. Any news, opinions, research, data, or other information contained within this website is provided on an "as-is" basis as a general market commentary and does not constitute investment or trading advice, and we do not purport to present the entire relevant or available public information with respect to a specific market or security. investingLive expressly disclaims any liability for any lost principal or profits which may arise directly or indirectly from the use of or reliance on such information, or with respect to any of the content presented within its website, nor its editorial choices.
+
+Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
+
+
+================================================================================
+TITRE : PBOC to run daily overnight reverse repos to Nov 2 in first step after policy rate signal
+DATE  : 20-10-2026 02:15 UTC
+URL   : https://investinglive.com/central-banks/pboc-to-run-daily-overnight-reverse-repos-to-nov-2-in-first-step-after-policy-rate-signal/
+================================================================================
+
+The direct effect should be calmer overnight funding in China’s interbank market through month-end, with the 1 trillion yuan daily cap large enough to stop short-term rates spiking. The bigger market question is the rate the operations carry, which has not been confirmed. If it is set near the current overnight market level of around 1.25%, below the seven-day policy rate of 1.40%, traders may read it as a preview of a lower policy anchor, which would tend to support Chinese government bonds and could weigh on the yuan. If it is set at the top of the existing corridor, it would mainly act as a ceiling and carry little policy signal. For the Australian and New Zealand dollars and for oil, the operations matter only if they turn out to be the first step toward genuine easing that lifts Chinese demand.
+
+---
+
+A day after saying it would study an overnight policy rate, China’s central bank has started using one every day, but until it reveals the price, markets cannot tell whether this is a dress rehearsal or a month-end safety net.
+
+Summary:
+
+China’s central bank will carry out overnight reverse repo operations every day from 21 October to 2 November, putting its newest liquidity tool into regular use a day after Governor Pan Gongsheng said the PBOC would study making the overnight rate its main policy rate.
+
+The People’s Bank of China said the operations will be conducted through fixed-rate, quantity-based tenders, with a cap of 1 trillion yuan a day. In that format, the central bank sets the interest rate and banks bid for the amount of funding they want at that rate. Foreign-invested banks that act as yuan settlement banks will also be eligible to take part.
+
+A reverse repo is a short-term loan from the central bank to commercial banks, secured against bonds. The PBOC currently uses its seven-day reverse repo rate, at 1.40%, as its main policy rate. It introduced overnight operations in June, priced in a corridor around the seven-day rate, but has used them only occasionally until now.
+
+Speaking at the Financial Street Forum in Beijing on Monday, Pan said the overnight interbank rate had effectively already become the central bank’s target and that switching policy operations to an overnight tenor would make interest rate control more precise. He also announced wider access to central bank funding for foreign bank subsidiaries, a theme echoed in Tuesday’s decision to include foreign-invested settlement banks.
+
+Several important details are not yet known. The most significant is the rate. If the operations are priced at the top of the existing corridor, they would act mainly as a ceiling on overnight funding costs. If they are priced closer to the current overnight market rate of around 1.25%, markets may see them as an early test of a lower policy anchor.
+
+It is also unclear whether the daily operations will continue after 2 November. A fixed window could mean the move is mainly about smoothing liquidity over month-end, when Chinese money markets can tighten. An extension would point more clearly toward a permanent shift. The PBOC has not said whether the overnight operations will run alongside its seven-day operations or gradually replace them, and take-up by banks will show how much demand there is for the new facility.
+
+The rate announced with the first operation on Wednesday, and any guidance on what happens after 2 November, will offer the clearest signals yet on how quickly the PBOC intends to move to an overnight policy rate.
+
+Governor Pan Gongsheng
+
+
+================================================================================
+TITRE : Daiwa: BOJ shifts focus from reaching 2% inflation to keeping it there, wages hold the key
+DATE  : 20-10-2026 03:09 UTC
+URL   : https://investinglive.com/central-banks/daiwa-boj-shifts-focus-from-reaching-2-inflation-to-keeping-it-there-wages-hold-the-key/
+================================================================================
+
+Daiwa’s reading points to a BOJ that is not in a hurry but has not finished hiking, which keeps the yen supported on any sign that wage growth is becoming entrenched. A hold at the 29-30 October meeting, paired with an upgraded inflation assessment, would keep a December hike in play and could lift short-dated Japanese government bond yields. Oil is a key swing factor: Daiwa notes import prices have started rising again on higher crude, and any further jump in oil linked to the Iran war would add to the risk of inflation overshooting, strengthening the case for faster tightening. For Japanese equities, gradual hikes alongside solid capital spending are unlikely to derail the market, though a faster pace would test valuations. Long-dated JGBs, where yields have already risen above 3%, remain sensitive to any shift in the BOJ’s tone.
+
+-
+
+After decades of trying to get inflation up to 2%, the Bank of Japan’s new problem is making sure it stays there, and Daiwa says the answer will be found in next spring’s pay packets.
+
+Summary:
+
+The Bank of Japan is entering a new phase in which its goal is no longer to lift inflation to 2% but to keep it there, according to Daiwa Securities, which says the durability of wage growth will be key to the timing of further rate increases.
+
+At a press conference on 16 October, Governor Kazuo Ueda said underlying inflation was broadly close to 2% and that a further rise from that level could not be tolerated. He indicated that while the central bank had previously been willing to let underlying inflation climb toward its target, keeping it firmly anchored around 2% would now be a central policy objective. Daiwa said the remarks confirm a shift it had previously identified, from a policy of reaching 2% to one of stabilising inflation at that level.
+
+Ueda said the policy board would discuss in depth whether underlying inflation has reached 2% at its meeting on 29 and 30 October. Citing reports, Daiwa said the BOJ is likely to leave its policy rate at 1.25% at that meeting but may upgrade its assessment of underlying inflation to broadly around 2%. That would not be treated as an immediate achievement of the price target, and the central bank is expected to keep raising rates while financial conditions remain accommodative, with a December hike reportedly not ruled out.
+
+Daiwa said there is no need to accelerate the pace of rate increases, given that consumer spending remains weak even as business investment holds up. Core machinery orders rose 5.2% in August, pointing to resilient capital spending, including in AI-related sectors. Equally, it argued that inflation pressures have not clearly faded. Corporate goods prices rose 6.8% from a year earlier in September, easing from 7.6% in August but still elevated, while import prices have begun rising again on the back of higher crude oil prices.
+
+The bank sees next year’s spring wage negotiations as the key test of whether inflation has become established. Rengo, Japan’s largest trade union federation, is reportedly considering calling for pay rises of 5% or more in 2027, the fourth straight year at that level, with a higher target of 6% or more for smaller firms and an aim of around 6% overall. This year’s negotiations delivered rises of about 5%, though gains at smaller companies were lower at around 4.7%.
+
+Daiwa said what matters is not just the headline figure but whether strong pay rises become a lasting norm and spread from large companies to smaller ones. More detail will emerge over the coming months, including Rengo’s basic plan in October and the business lobby Keidanren’s position in November, giving the BOJ a clearer read by its December meeting.
+
+For now, Daiwa expects the October meeting to centre on the BOJ’s assessment of underlying inflation, with evidence of entrenched wage and price gains, and any signs of an overshoot, deciding the timing and pace of future hikes.
+
+

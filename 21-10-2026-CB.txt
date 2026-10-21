@@ -150,3 +150,53 @@ Advisory warning: investingLive is not an investment advisor, investingLive prov
 Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
 
 
+================================================================================
+TITRE : New Zealand CPI preview: Q3 inflation seen easing to 3.8% ahead of likely RBNZ hike
+DATE  : 21-10-2026 19:58 UTC
+URL   : https://investinglive.com/central-banks/new-zealand-cpi-preview-q3-inflation-seen-easing-to-3-8-ahead-of-likely-rbnz-hike/
+================================================================================
+
+NZD/USDheads into the release around 0.57, having recovered part of its slide to a mid-October low, its weakest level since April 2025. A headline print at or above 3.9%, or firmer core readings, would likely lock in hike pricing and support the kiwi. A result near 3.7% could trim those odds at the margin without derailing them. Beyond today’s number, oil remains the dominant driver: with crude elevated and the currency weaker, imported energy costs are set to keep New Zealand’s inflation outlook, and the RBNZ’s tightening bias, tilted to the upside into year-end.
+
+New Zealand’s Q3 inflation is expected to ease only briefly, with oil and a softer currency already lining up a fourth-quarter rebound that keeps the RBNZ on a hiking path.
+
+Summary:
+
+New Zealand’s third-quarter consumer price index, due from Statistics NZ at 10:45am Wellington time on Thursday, is expected to show annual inflation easing to 3.8% from 4.1% in the June quarter, according to the median of 16 economists surveyed by Bloomberg. That would leave inflation well above the Reserve Bank of New Zealand’s 1% to 3% target band, and only marginally below the central bank’s own 3.9% projection from its September Monetary Policy Statement.
+
+On a quarterly basis, prices are forecast to rise 0.8%. That is a sharp slowdown from 1.5% in the second quarter and matches the RBNZ’s projection exactly. The easing largely reflects lower average fuel costs over the quarter, after the Middle East conflict pushed pump prices sharply higher in the June period. Westpac estimates that cheaper petrol and diesel will take around 0.4 percentage points off quarterly inflation.
+
+Forecasts span a relatively wide range. Westpac sits at the low end at 3.7%. It expects a 0.7% quarterly rise as softer fuel prices are offset by higher council rates, building costs and food prices. ANZ forecasts 3.8% and BNZ 3.9%, while other economists see annual inflation holding at 4.0%. Westpac also expects core inflation measures to remain firm, with some closely watched gauges seen rising to the top of the RBNZ’s target band.
+
+The release is the last major data point before the RBNZ’s October 28 decision. The central bank lifted the Official Cash Rate to 2.75% in September, and swaps markets price around an 80% chance of a further quarter-point increase to 3.00%. ING said it expects a 25 basis point hike barring a major downside surprise. It added that even a small upside surprise would reinforce expectations of a move.
+
+Economists broadly view any third-quarter easing as temporary. Renewed hostilities in the Middle East have pushed New Zealand fuel prices back above their April highs. The New Zealand dollar is also trading roughly 4% below the average level the RBNZ assumed for the fourth quarter. Some local forecasts now see annual inflation accelerating to as high as 4.7% in the December quarter, against the RBNZ’s 3.9% projection. RBNZ chief economist Paul Conway has flagged upside risk to the near-term outlook from oil and the currency.
+
+The core inflation detail may matter as much as the headline. ANZ has said the RBNZ will be watching for signs that higher fuel costs are spreading into broader price pressures. That test will shape not only next week’s decision but also the path into December, when the bank is next scheduled to publish fresh forecasts.
+
+
+================================================================================
+TITRE : Bank of Korea expected to hold rates today after two hikes, tightening cycle seen intact
+DATE  : 21-10-2026 22:52 UTC
+URL   : https://investinglive.com/central-banks/bank-of-korea-expected-to-hold-rates-today-after-two-hikes-tightening-cycle-seen-intact/
+================================================================================
+
+A hold is fully expected, so the market reaction is likely to hinge on the tone of the statement and any signal on the timing of the next hike. A hawkish hold that keeps a further increase firmly on the table would likely support the won and push short-dated Korean government bond yields higher. Any hint that the cycle is nearing its end could weigh on the currency. For equities, a pause offers some relief to rate-sensitive sectors. The semiconductor-led export boom underpinning growth keeps chipmakers at the centre of the market’s growth story. A record-scale current account surplus provides an underlying source of support for the won, even as policy expectations drive day-to-day moves.
+
+-The Bank of Korea is expected to catch its breath today rather than call time on tightening, with booming chip exports and stubborn price pressures keeping the next hike in view.
+
+Summary:
+
+-
+
+The Bank of Korea is expected to leave interest rates unchanged at its policy meeting today, pausing after two consecutive hikes, though economists say its tightening cycle is not yet over.
+
+All six economists surveyed by Yonhap News Agency expect the central bank to hold its benchmark rate, which stands at 3.00% following increases in July and August. Respondents said the Bank of Korea is likely to maintain its tight policy stance. However, they see a pause as more likely than a rare third straight hike, giving policymakers room to adjust the pace of tightening and judge when further increases might be needed.
+
+The economists pointed to a backdrop that still argues for tighter policy. Strong semiconductor exports are driving economic growth, while inflation is facing upward pressure from both supply-side and demand-side factors. Taken together, those conditions suggest the hiking cycle could continue in the near term, according to the survey.
+
+The strength of the export sector is reflected in South Korea’s external accounts. The cumulative current account surplus for January to August reached about $279 billion, nearly four times the roughly $70 billion recorded in the same period last year. The surplus highlights how heavily the economy is benefiting from global demand for memory chips and other semiconductor products, a key source of growth that has given the central bank room to tighten without derailing the expansion.
+
+A hold would mark a shift in tempo rather than direction. Markets are likely to focus closely on the central bank’s statement and on any guidance about the timing of the next move, for signals on whether policymakers see a further hike as likely in the coming months. The balance between growth driven by strong exports and persistent price pressures will be central to that assessment, alongside the outlook for the won and domestic demand.
+
+

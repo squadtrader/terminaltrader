@@ -94,3 +94,38 @@ Not all of Friday’s data supported a more aggressive path. A flash business su
 That leaves the BoJ facing a familiar balance at next week’s meeting: inflation that is finally broadening, against signs that the labour market and domestic demand are losing some momentum. How the bank describes that balance in its outlook report is likely to shape market expectations for the policy rate well beyond December.
 
 
+================================================================================
+TITRE : How have interest rate expectations changed after this week's events?
+DATE  : 23-10-2026 12:03 UTC
+URL   : https://investinglive.com/central-banks/how-have-interest-rate-expectations-changed-after-this-week-s-events-7/
+================================================================================
+
+Rate hikes by year-end
+
+2027: 109 bps
+
+2027: 114 bps
+
+2027: 97 bps
+
+2027: 29 bps
+
+2027: 67 bps
+
+2027: 67 bps
+
+2027: 80 bps
+
+2027: 53 bps
+
+We've got a hawkish repricing in near-term interest rate expectations for the RBA, BoC and the BoE after economic data and central bank speakers. The probabilities for an RBA rate hike at the upcoming meeting increased after RBA's Hauser delivered some hawkish comments that suggested a rate hike could come in November. He said the inflation outlook looks worse than forecast, the quarterly trimmed mean is likely to exceed expectations and capacity pressures are more elevated than assumed. He also added that forecasts are still being finalised and he does not know for sure what the Board will decide, which is why the probabilities stand around 60% and not higher.
+
+For the BoC, the expectations for a rate hike increased after BoC Governor Macklem said the Bank would have to assess whether inflation would return to target on its own or whether it would need to raise interest rates to bring inflation down. That was a more direct tightening signal than the previous message of the Bank just monitoring inflation. Macklem said the risk of persistently high oil spreading beyond energy into the prices of other goods and services making inflation more persistent had increased. For context, underlying inflation has been moving lower in Canada, with the latest Trimmed-Mean CPI Y/Y falling to 1.8%, the lowest since 2020. I think a rate hike would be the wrong move considering the US-Canada trade war and softening labour market.
+
+For the BoE, the data this week reinforced expectations for a rate hike at the November meeting. Wage growth was stronger than expected, with regular pay rising 3.7% y/y versus 3.6% expected. The unemployment rate edged down to 4.7% versus 5.0% expected, with 102K jobs gained in the three months to August versus 5K expected. September CPI accelerated to 3.5% from 3.1%, above the 3.4% consensus. Core CPI also increased, rising to 2.8% from 2.6%, while services inflation climbed to 3.7% from 3.4%. Finally, the composite PMI rose to 53.1 from 52.0, its highest since February, beating expectations. Business activity, new orders and employment improved, while input-cost inflation accelerated to its highest level since June, reinforcing concerns that energy-driven price pressures could become more persistent amid resilient economic activity.
+
+On the ECB side, we've got some dovish repricing as growth concerns increased amid bond market woes, increasing energy prices and ECB tightening. Today, we got the Flash PMIs for the major Eurozone economies and the data confirmed that economic activity has slowed and the expectations for the coming months have deteriorated.
+
+Finally, on the Federal Reserve side we've seen some notable dovish repricing as market's focus shifted from inflation fears to growth concerns amid prolonged Middle East crisis, widening credit spreads and persistent inflationary pressures that force the Fed to tighten monetary conditions. The losses in the stock market have also been a major driver of the dovish repricing as  an AI-bubble burst would have huge negative wealth effect. We still have the US PMIs today that could change interest rate expectations, so it's going to be an important catalyst.
+
+

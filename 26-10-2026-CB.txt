@@ -109,3 +109,102 @@ Finally, theBOJwill round things off on Friday with traders seeing roughly 98% o
 All things considered, I wouldn't expect the interest rate decisions alone to deliver much drama this week. As we've seen time and again, it is often what central bankers say about their next move that ends up stirring markets the most. So, that is what I'll be watching more closely with the meeting decisions and press conferences this week.
 
 
+================================================================================
+TITRE : NZIER Shadow Board majority backs 25bp RBNZ hike to 3% as oil and weaker kiwi bite
+DATE  : 26-10-2026 21:30 UTC
+URL   : https://investinglive.com/central-banks/nzier-shadow-board-majority-backs-25bp-rbnz-hike-to-3-as-oil-and-weaker-kiwi-bite/
+================================================================================
+
+The Shadow Board result adds to the case for a hike at the October review, although several members still favour a pause, so a hold would not be a shock. A hike paired with a clear signal of a prolonged pause could limit any boost to the New Zealand dollar, while a hold with hawkish guidance would keep year-end hike pricing alive. Oil is the swing factor: members tied much of the inflation risk to fuel prices and the Iran conflict, so further gains in crude would strengthen the case for more tightening. The next inflation release is the near-term catalyst for NZ rate pricing.
+
+---
+
+Earlier:
+
+---
+
+Oil and a sliding kiwi have tipped most of NZIER’s Shadow Board toward another RBNZ hike, though the minority wants the central bank to let its earlier tightening do the work.
+
+Summary:
+
+A majority of the New Zealand Institute of Economic Research’s Monetary Policy Shadow Board has recommended that the Reserve Bank of New Zealand raise the Official Cash Rate by 25 basis points at its upcoming October Monetary Policy Review, which would take the rate to 3% from 2.75%. The group, which is independent of the central bank, said renewed pressure on global energy prices and a recent fall in the New Zealand dollar have increased the upside risks to inflation enough to justify another increase now.
+
+The board was not unanimous. Several members argued that the RBNZ should give the increases already delivered more time to work through an economy that remains soft, with a cyclically weak labour market. One bank chief economist said there is a case to slow the pace of tightening, noting that while the short-term inflation picture looks more threatening, the medium-term outlook has not shifted, and that business and consumer surveys show no sign yet of second-round price effects.
+
+Those favouring a hike pointed to a combination of pressures. Members cited the rebound in oil prices, a weaker currency, stronger-than-expected growth and core inflation that has stayed elevated, with one arguing that looking through these shocks has not returned inflation sustainably to the RBNZ’s 1% to 3% target band. Another member framed the decision as finely balanced, warning that with the conflict in Iran continuing, fuel-driven price pressures may prove less temporary than hoped.
+
+A further view urged the bank to deliver the move and then signal a prolonged pause, arguing that clarity on the end of the tightening cycle would do more for business confidence than leaving the threat of further increases hanging over the economy.
+
+Looking further out, most members agreed the OCR should rise over the coming year, with views of where it should sit in twelve months ranging between 3% and 4%. Some said the pace of further tightening should depend on how underlying inflation, inflation expectations and the recovery evolve. Several members flagged upcoming inflation data as important, and that release is likely to shape whether the RBNZ moves now or waits until year-end, as many commentators expect.
+
+---
+
+The New Zealand Institute of Economic Research (NZIER) is an independent economic research and consulting organisation based in Wellington, and its Monetary Policy Shadow Board is a panel of economists, academics and business leaders that meets ahead of each Reserve Bank of New Zealand decision. The key distinction is that the board says what the RBNZ should do, not what it will do. Each member assigns percentage weights to the policy options they prefer, and NZIER averages those preferences into a collective view. That makes the result a policy recommendation rather than a forecast or preview of the likely outcome. The two can differ: this month most members favour a hike, even though, as one member noted, many commentators expect the RBNZ to pause until year-end. NZIER says the exercise is also meant to encourage informed debate, show how a board structure might work, and explore how members could use probabilities to express uncertainty. The board is independent of the RBNZ, and members’ views are their own, not those of their employers.
+
+
+================================================================================
+TITRE : BoJ preview: MUFG sees hold but a 2% inflation call, with two dissenters the key yen risk
+DATE  : 26-10-2026 22:31 UTC
+URL   : https://investinglive.com/central-banks/boj-preview-mufg-sees-hold-but-a-2-inflation-call-with-two-dissenters-the-key-yen-risk/
+================================================================================
+
+A hold with an effective 2% declaration and a firm Ueda press conference would support the yen and pull December hike pricing forward, pushing short-end JGB yields higher. The asymmetric risk is the vote: if the two reflationist members switch from opposing a hike to calling for a cut, the dovish signal could outweigh the hawkish language and trigger yen selling. USD/JPY is also exposed to this week’s Fed meeting. A surprise US hike that sent the pair sharply higher is the kind of emergency that, per the Nikkei report, could put a back-to-back BoJ move on the table. Oil-driven inflation pressure from the Iran conflict adds to the case for a firmer BoJ tone.
+
+---
+
+Earlier:
+
+Still to come:
+
+---
+
+The BoJ is set to stand still on rates this week while moving a big step forward on rhetoric, unless two dovish dissenters steal the headlines and the yen pays for it.
+
+Summary:
+
+The Bank of Japan’s policy meeting on October 29 and 30 is unlikely to deliver a rate hike, but it could mark a turning point in how the central bank describes inflation, according to a preview from MUFG. The bank expects the BoJ’s updated Outlook Report to effectively declare that underlying inflation has reached the 2% price stability target, which would take the normalisation pursued under Governor Kazuo Ueda into a new phase.
+
+A back-to-back increase looks off the table. MUFG noted a Nikkei report citing a senior BoJ official as saying the bank would consider consecutive hikes only in a serious emergency. MUFG said that could in theory include a sharp rise in USD/JPY following an unexpected rate hike by the Federal Reserve, though it sees that scenario as unlikely. The BoJ raised its policy rate to 1.25% in September.
+
+Ueda has already been laying the groundwork for a firmer message. Speaking after last week’s G20 meeting, he said underlying inflation was now broadly close to 2% and that the BoJ could not tolerate a further rise. That built on his remarks after the September meeting that the policy phase had changed, and reinforced the bank’s sharper focus on containing inflation. MUFG therefore expects the tone of Ueda’s post-meeting press conference to be relatively hawkish.
+
+External pressure points in the same direction. US Treasury Under Secretary for International Affairs Erin Browne was reported over the weekend as saying Japan is no longer in a deflationary environment and that its monetary policy should adjust accordingly.
+
+The main risk MUFG flags comes from inside the board. The two members who voted against the September rate hike could dissent again, this time opposing a hold and instead calling for a rate cut. MUFG said such a move by the BoJ’s reflationist members would reinforce the bank’s dovish image and would likely prompt yen selling, undercutting the hawkish signal from the Outlook Report and Ueda’s press conference.
+
+For markets, the week’s outcome may therefore hinge less on the rate decision than on the vote split and the language around underlying inflation.
+
+Bank of Japan Governor Ueda
+
+
+================================================================================
+TITRE : RBA is talking more but promising nothing: Westpac’s Ellis says read the data calls
+DATE  : 26-10-2026 23:19 UTC
+URL   : https://investinglive.com/central-banks/rba-is-talking-more-but-promising-nothing-westpac-s-ellis-says-read-the-data-calls/
+================================================================================
+
+For rates traders, the note argues against reading too much into tone shifts between the press conference and market-focused speeches, and in favour of the minutes and officials’ data interpretations as the cleaner signal. The Governor describing the labour market as a little tight, plus staff’s downbeat view of supply capacity, leans hawkish and supports pricing for further tightening rather than a pause. The coming fortnight is dense with event risk for the Australian dollar and front-end yields: the quarterly CPI lands alongside Senate Estimates testimony, followed by the November decision, the Statement on Monetary Policy and further speeches. With supply shocks driving inflation, including energy, a firm CPI would reinforce the hawkish read.
+
+---
+
+Yesterday:
+
+---
+
+The RBA has never been chattier, but Westpac’s Luci Ellis says traders hunting for promises should listen instead to how it reads the data, because that is where the real signal lives.
+
+Summary:
+
+The Reserve Bank of Australia is talking more often, in more places and on more technical subjects than it did a few years ago, but it still is not promising anything about the path of interest rates, according to Westpac Group chief economist Luci Ellis. In a note on RBA communication, she argues that the clearest signal of future policy lies in how officials interpret incoming data, rather than in any form of forward guidance.
+
+Ellis counts 58 public engagements on the RBA’s speeches page so far this year, already matching the total for all of last year and above the 52 recorded in 2024. Delivery has shifted too, away from set-piece policy speeches toward semi-scripted fireside chats and interviews across a wide range of media, part of a broader effort to explain decisions to the general public at a time when rates are rising but households are not the main source of inflation.
+
+That wider reach can confuse markets, Ellis says, because different audiences call for different tones. The post-meeting press conference is aimed at the public, so a Governor who sounds softer there may simply be acknowledging that policy is causing pain, much as a doctor warns that a treatment might hurt without stopping it. Where tone differs, she argues, pre-drafted material such as the minutes is a more reliable guide to the Board’s thinking than off-the-cuff answers.
+
+The content has also become more technical. Officials increasingly discuss estimates of unobservable variables such as neutral interest rates and financial conditions, and a spot check of readability scores suggests recent speeches are harder to read than those from 2021. The RBA has also stressed that monetary policy works through several channels beyond mortgage repayments, though Ellis notes that if the cashflow channel is the smallest, as the Deputy Governor suggested, a small group of households is bearing a heavy cost for limited effect on inflation.
+
+The practical takeaway is to read the RBA’s interpretation of data. Ellis highlights that the Governor described the labour market as a little tight after the September meeting, even though the Board’s statement did not, and says the Deputy Governor’s recent hawkish tone was no surprise given staff’s downbeat view of supply capacity. With Senate Estimates coinciding with the quarterly CPI release ahead of the November decision, there will be plenty for markets to parse.
+
+Ellis when she was with the Reserve Bank of Australia.
+
+

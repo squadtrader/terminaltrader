@@ -1,0 +1,164 @@
+================================================================================
+TITRE : Recap: Fed holds at 3.75%-4% in 10-2 vote as Cook dissents for a hike, December move in focus
+DATE  : 28-10-2026 22:02 UTC
+URL   : https://investinglive.com/central-banks/recap-fed-holds-at-3-75-4-in-10-2-vote-as-cook-dissents-for-a-hike-december-move-in-focus/
+================================================================================
+
+A hold with two hawkish dissents and no pushback from Warsh on December pricing keeps the bias firmly toward tightening, which supports Treasury yields and the dollar into year end. Cook’s dissent matters for rate expectations because it widens hawkish support beyond the committee’s usual hard-liners, strengthening the case that a December hike has broad backing. The dissent may also be read politically, given Trump’s efforts to remove her, which adds to scrutiny of Fed independence. Fewer scheduled rate decisions from next year mean each meeting carries more weight, and that could amplify market moves around those dates.
+
+---
+
+Earlier:
+
+---
+
+The Fed paused, but with two votes for a hike and a chair insisting the job isn’t done, the pause looks more like a breather than a turn.
+
+Summary:
+
+The Federal Reserve voted 10-2 on Wednesday to hold its benchmark interest rate at a range of 3.75% to 4%, pausing after last month’s increase, while leaving markets firmly expecting another hike in December, theWall Street Journalreported.
+
+The decision itself was widely anticipated. The surprise lay in the dissents. Fed Governor Lisa Cook voted against the hold in favour of a higher rate, breaking with a record of consistently voting with the committee’s consensus since she joined the central bank more than four years ago. Cook, whom President Donald Trump has been trying to remove from her post for more than a year, had recently expressed concern that inflation remains a problem, but had not indicated she saw an urgent need for a further increase.
+
+The second dissent, from Cleveland Fed President Beth Hammack, was more in line with expectations. Hammack has been among the committee’s most hawkish members this year and also dissented in favour of tighter policy in April and July.
+
+At his post-meeting press conference, Fed Chair Warsh sought to make clear that pausing did not mean the Fed was easing off its effort to bring inflation down. He said returning inflation fully to the 2% target was the overriding priority, that the Fed had recommitted to that goal since he took over, and that last month’s hike marked the start of action. Warsh acknowledged the Fed had not yet achieved price stability but said it was working toward it, and he offered little to challenge the market view that a December increase is coming.
+
+Warsh also announced a change to the Fed’s meeting schedule. Next year, policymakers will vote on rates at only seven of their eight meetings, using the remaining session for a broader strategy discussion. In 2028, that will drop to six rate decisions, with two meetings set aside for strategy. The shift overhauls a calendar that has been in place for 45 years. Warsh first raised the idea internally over the summer.
+
+The move fits his preference for a lower-profile Fed. The post-meeting statement has become shorter under his leadership, and he has opted out of the quarterly dot plot of officials’ projections.
+
+With two officials already pushing for a hike, the December meeting now looms as the next key test of the Fed’s tightening path.
+
+
+================================================================================
+TITRE : Hong Kong holds base rate at 4.25%: why the HKMA always moves in lockstep with the Fed
+DATE  : 28-10-2026 23:24 UTC
+URL   : https://investinglive.com/central-banks/hong-kong-holds-base-rate-at-4-25-why-the-hkma-always-moves-in-lockstep-with-the-fed/
+================================================================================
+
+For Hong Kong, the decision confirms that local borrowing costs stay tied to the Fed’s hiking path, regardless of domestic conditions. Mortgage holders and property developers are most exposed, because a December Fed hike would flow through to the base rate and from there to bank lending rates. The peg also means Hong Kong dollar assets carry US rate risk. Traders should watch Fed expectations, not the HKMA, when positioning for Hong Kong rate moves.
+
+---
+
+Earlier:
+
+---
+
+Hong Kong’s rate decisions are made in Washington, and with a December Fed hike widely expected, the city’s borrowers are along for the ride.
+
+Summary:
+
+The Hong Kong Monetary Authority kept its base rate unchanged at 4.25% on Thursday, as expected, following the US Federal Reserve’s decision to hold its policy rate at 3.75% to 4%. The outcome was never in doubt, and understanding why explains how Hong Kong runs monetary policy.
+
+Hong Kong has operated its Linked Exchange Rate System since 1983. Under it, the Hong Kong dollar is held within a narrow band of HK$7.75 to HK$7.85 against the US dollar. The HKMA commits to buy or sell Hong Kong dollars at either edge of that range, which keeps the currency anchored to the greenback.
+
+A fixed exchange rate comes with a trade-off: a city cannot run an independent interest rate policy while keeping its currency pegged. If Hong Kong rates drifted far from US rates, capital would flow toward whichever currency paid more, putting pressure on the peg. So Hong Kong effectively imports US monetary policy.
+
+That link is written directly into the base rate formula. The rate is set at the higher of two measures: 50 basis points above the lower end of the Fed funds target range, or an average of short-term Hong Kong interbank rates, known as HIBOR. With the Fed’s range starting at 3.75%, adding 50 basis points produces exactly 4.25%. When the Fed moves, the HKMA follows.
+
+Market forces back up the formula. If the Hong Kong dollar weakens to HK$7.85, the HKMA buys local currency, draining cash from the banking system and pushing interbank rates higher until the currency recovers. At the strong end, it sells Hong Kong dollars, adding liquidity and pushing rates down.
+
+The practical consequence is that Hong Kong’s borrowing costs are set by conditions in the United States rather than at home. That matters now. The Fed held this week but signalled that inflation remains its priority, and markets widely expect a hike in December. If that happens, Hong Kong’s base rate is likely to rise in step, whatever the state of its own economy.
+
+
+================================================================================
+TITRE : NZ business confidence rises to +53 as pricing intentions hit highest since May
+DATE  : 29-10-2026 00:15 UTC
+URL   : https://investinglive.com/central-banks/nz-business-confidence-rises-to-53-as-pricing-intentions-hit-highest-since-may/
+================================================================================
+
+Firmer pricing intentions and inflation expectations stuck around 3.3% give the RBNZ little reason to ease off its tightening. The resilient activity readings also undercut any argument that the oil shock is crushing demand. For the New Zealand dollar, that is a modest support, though the currency’s weakness is itself feeding the services export boom. The oil link remains the main swing factor: ANZ’s data shows business sentiment tracking crude closely this year, so any renewed spike in prices tied to the Iran conflict would be the biggest threat to this resilience.
+
+---
+
+New Zealand business has taken the latest oil shock on the chin far better than it took the last one, but rising price plans mean theRBNZ will be watchingjust as closely as the bosses.
+
+Summary:
+
+New Zealand business confidence edged up in October and firms’ plans to raise prices climbed to their highest since May, the ANZ Business Outlook survey showed, suggesting the economy is weathering the renewed jump in oil prices better than many had feared.
+
+Headline business confidence rose 1 point to +53, while expected own activity, which ANZ regards as the more reliable guide to the economy’s direction, eased 2 points to a still-solid +46. Reported past activity, which compares current trading with a year earlier, improved 4 points to +15, with every sector in positive territory.
+
+Price pressures were mixed but leaned higher. A net 52% of firms expect to raise prices over the next three months, up 4 points, and the average expected price increase rose to 1.9%, the highest since June. Cost expectations held at a very high net 82%, while one-year-ahead inflation expectations were steady at 3.3%. ANZ noted that cost expectations have stayed contained despite higher fuel prices, but cautioned that firms are estimating increases from an already inflated starting point.
+
+Among the other details, services firms’ export intentions jumped to their highest in 25 years, which ANZ linked to the weak New Zealand dollar, with tourism operators reporting strong forward bookings. Investment intentions slipped to +18 from +23, and employment intentions held at around +17. Wage expectations of around 2.8% suggest only marginal upside risk to the Reserve Bank of New Zealand’s wage forecasts, according to ANZ. Wellington recorded the highest regional confidence, while Canterbury was the lowest.
+
+ANZ said the renewed rise in oil prices is a headwind for both New Zealand and the global economy, but that the survey matches what it is hearing from business owners: the confidence shock that brought activity close to a standstill in the second quarter has not been repeated. Some firms have been surprised by how well demand has held up despite price increases, while others are realising that continually putting off decisions such as investment carries its own risks.
+
+With interest rates rising and pricing intentions firming, the next survey, due on November 30, will show whether that resilience can withstand both higher energy costs and tighter monetary policy.
+
+
+================================================================================
+TITRE : PBOC is expected to set the USD/CNY reference rate at 6.6596 – Reuters estimate
+DATE  : 29-10-2026 00:24 UTC
+URL   : https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-reuters-estimate-7/
+================================================================================
+
+High risk warning: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade foreign exchange, carefully consider your investment objectives, experience level, and risk tolerance. You could lose some or all your initial investment; do not invest money that you cannot afford to lose. Educate yourself on the risks associated with foreign exchange trading and seek advice from an independent financial or tax advisor if you have any questions.
+
+Advisory warning: investingLive is not an investment advisor, investingLive provides references and links to selected news, blogs and other sources of economic and market information for informational purposes and as an educational service to its clients and prospects and does not endorse the opinions or recommendations of the blogs or other sources of information. Clients and prospects are advised to carefully consider the opinions and analysis offered in the blogs or other information sources in the context of the client or prospect's individual analysis and decision making. None of the blogs or other sources of information is to be considered as constituting a track record. Past performance is no guarantee of future results and investingLive specifically hereby acknowledges clients and prospects to carefully review all claims and representations made by advisors, bloggers, money managers and system vendors before investing any funds or opening an account with any Forex dealer. Any news, opinions, research, data, or other information contained within this website is provided on an "as-is" basis as a general market commentary and does not constitute investment or trading advice, and we do not purport to present the entire relevant or available public information with respect to a specific market or security. investingLive expressly disclaims any liability for any lost principal or profits which may arise directly or indirectly from the use of or reliance on such information, or with respect to any of the content presented within its website, nor its editorial choices.
+
+Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
+
+
+================================================================================
+TITRE : The view from China: CITIC Securities still sees a 25bp Fed hike in December
+DATE  : 29-10-2026 00:28 UTC
+URL   : https://investinglive.com/central-banks/the-view-from-china-citic-securities-still-sees-a-25bp-fed-hike-in-december/
+================================================================================
+
+CITIC’s call reinforces the market’s December hike pricing, but its view that the terminal rate stays near current levels points to a shallow end to the cycle rather than an extended run of increases. That combination supports the dollar into December, with less upside for Treasury yields further out. On oil, the brokerage sees no clear de-escalation path yet between the US and Iran, which argues for crude holding its risk premium. That in turn keeps upward pressure on the inflation backdrop the Fed is reacting to. Its note that dollar liquidity needs a fresh catalyst suggests funding conditions are unlikely to ease on their own in the near term.
+
+---
+
+Earlier:
+
+---
+
+From China, CITIC Securities sees one more Fed hike and then a plateau, with oil, not the Fed, setting the pace for what comes after.
+
+Summary:
+
+Chinese brokerage CITIC Securities still expects the Federal Reserve to raise interest rates by 25 basis points in December, but sees the peak for this tightening cycle staying close to current levels, offering a view from China that broadly aligns with US market expectations.
+
+In its assessment of the Fed’s October meeting, CITIC said the decision to hold, which left the policy rate at 3.75% to 4%, was in line with expectations. It noted that the post-meeting statement sounded more positive on growth, while guidance on the path for policy was more guarded. According to the brokerage, remarks from Fed officials after the meeting were softer in tone than in September. They pointed to tighter credit conditions and inflation expectations moving in the right direction, and flagged changes to the policy meeting schedule over the next two years.
+
+That schedule change, announced by Chair Warsh, will see the Fed vote on rates at seven of its eight meetings next year and six in 2028, with the remaining sessions devoted to strategy.
+
+Despite the milder tone, CITIC sees a December hike as its base case. Its view that the terminal rate is unlikely to move much above current levels implies the brokerage sees limited room for tightening beyond that move. The meeting itself showed hawkish pressure on the committee, with two officials dissenting in favour of an immediate hike.
+
+The brokerage also linked the Fed outlook to the Middle East. It said recent developments are not yet enough to put the US and Iran on a clear and lasting path toward de-escalation, and that oil prices could remain high until the situation becomes clearer. That matters for the Fed because elevated energy costs feed directly into the inflation picture policymakers are trying to bring under control.
+
+CITIC added that any further improvement in US dollar liquidity would require a new catalyst. For markets, the brokerage’s message is that the December decision and the course of US-Iran diplomacy remain the two key variables shaping both rates and oil into year end.
+
+
+================================================================================
+TITRE : RBNZ’s Breman says chances of a December rate hike are high after surprise hold at 2.75%
+DATE  : 29-10-2026 00:55 UTC
+URL   : https://investinglive.com/central-banks/rbnz-s-breman-says-chances-of-a-december-rate-hike-are-high-after-surprise-hold-at-2-75/
+================================================================================
+
+Breman’s comments push back against the dovish reading ofWednesday’s holdand look aimed at steadying the New Zealand dollar, which she has said could add to imported inflation if it stays weak. Pricing of around 77% leaves room for further repricing toward a December hike if incoming data cooperates, which would support the currency and front-end yields. Her emphasis that timing is uncertain keeps the risk of a second hold alive, so the kiwi’s recovery may be gradual rather than sharp. Fuel prices remain the main external swing factor, linking the RBNZ path to oil and the Iran conflict.
+
+-
+
+A day after a hold that sank the kiwi, Breman is all but promising December, though she isn’t quite ready to put it in writing.
+
+Summary:
+
+Reserve Bank of New Zealand Governor Anna Breman said on Thursday that the chances of an interest rate hike in December are high, sharpening her guidance a day after the central bank surprised markets by leaving the official cash rate unchanged at 2.75%.
+
+In an interview with the New Zealand Herald, Breman said every member of the monetary policy committee agrees that further increases in the cash rate are likely, though the timing remains uncertain and will depend on the economic outlook and how inflation develops. Asked directly about the odds of a move in December, she said they were high.
+
+The comments go further than the signal the RBNZ gave on Wednesday, when it held rates but said additional hikes were likely. That decision caught markets off guard. Before the announcement, pricing had pointed to a hike as close to a certainty, and the New Zealand dollar fell sharply after the bank held. Markets now price around a 77% chance of a hike in December.
+
+The hold was itself a close call, with the committee split 4-3 and Breman among the majority who argued that two recent rate increases warranted time to assess their effects. At her press conference after the decision, she said tightening could need to extend into restrictive territory and flagged concern that a weaker currency could add to imported inflation at a time when fuel costs have risen further.
+
+Fresh data has added weight to that concern. A business survey released on Thursday showed the share of New Zealand firms planning to raise prices climbed to its highest since May, with cost expectations remaining very high.
+
+Breman also sought to reassure the public, saying that despite an uncertain environment, the RBNZ would remain calm and focused on its mandate of returning inflation to target.
+
+The December decision will come alongside the Monetary Policy Statement, which will include updated forecasts and a new projected path for the cash rate. Until then, inflation indicators, labour market data and the currency will be key in determining whether the high chance of a hike becomes a reality.
+
+

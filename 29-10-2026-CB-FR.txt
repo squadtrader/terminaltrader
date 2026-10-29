@@ -162,3 +162,74 @@ Breman also sought to reassure the public, saying that despite an uncertain envi
 The December decision will come alongside the Monetary Policy Statement, which will include updated forecasts and a new projected path for the cash rate. Until then, inflation indicators, labour market data and the currency will be key in determining whether the high chance of a hike becomes a reality.
 
 
+================================================================================
+TITRE : PBOC sets USD/ CNY reference rate for today at 6.7147 (vs. estimate at 6.6596)
+DATE  : 29-10-2026 01:15 UTC
+URL   : https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7147-vs-estimate-at-6-6596/
+================================================================================
+
+High risk warning: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade foreign exchange, carefully consider your investment objectives, experience level, and risk tolerance. You could lose some or all your initial investment; do not invest money that you cannot afford to lose. Educate yourself on the risks associated with foreign exchange trading and seek advice from an independent financial or tax advisor if you have any questions.
+
+Advisory warning: investingLive is not an investment advisor, investingLive provides references and links to selected news, blogs and other sources of economic and market information for informational purposes and as an educational service to its clients and prospects and does not endorse the opinions or recommendations of the blogs or other sources of information. Clients and prospects are advised to carefully consider the opinions and analysis offered in the blogs or other information sources in the context of the client or prospect's individual analysis and decision making. None of the blogs or other sources of information is to be considered as constituting a track record. Past performance is no guarantee of future results and investingLive specifically hereby acknowledges clients and prospects to carefully review all claims and representations made by advisors, bloggers, money managers and system vendors before investing any funds or opening an account with any Forex dealer. Any news, opinions, research, data, or other information contained within this website is provided on an "as-is" basis as a general market commentary and does not constitute investment or trading advice, and we do not purport to present the entire relevant or available public information with respect to a specific market or security. investingLive expressly disclaims any liability for any lost principal or profits which may arise directly or indirectly from the use of or reliance on such information, or with respect to any of the content presented within its website, nor its editorial choices.
+
+Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
+
+
+================================================================================
+TITRE : RBA set for fifth 2026 hike to 4.85% as banks flag risk of another move in February
+DATE  : 29-10-2026 03:13 UTC
+URL   : https://investinglive.com/central-banks/rba-set-for-fifth-2026-hike-to-4-85-as-banks-flag-risk-of-another-move-in-february/
+================================================================================
+
+With major banks now aligned on a November hike, the decision itself is close to fully priced. The market focus shifts to the RBA’s guidance and whether it leaves the door open to February, which is where the Australian dollar and front-end yields have room to move. A hawkish statement that keeps February live would support the currency, while any signal of a pause would likely see it give back ground. Energy is the main external driver: an escalation in the Middle East that lifts oil would strengthen the case for further tightening, while a US-Iran deal after the midterms would ease it.
+
+---
+
+The banks have stopped asking whether the RBA hikes next week and started asking when it stops, and the answer may depend as much on the Middle East as on Australian inflation.
+
+Summary:
+
+Major Australian banks now expect the Reserve Bank of Australia to raise interest rates again at its November 3 meeting, after inflation dataall but locked in a fifth hike of 2026, with the debate already shifting to whether the tightening cycle extends into next year.
+
+Commonwealth Bank of Australia and ANZ both moved on Wednesday to forecast a November increase, which would lift the cash rate to 4.85%. Westpac reaffirmed its own call for a hike. The RBA’s September move took the cash rate to a 15-year high, and a further increase would push it to levels last seen in 2008.
+
+CBA described the expected move as an insurance hike, aimed at guarding against inflation risks from the Middle East conflict, the AI-driven global investment boom and tight domestic capacity. It said the RBA had turned decisively hawkish since a more dovish tone after its September decision. ANZ said the data cemented the case for a hike, singling out services, where market services inflation posted its strongest annual growth since 2024. The RBA watches that measure closely because it reflects domestic pressure and is less exposed to global swings such as oil prices.
+
+Westpac said inflation is above both the RBA’s target and what its August forecasts implied, with some of the upside risks identified at the time, particularly energy, partly materialising. It expects most members of the Monetary Policy Board to back a rise, though some may dissent. The bank noted that the RBA has played down a recent rise in unemployment, with Governor Michele Bullock telling a Senate hearing that underlying inflation suggests the labour market is tighter than previously judged. Westpac questioned that reasoning, arguing it gives too little weight to the lags between jobs and prices and to non-labour cost shocks.
+
+Beyond November, views diverge. Westpac does not expect further hikes in its base case but says the risk of another move, most likely in February, has risen. CBA sees the RBA holding in December and February, with cuts possible in late 2027, at the cost of weaker home prices and higher unemployment. One economist called a December hike a high-risk scenario, though not the base case, and said the RBA is more likely to pause after next week to assess the impact.
+
+Energy remains a key swing factor. Westpac said the Middle East conflict could escalate and lift energy prices further, or ease if the US and Iran reach a deal after the midterm elections. It also pointed to the risk of a sudden global slowdown, which New Zealand’s central bank flagged on Wednesday, noting that it does not appear to be on the RBA’s radar.
+
+-
+
+Its been a big 2026 for the Reserve Bank of Australia, and its not over yet.
+
+
+================================================================================
+TITRE : Much ado about nothing? Fed chair Warsh talks up a storm but December rate hike bets barely budge
+DATE  : 29-10-2026 05:19 UTC
+URL   : https://investinglive.com/central-banks/much-ado-about-nothing-fed-chair-warsh-talks-up-a-storm-but-december-rate-hike-bets-barely-budge/
+================================================================================
+
+After all that waiting and wondering, what exactly did we learn from the Fed yesterday? Judging by the market reaction and pricing, I would say not a whole lot.
+
+Fed chair Warsh spent a good chunk of time talking, even though it was a shortened press conference, yet December rate hike expectations did not materially change by much. All in all, quite the productive afternoon for the central bank, eh?
+
+If I had to pack all of it in a sentence, I'd call ita whole lot of nothing for December market pricing but not necessarily a meaningless Fed meeting.
+
+Prior to the decision, traders had priced in roughly 88% odds of a 25 bps rate hike for December. And now after Warsh's press conference? That sits roughly around 82% odds. If terms of basis points, that's just a shift from roughly 22 bps to approximately 20 bps now. So, that's not really saying much.
+
+The Fed did upgrade its assessment of economic growth from "solid" to "strong", while two policymakers dissented in favour of an immediate rate hike. Hammack was perhaps expected but Cook was a bit of a surprise, though it wasn't anything major come what may. In any case, those can be interpreted as hawkish signals but Warsh wasn't exactly quick to embrace them.
+
+Instead, he chose to argue that stronger productivity could help explain why resilient economic growth doesn't necessarily translate into more inflation. Adding that with previous tightening already starting to bite, there's good reason not to rush another move for now.
+
+The only real surprise of the day came when Warsh announced changes to future FOMC meetings. Starting next year, one of the Fed's eight scheduled meetings will be devoted entirely to longer-term policy strategy. That's right. There will be no interest rate decision tied to that meeting. And in 2028, we'll see two of that meetings take place.
+
+Interesting, no? Such a move would mean fewer opportunities to tweak policy settings and that could lead to longer gaps between policy decisions, potentially making incoming data and the remaining meetings even more consequential. Of course, the Fed can still act between meetings if necessary. However, that usually only applies to extraordinary circumstances.
+
+That aside, we're pretty much back where we started when it comes to the market pricing and expectations for the December meeting.
+
+A rate hike remains the base case but Warsh clearly wants to preserve some flexibility and optionality. For all the talking yesterday, Warsh essentially handed the ball straight back to economic data to decide the state of play next.
+
+

@@ -68,3 +68,121 @@ Advisory warning: investingLive is not an investment advisor, investingLive prov
 Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
 
 
+================================================================================
+TITRE : China’s PBOC lifts FX reserve ratio to 6%: what it means for the yuan, AUD
+DATE  : 03-11-2026 00:56 UTC
+URL   : https://investinglive.com/central-banks/china-s-pboc-lifts-fx-reserve-ratio-to-6-what-it-means-for-the-yuan-aud/
+================================================================================
+
+The move signals that Beijing is uncomfortable with the pace of the yuan’s recent strength. That gives USD/CNY and USD/CNH a floor near current levels rather than reversing the trend outright. Its direct liquidity effect is modest, so traders are likely to treat it as a warning shot, with the daily fixing the main tool to watch for follow-through. The signal reaches beyond China: a PBOC leaning against appreciation tends to temper gains in other Asian currencies that trade alongside the yuan, such as the Korean won and Taiwan dollar. It can also weigh at the margin on the Australian dollar, which often trades as a China proxy. The timing matters too, with the US dollar already softer on Iran diplomacy hopes. If the dollar weakens further, the PBOC may need stronger signals to hold the line.
+
+---
+
+Earlier:
+
+---
+
+China’s central bank is making dollars scarcer onshore to take some heat out of a strengthening yuan, a modest move in size but a clear signal of where Beijing wants the currency to go.
+
+Summary:
+
+China’s central bank will require banks to hold a larger share of their foreign currency deposits in reserve. The move is a technical tightening of onshore dollar liquidity that markets are likely to read as a signal that Beijing wants to slow the yuan’s rise.
+
+The People’s Bank of China said it will raise the foreign exchange deposit reserve ratio for financial institutions by 2 percentage points, to 6% from 4%, from November 15. It described the step as a way to strengthen the management of foreign exchange liquidity in the banking system.
+
+The ratio works much like the better-known reserve requirement on yuan deposits, but it applies to deposits held in foreign currencies, mostly US dollars. When the ratio rises, banks must park more of those dollars with the central bank, leaving fewer available to lend, invest or sell in the onshore market. With dollars harder to come by, they become relatively more expensive against the yuan, which takes some pressure off the Chinese currency’s appreciation.
+
+The PBOC uses the tool in both directions. It raised the ratio twice in 2021, when the yuan was climbing strongly, and cut it in 2022 and again in 2023 as the currency weakened and the central bank sought to support it. The ratio had stood at 4% since the last cut, making this the first increase in several years.
+
+The size of the move is modest. When the PBOC cut the ratio by the same 2 percentage points in 2022, ANZ estimated it would add around $20 billion of foreign currency to the market, which is small relative to China’s currency market. The signal, rather than the cash amount, is the main point.
+
+Other indicators point the same way. On Monday, the PBOC set its daily USD/CNY reference rate at around 6.71, considerably weaker for the yuan than the roughly 6.66 that Reuters’ survey of models had expected. That suggests the central bank was already leaning against the currency’s strength. The PBOC has also said it aims to keep the yuan broadly stable and to guard against the risk of the exchange rate overshooting.
+
+For traders, the practical takeaway is that Beijing is signalling a preference for slower, steadier yuan gains. It is not reversing the currency’s direction. The daily fixing will be the clearest guide to whether more steps follow, particularly if the US dollar weakens further.
+
+
+================================================================================
+TITRE : More: RBA lifts cash rate to 4.85% in split 6-3 vote, sees inflation above 3% until late 2027
+DATE  : 03-11-2026 03:39 UTC
+URL   : https://investinglive.com/central-banks/more-rba-lifts-cash-rate-to-4-85-in-split-6-3-vote-sees-inflation-above-3-until-late-2027/
+================================================================================
+
+For the Australian dollar,the hikedelivers little that was not already priced. Markets had assigned an 85% chance to the move, and around one and a half increases by mid-2027 were priced before the meeting. The three-member dissent and the absence of an explicit tightening bias argue against a sustained AUD rally, and leave room for a modest fade if Governor Michele Bullock’s press conference leans cautious. The front end of the curve is likely to stay supported by the higher inflation forecasts, keeping a further hike in play but not locked in. In equities, the RBA’s own assessment that higher rates and the housing downturn are weighing on banks, consumer discretionary and real estate stocks points to continued pressure on those sectors. Energy names remain supported by oil prices the bank assumes will stay well above pre-conflict levels.
+
+-
+
+The RBA hiked again as its inflation forecasts jumped, but a three-member dissent and a non-committal outlook suggest the board is closer to the top of the cycle than its forecasts alone imply.
+
+Summary:
+
+The Reserve Bank of Australia raised its cash rate by 25 basis points to 4.85% on Tuesday, its fifth increase this year and the highest level since 2008. A three-member dissent, however, signalled growing division over how much further policy needs to tighten.
+
+Six members of the Monetary Policy Board voted for the hike, while three preferred to keep the rate at 4.60%. In its statement, the board said inflation remains elevated and broadly based, and that there is an increasing risk higher inflation expectations will become embedded. It judged that further tightening in financial conditions was warranted to support the return of inflation to target.
+
+The accompanying Statement on Monetary Policy showed a material upgrade to the inflation outlook. Headline inflation is now forecast to peak at 4.5% in the December quarter, and both headline and trimmed mean inflation are expected to stay above 3% until late 2027, about three quarters longer than forecast in August. Inflation is not expected to return to the 2.5% midpoint of the target band until mid-2028. Headline inflation was 3.9% over the year to the September quarter, with trimmed mean at 3.7%.
+
+The RBA attributed the revision to two factors. Fuel and other commodity prices have risen sharply since the Middle East conflict re-escalated, with Brent crude around US$115 a barrel at the time of the forecasts. Staff also now judge domestic capacity pressures to be tighter than previously thought, and lifted their estimate of the unemployment rate consistent with stable inflation to around 4.75%. The bank also noted that AI-related demand is pushing up prices for technology goods, and that some measures of inflation expectations have risen.
+
+The economy is slowing under the weight of higher rates. House prices were almost 5% below their March peak in September, unemployment averaged 4.6% in the September quarter, and the jobless rate is forecast to rise to 5.1% by end-2028. Strong investment in data centres is partly offsetting weaker household spending and housing activity.
+
+The forecasts assume the cash rate rises by around 35 basis points by mid-2027 in line with market pricing, a path up to 50 basis points higher than in August. On guidance, though, the board said only that it will be attentive to the data and will do what is necessary to bring inflation back to target. That stops short of an explicit commitment to further hikes.
+
+The outcome matched expectations from HSBC and AMP, while the split vote and cautious guidance sit closer to AMP’s hike-and-hold view than to ANZ’s warning of a move to 5.10%.
+
+Background:
+
+
+================================================================================
+TITRE : RBA’s Bullock offers no guidance, says it is probably good to wait for data after hike
+DATE  : 03-11-2026 04:44 UTC
+URL   : https://investinglive.com/central-banks/rba-s-bullock-offers-no-guidance-says-it-is-probably-good-to-wait-for-data-after-hike/
+================================================================================
+
+Earlier:
+
+Bullock’s comments sent a mixed signal for the Australian dollar and the front end of the curve. Her warning that inflation is largely locked in for the next year, and that unemployment must rise further, underlines the RBA’s resolve. Her account of the dissent, though, suggests a significant minority is already wary of overtightening. That balance supports the view that further hikes remain possible but are far from assured, limiting the scope for a strong rebound in the AUD after its post-decision dip. For Australian equities, the explicit acceptance of weaker growth and higher unemployment adds to pressure on rate-sensitive sectors such as banks, retailers and property, which the RBA itself identified as under strain.
+
+Bullock’s suggestion that the board should now wait for data tilts the balance toward a pause, reducing the chance of a near-term follow-up hike and capping the AUD’s rebound potential.
+
+--
+
+Bullock made the case for accepting some economic pain now to stop inflation becoming entrenched, but her description of the dissent shows a board increasingly divided over how far to push.
+
+Summary:
+
+Reserve Bank of Australia Governor Michele Bullock said on Tuesday that the central bank’s latest rate rise was needed to bring inflation down, and that the economy will have to endure subdued growth and higher unemployment to get there.
+
+Speaking at her press conference after the board lifted the cash rate by 25 basis points to 4.85%, Bullock said the tightening was aimed at domestic capacity pressures. She argued that accepting some pain now would help prevent further pain down the track. Growth will need to stay subdued and unemployment to rise further, she said.
+
+Bullock was frank about the near-term inflation outlook. She said inflation is largely baked in for the next year and described that as not a good situation to be in. The comments align with the RBA’s updated forecasts, released alongside the decision, which see headline inflation peaking at 4.5% in the December quarter and both headline and trimmed mean inflation staying above 3% until late 2027.
+
+The governor also shed light on the board’s division. Six members voted for the hike and three preferred to hold at 4.60%. Bullock said those favouring a hold saw greater downside risks to the economy and felt the board should wait a little longer for more data before acting.
+
+On the outlook, Bullock said she does not know what the next move in rates will be and that the board is not offering forward guidance. She added that it would probably be sensible to wait now and assess incoming data, comments likely to reinforce speculation that Tuesday’s increase could be followed by a pause.
+
+The RBA publishes its votes without attributing them to individual members, so the identities of the dissenters have not been disclosed.
+
+The hike, the RBA’s fifth this year, takes the cash rate to its highest level since 2008. In its statement, the board said it would remain attentive to the data and do what is necessary to return inflation to target, without explicitly committing to further increases. The Australian dollar fell after the decision, which markets had widely expected, amid some speculation that the split vote could mean this is the last hike of the cycle.
+
+Bullock also expressed confidence that the tightening will have the intended effect, saying monetary policy works but takes time to feed through to the economy. She noted that unemployment remains relatively low and that jobs growth is continuing, adding that she does not see the economy cracking at this point.
+
+---
+
+Earlier:
+
+Overseeing the cash rate rising to its highest 18 years is not an easy gig for the RBA Governor.
+
+
+================================================================================
+TITRE : RBA governor Bullock says it might be that this rate hike might not be enough
+DATE  : 03-11-2026 05:28 UTC
+URL   : https://investinglive.com/central-banks/rba-governor-bullock-says-it-might-be-that-this-rate-hike-might-not-be-enough/
+================================================================================
+
+High risk warning: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade foreign exchange, carefully consider your investment objectives, experience level, and risk tolerance. You could lose some or all your initial investment; do not invest money that you cannot afford to lose. Educate yourself on the risks associated with foreign exchange trading and seek advice from an independent financial or tax advisor if you have any questions.
+
+Advisory warning: investingLive is not an investment advisor, investingLive provides references and links to selected news, blogs and other sources of economic and market information for informational purposes and as an educational service to its clients and prospects and does not endorse the opinions or recommendations of the blogs or other sources of information. Clients and prospects are advised to carefully consider the opinions and analysis offered in the blogs or other information sources in the context of the client or prospect's individual analysis and decision making. None of the blogs or other sources of information is to be considered as constituting a track record. Past performance is no guarantee of future results and investingLive specifically hereby acknowledges clients and prospects to carefully review all claims and representations made by advisors, bloggers, money managers and system vendors before investing any funds or opening an account with any Forex dealer. Any news, opinions, research, data, or other information contained within this website is provided on an "as-is" basis as a general market commentary and does not constitute investment or trading advice, and we do not purport to present the entire relevant or available public information with respect to a specific market or security. investingLive expressly disclaims any liability for any lost principal or profits which may arise directly or indirectly from the use of or reliance on such information, or with respect to any of the content presented within its website, nor its editorial choices.
+
+Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
+
+

@@ -1,0 +1,80 @@
+================================================================================
+TITRE : Event calendar in Asia Tuesday, November 10, 2026: BoJ and China trade data
+DATE  : 09-11-2026 21:03 UTC
+URL   : https://investinglive.com/central-banks/event-calendar-in-asia-tuesday-november-10-2026-boj-and-china-trade-data/
+================================================================================
+
+BoJ Summary of Opinions and China trade data: what to watch in Asia on Tuesday
+
+Bank of Japan: Summary of Opinions (October 29-30 meeting)
+
+The Bank of Japan releases the Summary of Opinions from its October 29 and 30 policy meeting at 23:50 GMT on Monday (18:50 US Eastern time).
+
+The Summary is a short, anonymous digest of the views board members and government representatives gave at the meeting. It comes out about a week and a half after the decision. Speakers are not named, and the governor, as chair, edits the document. Its value is speed: it gives an early read on where the debate stands, how many members lean toward the next move, and what conditions they want met first. The minutes are a different product. They come out only after the following meeting, so the October minutes are due on December 23, after the December decision. They give a fuller account of the discussion, but by then they are largely history. The Summary is the one that can move the yen.
+
+At the meetingthe BoJ held its policy rate at 1.25%, a 31-year high, on an 8-1 vote. Board member Hajime Takata dissented and proposed a hike to 1.5%, on the view that underlying inflation has reached the 2% target. The Bank said underlying inflation is now generally consistent with its target and that risks to prices are skewed to the upside. It raised its fiscal 2027 core inflation forecast to 2.6% from 2.4% and trimmed growth to 0.7%. It also surprised markets by more than doubling the pace of its ETF sales to around 860 billion yen a year from January 2027. Governor Kazuo Ueda then softened the inflation message at his press conference.
+
+The focus is December. The BoJ raised rates in June and September, and markets widely expect it to keep that quarterly pace with a hike to 1.5% at the December 17-18 meeting. Watch how many members say conditions for the next step are in place, whether anyone else shares Takata’s sense of urgency, and whether the more cautious members point to the softer growth outlook or to oil-driven import costs. A Summary heavy with near-term hike support would firm December pricing and help the yen. A guarded tone would leave the timing open.
+
+China: October trade data
+
+China publishes October trade figures on Tuesday. A Reuters poll expects exports to have grown about 33% year on year in dollar terms, slightly slower than September’s 36% surge, with imports seen up around 32%. The surplus is expected near $126 billion, down from about $134 billion in September but enough to take the total for the first ten months of 2026 above $1 trillion. Demand for AI infrastructure hardware has driven the export boom, though some analysts read October’s fall in new export orders as an early warning that the tech cycle is softening.
+
+The equity backdrop matters more. The CSI 300 fell 8.5% in October, its worst month in over a decade, and posted a record 12 straight weekly losses on a weak economy and doubts about AI earnings. Beijing first called on state funds, the so-called “national team,” to buy shares and on companies to step up buybacks. On November 2 the PBOC and the securities regulator brought back the 2024 toolkit. They are expanding the swap facility that funds stock purchases by brokers, funds and insurers. They cut the relending rate for buybacks to 1% from 1.25% and made that facility permanent. They also eased the rules on buybacks. Investors were sceptical at first, and the state funds then bought more. So the Bank of Japan is speeding up its ETF sales while Beijing’s state funds are buying. A strong trade print may help sentiment at the margin, but analysts argue a lasting turnaround needs household-focused fiscal support and a steadier property market.
+
+Bank of Japan Governor Ueda
+
+
+================================================================================
+TITRE : BoJ opinions back faster hikes, one sees neutral rate ‘considerably above 1%’
+DATE  : 09-11-2026 23:58 UTC
+URL   : https://investinglive.com/central-banks/boj-opinions-back-faster-hikes-one-sees-neutral-rate-considerably-above-1/
+================================================================================
+
+The Summary should firm pricing for a December hike to 1.5% and support the yen against the US dollar. It could also lift short-dated Japanese government bond yields, since the debate is now about pace, not direction. The member putting neutral considerably above 1% matters for terminal-rate pricing: it suggests markets could push their end-point expectations higher than the roughly 2% some already pencil in for next year. The dovish checks,notably weak consumption reinforced by today’s 6.8% household spending slump, limit the case for a faster-than-quarterly pace for now. The view that the policy rate is already within the neutral range is the main counterweight. Higher oil prices, which members flagged as pushing up inflation, keep the energy link to BoJ policy live.
+
+---
+
+The BoJ’s argument is no longer about whether to keep hiking but how fast, and the hawks are making the louder case.
+
+Summary:
+
+Bank of Japan policymakers broadly agreed at their October meeting that the next move is a further rate hike, according to the Summary of Opinions released on Tuesday. Several pushed to reach the neutral rate soon, and one argued that neutral is likely “considerably above 1 percent.”
+
+The summary, an anonymous digest of views from the October 29 and 30 meeting, shows the board judged underlying inflation to be generally consistent with the 2% price target. With that point settled, the debate has moved from whether to hike to how quickly. One member described a “new phase” in which the bank needs to step up the pace of bringing rates to neutral, noting that the effects of past hikes have yet to materialise and financial conditions remain accommodative. Another said the bank should reach neutral soon but “make haste slowly,” checking financial conditions for a few months after each move. A third called for a regime shift to get rates to neutral at an early stage, giving the bank room to respond nimbly in either direction.
+
+Inflation risks featured prominently. Members noted that core CPI is projected to exceed 3% toward the end of the fiscal year and that inflation has picked up with the rise in crude oil prices. They also said Japan’s inflation expectations are less firmly anchored than those in Europe or the US, leaving the economy more exposed to external shocks.
+
+The more cautious voices were also on record. Some members favoured holding in October to examine risks and the cumulative effect of past hikes. One said underlying inflation can be anchored around 2% without hastily raising rates to neutral. Another warned that with the policy rate already within the estimated neutral range, a further hike could weigh on the economy.
+
+Consumption was a recurring concern. One member said private consumption lacks momentum and is unlikely to lead the economy. Another said the bank should not be overly cautious about the next hike but should assess the underlying trend in spending. That point gained weight on Tuesday, when data showed September household spending fell 6.8% from a year earlier, far worse than expected.
+
+Members also flagged uncertainty over how long AI-related demand will support Japan’s economy, and backed the decision to speed up the bank’s ETF sales. Government representatives said they expect the bank to cooperate closely with the government. Taken together, the summary supports market expectations for a hike to 1.5% at the December 17-18 meeting, with consumption and next year’s wage talks the main checks on the pace.
+
+
+================================================================================
+TITRE : PBOC is expected to set the USD/CNY reference rate at 6.6655 – Reuters estimate
+DATE  : 10-11-2026 00:29 UTC
+URL   : https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6655-reuters-estimate/
+================================================================================
+
+High risk warning: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade foreign exchange, carefully consider your investment objectives, experience level, and risk tolerance. You could lose some or all your initial investment; do not invest money that you cannot afford to lose. Educate yourself on the risks associated with foreign exchange trading and seek advice from an independent financial or tax advisor if you have any questions.
+
+Advisory warning: investingLive is not an investment advisor, investingLive provides references and links to selected news, blogs and other sources of economic and market information for informational purposes and as an educational service to its clients and prospects and does not endorse the opinions or recommendations of the blogs or other sources of information. Clients and prospects are advised to carefully consider the opinions and analysis offered in the blogs or other information sources in the context of the client or prospect's individual analysis and decision making. None of the blogs or other sources of information is to be considered as constituting a track record. Past performance is no guarantee of future results and investingLive specifically hereby acknowledges clients and prospects to carefully review all claims and representations made by advisors, bloggers, money managers and system vendors before investing any funds or opening an account with any Forex dealer. Any news, opinions, research, data, or other information contained within this website is provided on an "as-is" basis as a general market commentary and does not constitute investment or trading advice, and we do not purport to present the entire relevant or available public information with respect to a specific market or security. investingLive expressly disclaims any liability for any lost principal or profits which may arise directly or indirectly from the use of or reliance on such information, or with respect to any of the content presented within its website, nor its editorial choices.
+
+Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
+
+
+================================================================================
+TITRE : PBOC sets USD/ CNY central rate at 6.7167 (vs. estimate at 6.6655)
+DATE  : 10-11-2026 01:16 UTC
+URL   : https://investinglive.com/central-banks/pboc-sets-usd-cny-central-rate-at-6-7167-vs-estimate-at-6-6655/
+================================================================================
+
+High risk warning: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade foreign exchange, carefully consider your investment objectives, experience level, and risk tolerance. You could lose some or all your initial investment; do not invest money that you cannot afford to lose. Educate yourself on the risks associated with foreign exchange trading and seek advice from an independent financial or tax advisor if you have any questions.
+
+Advisory warning: investingLive is not an investment advisor, investingLive provides references and links to selected news, blogs and other sources of economic and market information for informational purposes and as an educational service to its clients and prospects and does not endorse the opinions or recommendations of the blogs or other sources of information. Clients and prospects are advised to carefully consider the opinions and analysis offered in the blogs or other information sources in the context of the client or prospect's individual analysis and decision making. None of the blogs or other sources of information is to be considered as constituting a track record. Past performance is no guarantee of future results and investingLive specifically hereby acknowledges clients and prospects to carefully review all claims and representations made by advisors, bloggers, money managers and system vendors before investing any funds or opening an account with any Forex dealer. Any news, opinions, research, data, or other information contained within this website is provided on an "as-is" basis as a general market commentary and does not constitute investment or trading advice, and we do not purport to present the entire relevant or available public information with respect to a specific market or security. investingLive expressly disclaims any liability for any lost principal or profits which may arise directly or indirectly from the use of or reliance on such information, or with respect to any of the content presented within its website, nor its editorial choices.
+
+Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
+
+

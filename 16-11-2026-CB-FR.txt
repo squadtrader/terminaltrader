@@ -1,0 +1,172 @@
+================================================================================
+TITRE : Economic and event calendar in Asia, Monday, November 16, 2026. BoJ, China data, Japan GDP.
+DATE  : 15-11-2026 21:01 UTC
+URL   : https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-monday-november-16-2026-boj-china-data-japan-gdp/
+================================================================================
+
+Busy session coming up:
+
+Consensus:+0.1% q/q and +0.3% annualised, down from +0.4% q/q and +1.4% annualised in Q2. The deflator is expected to hold at 2.6% y/y.
+
+Preview:In a poll of 16 economists, the median estimate is 0.3% annualised growth for July to September, with weaker consumption and external demand outweighing a recovery in capital spending. Private consumption makes up more than half of Japan’s GDP, so a decline there pulls hard on the headline.
+
+Daiwa is more upbeat than the consensus. It forecasts +1.5% annualised (+0.4% q/q), which would be a fourth straight quarter of growth. It sees a small fall in private consumption, with capex and exports lifting the total. It also expects capex to bounce back from one-off factors that weighed on it in Q2.
+
+Why it matters:The release lands about a month before the BoJ’s December meeting. The next policy meeting is 17–18 December, and a Reuters poll has the BoJ hiking to 1.50% then, keeping to a quarterly pace. A soft print with a weak consumption breakdown would give the doves some material. A solid capex number would help the hawks.
+
+Consensus:Retail sales +0.8% y/y (prior 1.1%). Industrial production +5.3% y/y (prior 5.5%). Fixed asset investment year-to-date -7.0% (prior -7.2%).
+
+Background:September came in firmer than expected. Industrial output grew 5.5%, its fastest pace in six months, helped by strong exports of AI-related technology goods. Retail sales rose 1.1%, more than double August’s 0.4% and the quickest growth since March. Underneath that, the economy is still split between supply and demand. Industrial production is booming, but it relies on export demand rather than domestic demand. Property development investment fell 20.6% in January to September.
+
+Autos are the main drag on retail sales. Retail sales excluding autos grew 3.9% in September.
+
+Base effects:This is my own read rather than anything from a preview. Last October’s figures were retail sales +2.9% and industrial production +4.9%. That relatively high retail comparison makes it harder for this October’s retail number to look good. The soft industrial production comparison gives IP some help.
+
+Watch:AUD and iron ore for the reaction. Any renewed calls for consumption stimulus if retail sales slip toward zero.
+
+Background:Takata is the board’s most persistent hawk. At the 30 October meeting, the policy board voted 8-1 to keep the overnight call rate at around 1.25%, and Takata voted against, proposing a rise to around 1.5%. He argued that with underlying CPI inflation at the price stability target, the situation had shifted to a new phase. It was his third straight dissent. He also dissented in July (calling for 1.25%) and January (calling for 1.0%).
+
+In his Sapporo speech in September, Takata said 2026 represents a regime change in which rate hikes should no longer come at a fixed pace but be conducted in a nimble, data-dependent manner. He said policymakers should not be bound by particular intervals or ranges anticipated in the markets.
+
+What to expect:He will most likely repeat the case for a hike, and he’ll have the GDP data from a few hours earlier to respond to. Two things to listen for:
+
+Markets have treated his remarks as yen-supportive before. Because he has been outvoted three times, his views are a guide to the hawkish edge of the board rather than to the consensus.
+
+The dove view:
+
+
+================================================================================
+TITRE : Sunday Fed talk: Schmid says inflation would still be near 3% without energy, Fed has work to do
+DATE  : 15-11-2026 21:19 UTC
+URL   : https://investinglive.com/central-banks/sunday-fed-talk-schmid-says-inflation-would-still-be-near-3-without-energy-fed-has-work-to-do/
+================================================================================
+
+Schmid’s remarks add weight to hike pricing that is alreadyin place for December. His attack on the “supply shock” argument also makes it harder to make the dovish case for looking through energy-driven inflation. That supports the US dollar and front-end Treasury yields, and it keeps the small tail risk of a half-point move alive. A Fed seen as committed to further tightening has been a headwind for gold throughout this cycle. His view that AI-driven demand will respond to higher rates is also a reminder to rate-sensitive tech valuations that the sector is not exempt from policy.
+
+---
+
+Schmid stopped short of calling for a hike, but he took apart both main arguments that inflation is beyond the Fed’s control, leaving little room for the doves ahead of December.
+
+Summary:
+
+Kansas City Federal Reserve President Jeff Schmid said on Sunday that US inflation is running too hot and that the Fed still has work to do to bring it under control. He pushed back against arguments that current price pressures are beyond the central bank’s reach.
+
+Speaking to a credit union conference in Hawaii, Schmid said inflation is uncomfortably above the Fed’s 2% target and moving in the wrong direction, Reuters reported. He noted that inflation would still be running at about 3% even with energy prices stripped out, which suggests the problem is broader than the oil shock. He did not specifically call for further rate increases.
+
+The core of his remarks was a rebuttal of two narratives that have gained ground recently. The first holds that high inflation reflects a run of supply shocks the Fed cannot fix. Schmid’s view is that inflation always comes from an imbalance between supply and demand, and that supply disruptions push prices higher precisely because demand is strong. Because the Fed influences demand, he argued, it always has both the tools and the responsibility to respond.
+
+The second narrative holds that the current sources of demand, such as the artificial intelligence buildout, are resistant to higher interest rates. Schmid disagreed. He also rejected the idea that meeting the inflation goal requires prices in any single category, such as AI-related technology goods, to respond. In his view, it is not the Fed’s role to target the price of any one good or service.
+
+Schmid described the labour market as broadly in balance, with little sign that jobs or wages are adding to inflation. He also echoed Chair Kevin Warsh, saying the work of containing inflation has only become harder since Warsh’s Jackson Hole speech.
+
+Schmid is not a voting member of the policy-setting committee this year. The Fed raised rates by a quarter point in September to a 3.75% to 4.00% range, then held at its October meeting. Inflation data has since come in hotter than expected, and other officials, including Governor Christopher Waller, have also spoken. Futures markets are now fully priced for a quarter-point increase in December, with a small chance of a half-point move. Schmid’s comments add to the chorus arguing that the hiking cycle is not yet finished.
+
+
+================================================================================
+TITRE : Weekend Fed speak: Collins backs steady, gradual rate hikes, cool on a bigger December move
+DATE  : 15-11-2026 21:34 UTC
+URL   : https://investinglive.com/central-banks/weekend-fed-speak-collins-backs-steady-gradual-rate-hikes-cool-on-a-bigger-december-move/
+================================================================================
+
+Collins’s comments push back on the half-point talk that has built since Waller’s remarks and last week’s inflation data. That could trim some of the tail pricing for a larger December move and take a little heat out of the front end of the Treasury curve. Her view that the eventual rate path may be higher cuts the other way, though. It supports the idea of a longer hiking cycle, which keeps the US dollar supported on dips and leaves gold without a clear dovish tailwind. For traders, her message is about the pace of hikes, not when they stop.
+
+---
+
+Also:
+
+---
+
+Collins wants the Fed to keep hiking in small steps rather than speed up, but her admission that the destination may be higher means a gentler pace should not be confused with a softer stance.
+
+Summary:
+
+Boston Federal Reserve President Susan Collins said on Saturday she favours continuing to raise interest rates at a steady, modest pace, arguing that a gradual approach is the better way to handle the uncertainties facing the US economy, Reuters reported.
+
+Speaking to reporters at a housing conference hosted by her bank in Boston, Collins said “a steady, gradual path” of tightening looked right to her for now, though she stressed she remained open-minded. She also cautioned that a gradual approach does not necessarily mean a set rhythm of moves.
+
+Collins described the risks to the real economy as two-sided. On one side, inflation is high and price gains are spreading more widely through the economy, while the job market is stable and could pick up. On the other, the economy is still exposed to further shocks, and the rise in medium and longer-term borrowing costs since the start of the year may restrain demand more than she currently assumes.
+
+Taken together, she said, those factors argue against the Fed stepping up to a more aggressive pace of increases, even though inflation has run above the 2% target for more than five years.
+
+Her comments matter because the debate inside the Fed has shifted from whether to hike to how fast. The Fed last lifted rates in September and is widely expected to raise its 3.75% to 4% target range by a quarter point at the December 8-9 meeting, followed by another increase in January. Most officials have signalled support for small, steady moves, partly to give the economy time to absorb higher borrowing costs. However, recent inflation data and comments from Governor Christopher Waller have raised the possibility that some policymakers want a larger step next month.
+
+Collins did not argue for less tightening overall. She said the past three months of price data, together with a firmer labour market, have led her to think the path of policy rates over the next year may end up somewhat higher than she expected a couple of months ago. Her preference is about pace rather than destination, which leaves the door open to more tightening, delivered in smaller steps.
+
+
+================================================================================
+TITRE : ECB’s Nagel says another rate hike ‘highly probable’ as energy prices push inflation
+DATE  : 15-11-2026 21:51 UTC
+URL   : https://investinglive.com/central-banks/ecb-s-nagel-says-another-rate-hike-highly-probable-as-energy-prices-push-inflation/
+================================================================================
+
+An explicit signal from the Bundesbank president that further tightening is likely should support the euro and push up short-dated euro zone yields, especially German two-year debt. Because he ties the risk directly to gas and electricity, euro zone rate pricing is now more sensitive to moves in energy markets, so a rise in oil or gas could feed quickly into ECB hike expectations. His comment that the economy has proved resilient also weakens the argument that growth worries will hold the ECB back, which leaves rate-sensitive European equities more exposed.
+
+---
+
+Not only open mouths at the ECB:
+
+----
+
+Nagel has made it clear that the ECB is not finished: with energy prices running ahead of forecasts and expectations creeping higher, Germany’s central bank chief sees another hike as the likely price of avoiding a 2022 rerun.
+
+Summary:
+
+European Central Bank policymaker Joachim Nagel said on Friday that the ECB will very likely have to raise borrowing costs again, warning that energy-driven inflation pressures are building faster than the central bank had expected.
+
+If conditions stay as they are, it seems “highly probable” that the ECB will need to act again, the Bundesbank president said in a speech, Bloomberg (gated) reported. He warned that each additional month of elevated inflation increases the risk of second-round effects, where higher prices feed into wages and broader price-setting.
+
+Nagel said the inflation outlook has deteriorated since the ECB’s September projections. That baseline had inflation peaking around the turn of the year and staying above target well into 2027. Since then, he said, energy prices have moved well above the assumed path, and the economy is now approaching the adverse scenario set out in those projections.
+
+He pointed to several sources of pressure. Gas and electricity prices have gathered momentum in recent weeks, and the early stages of the pricing chain point to further increases. Underlying inflation remains elevated, and short-term inflation expectations have risen alongside the jump in headline inflation.
+
+Nagel also noted that the euro zone economy has so far proved resilient. That suggests he sees room to tighten without undermining growth. His remarks frame the policy question around the risk that an energy shock becomes entrenched, rather than around the strength of demand.
+
+He offered some reassurance on the longer view, saying the Bundesbank’s analysis suggests a repeat of the 2022 inflation surge is unlikely, provided the ECB does its job. That condition matters. In his view, avoiding a 2022-style episode depends on the central bank responding in time, rather than waiting for energy prices to ease on their own.
+
+As one of the more influential voices on the Governing Council, Nagel has added weight to expectations of further tightening. The next things to watch are energy prices, how much of them passes through to core inflation, and whether other policymakers share his view that the adverse scenario is becoming more likely.
+
+
+================================================================================
+TITRE : ECB bond market intervention warning from Governor Knot. Can’t replace sound fiscal policy,
+DATE  : 15-11-2026 23:22 UTC
+URL   : https://investinglive.com/central-banks/ecb-bond-market-intervention-warning-from-governor-knot-can-t-replace-sound-fiscal-policy/
+================================================================================
+
+Knot’s line on fiscal discipline matters most for euro zone sovereign spreads, especially French bonds against German Bunds. Markets will read it as a reminder that ECB support would be conditional rather than open-ended. A president with that view could make investors less willing to bet on a full central bank backstop if French finances get worse, which risks wider spreads during periods of stress. On rates, his cautious, data-driven stance on energy-driven inflation is softer than the hike signals coming from more hawkish policymakers, so a Knot presidency would lean toward patience rather than front-loaded tightening. The leadership race is now a live factor for the euro and for periphery bonds.
+
+---
+
+Knot is pitching himself as an ECB chief who will steady bond markets in a crisis but won’t bail out lax budgets, a message aimed at Paris as much as at the markets.
+
+Summary:
+
+The European Central Bank can step into government bond markets to restore order when trading turns disorderly, but it cannot take the place of responsible public spending and debt management. Former Dutch central bank governor Klaas Knot made the point as he campaigns to become the ECB’s next president.
+
+His remarks carry particular weight because worries over France’s public finances have revived talk of a fresh euro zone debt crisis, putting a spotlight on how far the central bank would go to contain market stress. By drawing a clear line between short-term stabilisation and long-term fiscal discipline, Knot signalled that any ECB backstop would come with expectations for governments attached.
+
+Knot is competing with former Spanish central bank governor Pablo Hernandez de Cos to succeed Christine Lagarde, who said last month she would step down on February 7, roughly nine months before her term ends. Whoever wins will inherit a structural challenge: 21 euro zone governments set their own fiscal policies, which makes coordination with a single monetary policy harder.
+
+On the economy, Knot struck a broadly upbeat tone. He pointed to resilient domestic demand, a strong labour market and healthy private-sector balance sheets. He also highlighted higher defence spending and US investment in artificial intelligence as further sources of activity that benefit Europe.
+
+On inflation, he urged caution. He acknowledged that the Iran war has pushed up energy prices and added to near-term inflation pressure. He said the key unknown is whether higher energy costs feed through into wages and wider consumer prices. With inflation expectations broadly stable and little evidence so far of widespread second-round effects, he backed a measured approach, saying policymakers should stay flexible and let incoming data guide future rate decisions.
+
+Knot also said his thinking on monetary policy has changed since the earlier debt crisis, when persistently low inflation split northern and southern policymakers. That shift could matter for how governments in the south see him.
+
+The next ECB president will have to balance price stability against the risk of financial instability, at a time when geopolitical tensions and government borrowing are clouding the euro zone outlook.
+
+French bond spreads have only been one part of this story.
+
+
+================================================================================
+TITRE : PBOC is expected to set the USD/CNY reference rate at 6.6771 – Reuters estimate
+DATE  : 16-11-2026 00:30 UTC
+URL   : https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6771-reuters-estimate/
+================================================================================
+
+High risk warning: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade foreign exchange, carefully consider your investment objectives, experience level, and risk tolerance. You could lose some or all your initial investment; do not invest money that you cannot afford to lose. Educate yourself on the risks associated with foreign exchange trading and seek advice from an independent financial or tax advisor if you have any questions.
+
+Advisory warning: investingLive is not an investment advisor, investingLive provides references and links to selected news, blogs and other sources of economic and market information for informational purposes and as an educational service to its clients and prospects and does not endorse the opinions or recommendations of the blogs or other sources of information. Clients and prospects are advised to carefully consider the opinions and analysis offered in the blogs or other information sources in the context of the client or prospect's individual analysis and decision making. None of the blogs or other sources of information is to be considered as constituting a track record. Past performance is no guarantee of future results and investingLive specifically hereby acknowledges clients and prospects to carefully review all claims and representations made by advisors, bloggers, money managers and system vendors before investing any funds or opening an account with any Forex dealer. Any news, opinions, research, data, or other information contained within this website is provided on an "as-is" basis as a general market commentary and does not constitute investment or trading advice, and we do not purport to present the entire relevant or available public information with respect to a specific market or security. investingLive expressly disclaims any liability for any lost principal or profits which may arise directly or indirectly from the use of or reliance on such information, or with respect to any of the content presented within its website, nor its editorial choices.
+
+Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
+
+

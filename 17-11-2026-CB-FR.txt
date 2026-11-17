@@ -151,3 +151,100 @@ Advisory warning: investingLive is not an investment advisor, investingLive prov
 Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
 
 
+================================================================================
+TITRE : Two more Fed hikes, then a long pause: Goldman reads a third hot core CPI print
+DATE  : 17-11-2026 01:55 UTC
+URL   : https://investinglive.com/central-banks/two-more-fed-hikes-then-a-long-pause-goldman-reads-a-third-hot-core-cpi-print/
+================================================================================
+
+A January hike is a step beyond what the market has firmly priced, so Goldman’s call leans against any rally at the front end. The two-year yield’s jump to near 4.86% shows how quickly expectations can move. For the dollar, a longer tightening cycle supports the policy divergence already weighing on currencies such as the yen and the Aussie. Gold is vulnerable too, since it has repeatedly fallen as Fed hike expectations rise rather than acting as a haven. Equities face the same pressure on valuations seen across AI names this month. The key test is whether Fed officials start to talk openly about January before the December meeting.
+
+---
+
+The latest jaw boning from the Fed:
+
+---
+
+Three strong core inflation readings in a row have convinced Goldman that summer’s slowdown was a blip. It now expects the Fed to hike in January as well as December before taking a long breather.
+
+Summary:
+
+Goldman Sachs Asset Management expects the Federal Reserve to keep raising interest rates beyond December, after a third consecutive strong reading on US core inflation. It forecasts back-to-back hikes in December and January, followed by a prolonged pause.
+
+Core consumer prices, which exclude food and energy, rose 0.3% in October. That is an annualized pace of about 3.6% and was above market expectations. Goldman said the run of three firm prints suggests the softer readings over the summer were temporary rather than the start of a sustained slowdown in inflation. Its charts show the three-month annualized rate of core inflation climbing back to around 3.7%, and the year-on-year measure has edged higher in recent months.
+
+What concerns the asset manager most is the breadth of the increase. Strength showed up across several categories at once. One was so-called supercore inflation, which tracks services prices excluding housing and is closely watched by the Fed as a gauge of wage-driven pressures. Housing and core goods also rose. Goldman argued that such widespread gains make it harder for policymakers to dismiss the data as noise, particularly while the labor market remains resilient.
+
+Markets have moved in the same direction. The two-year Treasury yield, the maturity most sensitive to Fed expectations, had jumped to around 4.86% as of November 11, according to Goldman’s figures, a sharp recovery from a dip in October.
+
+Goldman’s base case is for consecutive hikes in December and January, followed by an extended hold. It cautioned, however, that further increases could follow if inflation proves sticky. For portfolios, the firm said it remains cautious on US interest rates, citing resilient growth and inflation momentum that reinforce the Fed’s hawkish bias.
+
+The view adds to a growing debate over how far the tightening cycle has to run. Investors will look to the next round of inflation and labor market data, and to Fed officials’ comments ahead of the December 8-9 meeting, for signs of whether a January move is gaining support inside the central bank.
+
+
+================================================================================
+TITRE : NZ 1-year inflation expectations jump to 2.9%, but the 2-year anchor barely moves
+DATE  : 17-11-2026 02:14 UTC
+URL   : https://investinglive.com/central-banks/nz-1-year-inflation-expectations-jump-to-2-9-but-the-2-year-anchor-barely-moves/
+================================================================================
+
+For the RBNZ, the survey is mixed rather than alarming. The stable two-year reading lets policymakers argue that expectations remain anchored. The one-year jump and the higher OCR expectations show forecasters now firmly expect tightening. That supports pricing for a hike at the 9 December Monetary Policy Statement, and any pushback from the RBNZ would surprise. For the New Zealand dollar, near 0.55, higher rate expectations give some support, though the move in the two-year gauge is too small to be a strong driver on its own. The slump in house price expectations is a reminder that tighter policy is already biting. That may temper how far the RBNZ is willing to go.
+
+---
+
+Earlier:
+
+---
+
+New Zealand forecasters are bracing for higher inflation next year but still trust the RBNZ to bring it back over two years. They also expect it to raise rates to get there.
+
+Summary:
+
+New Zealand businesses and professional forecasters lifted their near-term inflation expectations sharply in the fourth quarter, the Reserve Bank of New Zealand’s latest Survey of Expectations showed on Tuesday. But the two-year measure the RBNZ watches most closely barely moved.
+
+One-year-ahead inflation expectations rose to 2.92% from 2.60%, a jump of 32 basis points. Two-year-ahead expectations edged up to 2.36% from 2.34%. Longer-term measures eased: five-year expectations fell to 2.17% from 2.31%, and the 10-year gauge slipped to 2.13% from 2.20%.
+
+Why the two-year number matters
+
+Policymakers focus on the two-year horizon because it roughly matches how long it takes for changes in interest rates to work through the economy. If businesses expect inflation to stay high over that period, they are more likely to build it into wages and prices, which makes inflation harder to bring down. A two-year reading close to the middle of the RBNZ’s 1% to 3% target band suggests expectations remain anchored, even though the short-term outlook has worsened.
+
+The jump in the one-year measure probably reflects recent experience. Annual CPI inflation was 3.7% in the September quarter, down from 4.1% in the June quarter but still above the target range. The survey went into the field on 23 October, the day after those figures were released.
+
+Rate expectations move higher
+
+Respondents also expect higher interest rates. The mean expectation for the official cash rate at the end of the December quarter was 3.05%, above the current 2.75%. That implies an expected hike at or before the RBNZ’s next Monetary Policy Statement on 9 December. One-year-ahead OCR expectations rose to 3.40% from 3.21%.
+
+The rest of the survey was mixed. One-year-ahead unemployment expectations held at 5.24%, one-year wage inflation expectations rose to 2.90%, and GDP growth expectations improved. House price expectations fell sharply, with house price inflation one year ahead now seen at just 0.51%.
+
+What to watch
+
+The firmer one-year reading combined with a stable two-year anchor gives the RBNZ room to argue that expectations are under control. But the rate expectations in the survey show that respondents believe more tightening is coming. The 9 December statement will show whether the central bank agrees.
+
+
+================================================================================
+TITRE : Kuroda, once Japan’s great easer, says BOJ rates may need to rise above neutral
+DATE  : 17-11-2026 04:23 UTC
+URL   : https://investinglive.com/central-banks/kuroda-once-japan-s-great-easer-says-boj-rates-may-need-to-rise-above-neutral/
+================================================================================
+
+For Japanese rates and the yen, a call for above-neutral rates from the architect of Japan’s easing era adds weight to the hawkish tail of BOJ pricing. Most economists see a terminal rate near 1.75%, and talk of 2.5% now has a high-profile backer. Kuroda no longer sets policy, so the direct effect is limited. Still, his critique of the food tax cut puts the fiscal-monetary tension in sharp relief ahead of an expected December hike. Front-end JGB yields, with the two-year near 1.88%, are most exposed to any shift toward a higher peak. Oil matters here too. Kuroda explicitly links Japan’s inflation risk to the Iran war, so a renewed energy spike would strengthen the case he describes.
+
+---
+
+The governor who took Japan into negative rates now says the BOJ may need to go beyond neutral. He blames imported inflation from the Iran war and a food tax cut he says will feed prices, not growth.
+
+Summary:
+
+Former Bank of Japan Governor Haruhiko Kuroda says interest rates may need to rise above the neutral level if inflation pressures intensify, according to an interview reported by Bloomberg via The Japan Times. It is a striking message from the architect of a decade of ultra-loose policy.
+
+Kuroda said the outlook depends entirely on inflation. If price pressures become more serious, he said, rate hikes would naturally have to speed up and could take the policy rate beyond neutral, the level at which policy neither stimulates nor restrains the economy. He pointed to the cost pressures Japan faces from the US war with Iran, given the country’s heavy reliance on imported oil, raw materials and food.
+
+His comments come as investors focus on how far the BOJ’s tightening cycle can run. The central bank is widely expected to raise rates next month. The median economist forecast sees the policy rate peaking at 1.75%, roughly two more hikes, though some see it reaching as high as 2.5%. About two weeks ago, the BOJ board under Governor Kazuo Ueda judged underlying inflation to be consistent with its target for the first time since the goal was set in 2013. Kuroda called that a welcome development but said the bank’s job is not done.
+
+He also took aim at fiscal policy. Prime Minister Sanae Takaichi plans to cut the sales tax on food for two years from April, a package expected to add around ¥10 trillion, or roughly $63 billion, to the economy. With unemployment at just 2.4% and the economy running at capacity, Kuroda said the tax cut would push up prices rather than growth. That would leave the BOJ no choice but to keep raising rates.
+
+Data released on Monday showed Japan’s economy contracted in the July to September quarter, with consumer spending hit partly by unusually bad weather. Kuroda played down the figures, describing the weakness as probably temporary.
+
+The interview also offered a rare look back. Kuroda served two terms and is the longest-serving governor in the BOJ’s history. In a book published last month, he revealed that when the bank introduced negative rates of minus 0.1% in 2016, he believed it would be difficult to cut further, despite the bank’s repeated pledges to do so if needed. Financial institutions, he said, may not have been able to absorb deeper negative rates.
+
+

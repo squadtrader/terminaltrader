@@ -191,3 +191,180 @@ Paulson had already shared hers. In a speech on November 10, she said policy nee
 Read together, the two speeches point the same way. Paulson is a voter this year, and nothing in either speech suggests she would resist the quarter-point hike in December that markets widely expect, which would lift the target range to 4.00% to 4.25%. Thursday’s message adds that a slower pace should not be mistaken for a softer resolve.
 
 
+================================================================================
+TITRE : PBOC is expected to set the USD/CNY reference rate at 6.6731 – Reuters estimate
+DATE  : 20-11-2026 00:21 UTC
+URL   : https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6731-reuters-estimate-0/
+================================================================================
+
+High risk warning: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade foreign exchange, carefully consider your investment objectives, experience level, and risk tolerance. You could lose some or all your initial investment; do not invest money that you cannot afford to lose. Educate yourself on the risks associated with foreign exchange trading and seek advice from an independent financial or tax advisor if you have any questions.
+
+Advisory warning: investingLive is not an investment advisor, investingLive provides references and links to selected news, blogs and other sources of economic and market information for informational purposes and as an educational service to its clients and prospects and does not endorse the opinions or recommendations of the blogs or other sources of information. Clients and prospects are advised to carefully consider the opinions and analysis offered in the blogs or other information sources in the context of the client or prospect's individual analysis and decision making. None of the blogs or other sources of information is to be considered as constituting a track record. Past performance is no guarantee of future results and investingLive specifically hereby acknowledges clients and prospects to carefully review all claims and representations made by advisors, bloggers, money managers and system vendors before investing any funds or opening an account with any Forex dealer. Any news, opinions, research, data, or other information contained within this website is provided on an "as-is" basis as a general market commentary and does not constitute investment or trading advice, and we do not purport to present the entire relevant or available public information with respect to a specific market or security. investingLive expressly disclaims any liability for any lost principal or profits which may arise directly or indirectly from the use of or reliance on such information, or with respect to any of the content presented within its website, nor its editorial choices.
+
+Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
+
+
+================================================================================
+TITRE : Japan CPI misses on all three measures, but core stays above 2% ahead of a BoJ hike call
+DATE  : 20-11-2026 00:29 UTC
+URL   : https://investinglive.com/central-banks/japan-cpi-misses-on-all-three-measures-but-core-stays-above-2-ahead-of-a-boj-hike-call/
+================================================================================
+
+The misses take a little edge off December hike pricing, but not enough to change the base case after Ueda’s hawkish remarks on Thursday. A slower underlying gauge leaves the yen with less support than it needed near 160, so the burden falls on intervention warnings rather than rate expectations. JGB yields may ease at the front end, but producer prices running at 7.1% keep the inflation pipeline full. With energy a key driver, oil remains a swing factor for whether underlying inflation turns back up as some economists expect.
+
+----
+
+The data post earlier:
+
+Japan’s inflation missed forecasts across the board but stayed above target, leaving the BoJ’s December hike intact and the yen still looking for support near 160.
+
+Summary:
+
+Japan’s core inflation rate picked up in October and stayed above the Bank of Japan’s 2% target for a second straight month, although every major measure came in below forecasts. The result does little to change expectations that the BoJ will raise rates at its December meeting.
+
+The core consumer price index, which excludes fresh food, rose 2.2% from a year earlier, below the median forecast of 2.3% but up from 2.1% in September. Headline inflation rose to 2.3% from 2.1%, short of the 2.5% expected. The index that excludes both fresh food and fuel, which the BoJ watches as a better gauge of demand-driven price pressure, slowed to 2.2% from 2.4%, against a forecast of 2.3%.
+
+That last reading is the one that gives doves something to point to. A slowdown in underlying inflation would normally argue for patience. But the gauge is still above target, and some economists expect it to accelerate sharply in the coming months as companies continue to pass on rising raw material costs. One research house now expects the BoJ to lift its policy rate to 2.5% by the middle of next year, well beyond current market pricing.
+
+Cost pressures in the pipeline support that view. Japan’s producer prices rose 7.1% year on year in October, ahead of forecasts. Oil, chemicals, steel and utilities drove the rise, and a weak yen lifted import costs. Energy costs tied to the Middle East conflict have been a major driver of the pickup in consumer prices this year.
+
+The BoJ’s policy rate stands at 1.25% after hikes in June and September, a faster pace than its roughly twice-yearly moves in 2024 and 2025. It held rates steady in October. A Reuters poll shows 86% of economists expect a hike to 1.50% at the December 17 to 18 meeting, which would be the third increase this year. Governor Kazuo Ueda said on Thursday that the bank expects to keep raising rates because monetary conditions remain accommodative. He also flagged an upside risk that underlying inflation could overshoot the target.
+
+There are offsetting concerns. The economy unexpectedly contracted in the July to September quarter, and the yen is trading near 160 per dollar despite heavy intervention this year. With the Fed also hiking, a December BoJ move may do little to narrow the rate gap that has kept pressure on the yen.
+
+----
+
+Final 2026 meetng to come soon:
+
+
+================================================================================
+TITRE : China holds loan prime rates for an 18th month as the overnight rate takes over
+DATE  : 20-11-2026 01:01 UTC
+URL   : https://investinglive.com/central-banks/china-holds-loan-prime-rates-for-an-18th-month-as-the-overnight-rate-takes-over/
+================================================================================
+
+A hold was expected, so it should leave the yuan and Chinese bond markets little changed. The five respondents who expected a cut show that easing talk is building, which keeps attention on the PBoC’s next steps outside the LPR, such as reserve requirement cuts or targeted lending. Weak October activity data and a hawkish Fed narrow the room for rate cuts, since a lower rate would widen the gap with the US and add pressure to the yuan. For Asian equities, already under pressure from today’s chip selloff, the decision offers no fresh support.
+
+Newswire cut:China kept its one-year loan prime rate at 3.0% and five-year at 3.5% for an 18th straight month, as expected by most. The LPR still prices most loans and mortgages, but the PBoC’s main signal is now its 1.25% overnight reverse repo rate.
+
+One-line wrap:China’s lending benchmarks held steady again, a reminder that the LPR now follows Beijing’s policy signals rather than setting them.
+
+Summary:
+
+China left its benchmark lending rates unchanged for an 18th consecutive month on Friday. The one-year loan prime rate stayed at 3.0% and the five-year rate at 3.5%, in line with expectations from most market participants.
+
+A Reuters survey of 28 respondents had found 23 expecting no change. Five forecast a cut to one or both rates, the first break from unanimous hold calls in recent months. That minority view reflected signs of renewed weakness in October, with factory output slowing and consumption subdued. Citigroup had described a November cut as implausible and expects rates to stay on hold through the rest of 2026, followed by two 10 basis point cuts in 2027.
+
+What the LPR is
+
+The loan prime rate is a benchmark lending rate set once a month. Twenty designated commercial banks submit quotes to the People’s Bank of China, and the published rate is meant to reflect what banks charge their most creditworthy borrowers. Other loans are priced as a spread above it.
+
+What the two rates are used for
+
+The one-year LPR is the reference for most corporate and household loans, including working capital lending to businesses. The five-year LPR is the main benchmark for mortgages, which makes it the rate to watch for any support aimed at the property sector.
+
+Why it matters less than it used to
+
+The LPR is not the PBoC’s policy rate. Banks set their quotes based on the central bank’s own operations, so the LPR tends to follow policy moves rather than signal them. For years, the medium-term lending facility played that anchoring role. In 2024 the PBoC made the seven-day reverse repo rate its main policy rate, most recently at 1.40%.
+
+The bank has now gone a step further. From November 2, overnight reverse repo operations at 1.25% became the PBoC’s main daily operation, with seven-day operations kept as a liquidity tool used as needed. Governor Pan Gongsheng said in October that the interbank overnight repo rate had effectively become the central bank’s target. Analysts stress the switch is a reform rather than a rate cut, even though it lowered the floor of the rate framework by 15 basis points.
+
+The PBoC also plans to let financially strong companies price loans off the overnight rate rather than the LPR. Over time, that would weaken the LPR’s role even in its core job of pricing bank loans.
+
+For markets, that means a monthly LPR hold tells investors little on its own. Any shift in China’s policy stance is now more likely to show up first in the overnight rate, in reserve requirement changes or in targeted lending tools, with the LPR following later.
+
+
+================================================================================
+TITRE : PBOC sets USD/ CNY reference rate for today at 6.7131 (vs. estimate at 6.6731)
+DATE  : 20-11-2026 01:15 UTC
+URL   : https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7131-vs-estimate-at-6-6731/
+================================================================================
+
+High risk warning: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade foreign exchange, carefully consider your investment objectives, experience level, and risk tolerance. You could lose some or all your initial investment; do not invest money that you cannot afford to lose. Educate yourself on the risks associated with foreign exchange trading and seek advice from an independent financial or tax advisor if you have any questions.
+
+Advisory warning: investingLive is not an investment advisor, investingLive provides references and links to selected news, blogs and other sources of economic and market information for informational purposes and as an educational service to its clients and prospects and does not endorse the opinions or recommendations of the blogs or other sources of information. Clients and prospects are advised to carefully consider the opinions and analysis offered in the blogs or other information sources in the context of the client or prospect's individual analysis and decision making. None of the blogs or other sources of information is to be considered as constituting a track record. Past performance is no guarantee of future results and investingLive specifically hereby acknowledges clients and prospects to carefully review all claims and representations made by advisors, bloggers, money managers and system vendors before investing any funds or opening an account with any Forex dealer. Any news, opinions, research, data, or other information contained within this website is provided on an "as-is" basis as a general market commentary and does not constitute investment or trading advice, and we do not purport to present the entire relevant or available public information with respect to a specific market or security. investingLive expressly disclaims any liability for any lost principal or profits which may arise directly or indirectly from the use of or reliance on such information, or with respect to any of the content presented within its website, nor its editorial choices.
+
+Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
+
+
+================================================================================
+TITRE : Some analysts now see BoJ rates at 2.5% by mid-2027, despite slower underlying inflation
+DATE  : 20-11-2026 01:36 UTC
+URL   : https://investinglive.com/central-banks/some-analysts-now-see-boj-rates-at-2-5-by-mid-2027-despite-slower-underlying-inflation/
+================================================================================
+
+A 2.5% BoJ path is far from priced, so the forecast is more a marker of upside risk than a market mover. If the coming months show underlying inflation turning higher, front-end JGB yields would be the first to reprice, with the yen likely to follow. The view also raises the stakes for the BoJ’s December 18 statement and Ueda’s press conference, where any hint of a faster pace would carry weight. With energy and imported costs feeding producer prices, oil and USD/JPY remain the key inputs to watch.
+
+---
+
+October’s slower underlying inflation hasn’t deterred the BoJ hawks: some forecasters now see rates at 2.5% by mid-2027, double today’s level.
+
+Summary:
+
+Some analysts are making a far more aggressive case for Bank of Japan tightening than the market, arguing that October’s slower underlying inflation reading is a pause rather than a turning point.
+
+Japan’s core-core index, which excludes fresh food and energy and is closely watched by the BoJ, slowed to 2.2% in October from 2.4%. One camp of forecasters argues that a sharp acceleration in that measure is still likely over the coming months. They see further room for inflation in other industrial products, a broad category of manufactured goods, and say producer price data point to faster food inflation ahead. October’s producer prices rose 7.1% year on year, beating forecasts. Oil, chemicals, steel and utility costs climbed, and a weak yen pushed up import costs. Companies are still passing those costs on to consumers.
+
+On that basis, some analysts now expect the BoJ to raise its policy rate to 2.5% by the middle of 2027. That marks a big step up from the same camp’s call only a month ago for a peak of around 2%, which was itself seen as above consensus. The pace is the sticking point. The BoJ has settled into a roughly quarterly rhythm of quarter-point hikes, moving in June and September and widely expected to act again in December. At that pace, the policy rate would reach about 2% by mid-2027. Getting to 2.5% from today’s 1.25% would require a hike at every one of the five meetings between December and June, or a larger move along the way. That would be a clear break from the steady approach the bank has followed so far.
+
+The mainstream view is more measured. A Reuters poll shows 86% of economists expect a hike to 1.50% at the December 17 to 18 meeting, and nearly 60% expect 1.75% by the end of March. Governor Kazuo Ueda said on Thursday that the bank expects to keep raising rates. He flagged an upside risk that underlying inflation could overshoot the 2% target, but he has given no sign of an accelerated path.
+
+There are also reasons for caution in the October data. Headline inflation rose to 2.3%, its highest in nearly a year. That was driven partly by a sharp increase in fresh food prices and by energy costs after the government briefly scaled back utility subsidies. Those subsidies are expected to return over the winter, which could take some heat out of headline readings in the coming months.
+
+The debate matters for the yen. A BoJ path toward 2.5% would narrow the rate gap with the US far more quickly than markets expect, offering support for a currency trading near 160 per dollar. If underlying inflation instead stays around 2%, the gradual path priced by most economists looks more likely, and the yen would remain reliant on intervention warnings.
+
+Bank of Japan Governor Ueda
+
+
+================================================================================
+TITRE : A December BoJ hike may not be enough: why a fuzzy endpoint keeps yen bears circling
+DATE  : 20-11-2026 02:58 UTC
+URL   : https://investinglive.com/central-banks/a-december-boj-hike-may-not-be-enough-why-a-fuzzy-endpoint-keeps-yen-bears-circling/
+================================================================================
+
+With a December hike largely priced, the yen’s direction now hinges on the BoJ’s guidance beyond it. A vague statement or a cautious press conference from Ueda on December 18 risks a “hike and sell” reaction like last December’s. A clearer commitment to keep tightening toward 2% would give the yen more durable support. Until then, intervention risk near 160 is doing more to cap USD/JPY than rate expectations are. The July board changes add a longer-dated dovish tail risk that could weigh on yen forwards.
+
+---The BoJ is agreed on December but divided on the destination, and that missing endpoint may matter more to the yen than the hike itself.
+
+Summary:
+
+A Bank of Japan rate hike in December looks all but settled, but that may not be enough to steady the yen. A Reuters analysis argues that the board’s lack of agreement on how far rates should eventually rise could give currency bears a fresh opening, even as the bank keeps tightening.
+
+The near-term case for a hike strengthened this week.Governor Kazuo Ueda told parliament on Thursdaythat recent soft consumption was temporary, and October inflation data released on Friday showed core prices above the 2% target for a second month. Most economists expect a move to 1.50% at the December 17 to 18 meeting, followed by another by the end of March.
+
+The problem is the destination. BoJ staff estimate Japan’s nominal neutral rate, the level that neither stimulates nor restrains the economy, at anywhere between 1.1% and 2.5%. The board has not agreed where in that range it sits. Hawk Naoki Tamura puts it at about 2%. Hajime Takata favours lifting rates to a level near the middle of the range while avoiding fixed hiking intervals. Doves Toichiro Asada and Ayano Sato see more limited room to tighten. Markets regard Junko Koeda and Kazuyuki Masu as the swing votes on timing.
+
+That uncertainty matters for the yen because it caps how far traders are willing to price. Markets and economists polled by Reuters see the cycle ending at roughly 1.75% to 2%, well short of the most aggressive outside calls. Some analysts this week said rates could reach 2.5% by mid-2027, but that view remains an outlier. Nomura’s Mari Iwashita said the BoJ may be avoiding clear guidance because anchoring inflation around 2% is new territory. In her view, though, sustained US rate hikes would keep pressure on it to keep raising rates.
+
+History offers a warning. In December last year, the yen fell even though the BoJ raised rates, as markets judged the hawkish message unconvincing. The same risk applies now, with the Federal Reserve also hiking and keeping the US-Japan rate gap wide.
+
+Politics adds another layer. Two hawks, Tamura and Takata, leave the nine-member board when their terms expire in July, giving Prime Minister Sanae Takaichi the chance to appoint replacements. Analysts say one seat may go to a less hawkish candidate. Takaichi has said little about rate policy. One veteran BoJ watcher questioned whether she would take steps that weaken the yen, which he sees as the key influence on how far the bank goes.
+
+USD/JPY dropped toward 159.00 on Friday. For the yen, December’s hike looks priced. What the BoJ signals about the path beyond it will matter more.
+
+
+================================================================================
+TITRE : Paulson tells Q&A the Fed has more tightening to do, after a speech with no rate steer
+DATE  : 20-11-2026 04:08 UTC
+URL   : https://investinglive.com/central-banks/paulson-tells-q-a-the-fed-has-more-tightening-to-do-after-a-speech-with-no-rate-steer/
+================================================================================
+
+Paulson’s comments confirm the hawkish lean that her prepared remarks left unsaid, which supports quarter-point December pricing and the view that hikes continue into 2027. Her emphasis on a deliberate pace argues against Waller’s 50 basis point idea, so the comments are more likely to firm up 2027 pricing than lift odds of a jumbo move. That combination supports front-end Treasury yields and the dollar. It’s another headwind for gold, which is already being sold toward $3,600.
+
+---Paulson’s speech offered no rate steer, but her answers to questions did: more hikes are coming, steadily rather than in a rush.
+
+ps. I meant to post this earlier but it gobbled by tech gremlins and here it is now.
+
+Summary:
+
+Philadelphia Fed President Anna Paulson said the Fed has “more tightening to do,” using a question-and-answer session in New York to fill in what her prepared speech had left out.
+
+Her speech to the Money Marketeers of New York University focused on how the Fed communicates and offered no comment on the near-term rate outlook. When questions turned to policy, she was more direct. In her view, moving at a deliberate pace of hikes gives the economy time to adjust. She described inflation as too high and the job market as at full employment, and said lowering inflation is the main priority right now.
+
+That combination matters. With the labour market at full employment, Paulson sees little reason to hold back on the inflation fight, and her remarks suggest she sees no case for stopping soon. At the same time, her stress on a deliberate pace points to quarter-point steps rather than the half-point December move that Governor Christopher Waller has argued officials should consider.
+
+The comments are consistent with her speech on November 10, when she said policy needs to be somewhat restrictive and that further gradual hikes seemed appropriate. In that speech, she named three developments that would make her favour moving faster: inflation expectations drifting higher, building wage pressures or rising underlying inflation. Earlier on Thursday, she also argued that October’s pause was not mistaken for the end of tightening, and her latest remarks reinforce that point.
+
+Paulson votes on policy this year, and her view lines up with the bulk of the committee. Minutes of the October meeting showed nearly all participants expected further hikes to be appropriate in the coming months. Markets widely expect a quarter-point increase at the December 8 to 9 meeting, which would lift the target range to 4.00% to 4.25%. Several major banks, including J.P. Morgan, Deutsche Bank and Bank of America, expect further moves in January and March.
+
+

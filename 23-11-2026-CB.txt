@@ -80,3 +80,59 @@ The counterargument is likely to centre on credibility. Raising the target while
 With the 9 December decision approaching, the debate over how much tightening the economy can take, and what the Fed should be aiming for, is now playing out openly between policymakers, the Treasury and some of Wall Street's most prominent investors.
 
 
+================================================================================
+TITRE : JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause
+DATE  : 23-11-2026 02:04 UTC
+URL   : https://investinglive.com/central-banks/jpmorgan-s-kelly-tech-correction-overdue-stocks-to-bounce-fed-to-hike-once-then-pause/
+================================================================================
+
+Kelly's one-hike-then-pause view gives bulls a counter-narrative to the hawkish pricing that has weighed on stocks and gold. If December's statement or projections lean his way, front-end yields and the dollar could ease. Waller's push for 50bp, or a clear signal of a January follow-up, remains the main risk to that view. November CPI is now a key data point: a sizeable gasoline-driven drop would strengthen the case for a pause. Kelly's flow argument (401(k)s, buybacks, wealthy buyers) suggests dips may keep attracting support, even if the AI valuation debate isn't settled.
+
+---
+
+Earlier:
+
+---
+
+Kelly sees a healthy tech shakeout, a cooling economy outside AI and a Fed that hikes once and stops, a much gentler script than the one markets traded last week.
+
+Summary:
+
+The stock market was due a correction in technology shares and is likely to bounce back, according to David Kelly, chief global strategist at JPMorgan Asset Management. He also pushed back against expectations of aggressive Federal Reserve tightening.
+
+In an interview with CNBC late last week, Kelly said the pullback had been driven by Nvidia's recent problems and wider technological disruption, which he acknowledged were unsettling some investors. Outside the technology sector, though, he saw little evidence of strong demand, pointing to flat new housing activity and weak spending on consumer basics. He also expects inflation pressure to ease. He estimated that falling gasoline prices alone will take around four-tenths of a percentage point off the annual rate of consumer price inflation in November.
+
+On policy, Kelly expects the Fed to raise rates in December and then pause, not keep tightening. He described Governor Christopher Waller as a lonely voice in backing a 50 basis point hike, and said he doesn't believe most policymakers share that view. He argued that markets were building a hawkish story in the absence of clear forward guidance, and that with rates already close to neutral there's no reason for the Fed to be aggressive.
+
+Waller's position has hardened over the past fortnight. In a speech in London on 10 November, he said he was leaning toward a quarter-point increase in December but would consider half a point if inflation ran hot, warning that a smaller move could put the Fed's credibility at risk. After October's consumer price data came in above forecasts, he told CNBC on 18 November that the Fed should either raise rates by 50 basis points at its 8 to 9 December meeting or clearly signal another increase in January. Waller isn't entirely alone, either: Dallas Fed President Lorie Logan also signalled openness to a faster pace earlier this month.
+
+Kelly is still upbeat on the market's resilience. He pointed to steady inflows from 401(k) retirement contributions, corporate buybacks and purchases by wealthy Americans as a consistent source of support. He said that unless there is a major reason for negativity, the market is likely to recover.
+
+His view is at the softer end of the range. Goldman Sachs economists expect hikes in both December and March, and futures price a December move as close to certain. The size of that move, and any signal on what comes next, will be the key tests for Kelly's one-and-done call.
+
+
+================================================================================
+TITRE : OCBC: AI rout becomes a growth shock as EM currencies take the dollar's strength
+DATE  : 23-11-2026 02:23 UTC
+URL   : https://investinglive.com/central-banks/ocbc-ai-rout-becomes-a-growth-shock-as-em-currencies-take-the-dollar-s-strength/
+================================================================================
+
+If OCBC is right, dollar strength will be most visible in high-yielding and externally exposed EM currencies. That makes the case for selective EM FX hedges even while the dollar softens against the majors. Carry trades funded in low-yielders are vulnerable to further unwinding if the AI sell-off resumes, which could add volatility to Asian currencies, especially those tied to chip exports. A clearer Fed pause signal, along the linesJPMorgan's Kelly expects, would be the main thing that could ease the pressure on EM. Any repeat of last week's forced selling in metals would support the "growth shock" reading.
+
+-The AI unwind has stopped being just a rates story, OCBC says, and emerging market currencies are paying for the dollar's resilience.
+
+Summary:
+
+The market shock driven by higher interest rates may have turned into a growth shock, according to OCBC Bank strategists. They said the unwinding of AI-related risk is now hitting equities, emerging market carry trades and metals at the same time.
+
+In a report on Monday, the strategists said worries about the AI investment cycle have pushed down both stocks and US Treasury yields. As a result, the pressure from a strong US dollar has shifted onto emerging market currencies, not spread across the major currencies. In the near term, they expect the dollar to keep benefiting from the risk of a more hawkish Federal Reserve and from the strain that tighter global financial conditions put on the rest of the world.
+
+The view marks a notable evolution for the Singapore bank. In mid-October, OCBC FX strategists Sim Moh Siong and Christopher Wong described AI as the dollar's potential weak spot. They argued that when a shock starts in the US, losses on US assets can outweigh the currency's usual safe-haven appeal. By early November they had turned more supportive, expecting the dollar to stay firm into the first half of 2027, with EUR/USD potentially dipping below 1.10 before recovering later in the year. At the time, they also cautioned that markets might start to question how far the Fed could tighten if AI-related stress led to a sharp tightening in financial conditions.
+
+Monday's note suggests both forces are now in play. Financial conditions have tightened sharply: US equities had their worst week in years, and Goldman Sachs measured its biggest weekly tightening since March 2020. Yet the dollar's strength is showing up mainly against emerging market currencies, which are more exposed to capital outflows and funding stress. Korea illustrates the dynamic: the Kospi has come under heavy pressure and authorities have readied a market stabilisation fund.
+
+The framing echoes Goldman Sachs strategist Ben Snider, who said last week that the sell-off had expanded from an AI unwind into a broader growth downgrade.
+
+In early Asian trade on Monday, the dollar eased against major currencies as US stock futures bounced. OCBC's warning is that the relief may be uneven: as long as the Fed keeps its tightening bias and global conditions stay tight, emerging market currencies are likely to remain the pressure point.
+
+

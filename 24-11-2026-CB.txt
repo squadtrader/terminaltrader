@@ -199,3 +199,47 @@ With two-year and 10-year Treasury yields reaching multi-decade highs this year,
 The commentary was written before Monday's sharp rebound in US stocks, after a week in which BlackRock noted solid Nvidia earnings and Anthropic's record IPO failed to lift AI sentiment and the S&P 500 fell into correction territory. If BlackRock is right that the market is over-pricing hikes, a repricing toward a gentler Fed path would favour short-dated bonds and ease some pressure on rate-sensitive equities.
 
 
+================================================================================
+TITRE : Richmond Fed composite Index for November comes in higher at 3 versus -2 last month
+DATE  : 24-11-2026 15:03 UTC
+URL   : https://investinglive.com/central-banks/richmond-fed-composite-index-for-november-3-versus-2-last-month/
+================================================================================
+
+The Richmond Fed composite Index for the month of November comes in stronger at 3 versus -2 last month.
+
+November components vs October
+
+Fifth District manufacturing activity improved modestly in November, according to the Federal Reserve Bank of Richmond. The composite index moved back above zero after two months at −2. New orders led the rebound, while shipments and employment also improved.
+
+The outlook firmed as well. Expected shipments rose to28 from 19, expected new orders to27 from 22, and expected employment to13 from 8. Input costs grew faster, while selling-price growth held steady. Firms expect both rates to ease over the next 12 months.
+
+Current conditions improved across most of the Richmond Fed’s November manufacturing survey.Of the 17 current readings, including the headline index, 12 rose, three fell and two were unchanged.The composite index rose 5 points to +3 from −2, with all three of its components improving. New orders led the way, rising 10 points to +2, while employment rose 3 points and shipments rose 2 points. Order backlogs posted the biggest gain, up 15 points, though they remained negative at −6. Services spending rose 14 points but also stayed negative, while local business conditions climbed 12 points to +4.
+
+The weaker spots were equipment and software spending, which slipped 1 point to −9, and the availability of needed skills, which fell 3 points to −10. Vendor lead times accounted for the third decline, though the lower reading signals that delivery times lengthened less broadly.On prices, input-cost growth picked up to 7.59% from 7.12%, while selling-price growth held at 5.27%.Finished goods inventories were also unchanged.
+
+Expectations improved across much of the Richmond Fed’s November manufacturing survey.Of the 16 forward-looking readings, nine rose, five fell and two were unchanged.Expected shipments posted the biggest gain, rising 9 points to +28, while expected local business conditions climbed 8 points to +15. The outlook for new orders and employment also firmed, with both indexes up 5 points to +27 and +13, respectively. The expected availability of needed skills improved by 1 point but remained negative at −6.
+
+Capital spending was the clearest weak spot, with the expectations index falling 5 points to −1 from +4 despite the stronger outlook for orders and shipments. Expected finished goods inventories fell 6 points to −3, and the wages index eased 5 points to +44.Firms also lowered their 12-month growth expectations for both prices paid, to 5.06% from 5.32%, and prices received, to 3.82% from 4.30%. Expectations for order backlogs and raw materials inventories were unchanged. The inflation guidance is good news.
+
+Quick analysis
+
+The move back above zero is a modest positive for manufacturing, with new orders the component to watch for follow-through. Firmer demand and faster input-cost growth could lend some support to the US dollar and Treasury yields. Steady selling-price growth and expectations for easing price pressures limit what one regional survey is likely to change for the Fed.
+
+What this report measures
+
+The Richmond Fed’s monthly survey tracks shipments, new orders and employment at manufacturers in the Fifth Federal Reserve District. The seasonally adjusted composite is a diffusion index. A positive reading means improvement was more widespread than deterioration, and traders use it as an early regional read on factory demand and hiring.
+
+
+================================================================================
+TITRE : Bank of Canada may need to respond sooner or more forcefully to major supply shocks
+DATE  : 24-11-2026 17:30 UTC
+URL   : https://investinglive.com/central-banks/bank-of-canada-may-need-to-respond-sooner-or-more-forcefully-to-major-supply-shocks/
+================================================================================
+
+High risk warning: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade foreign exchange, carefully consider your investment objectives, experience level, and risk tolerance. You could lose some or all your initial investment; do not invest money that you cannot afford to lose. Educate yourself on the risks associated with foreign exchange trading and seek advice from an independent financial or tax advisor if you have any questions.
+
+Advisory warning: investingLive is not an investment advisor, investingLive provides references and links to selected news, blogs and other sources of economic and market information for informational purposes and as an educational service to its clients and prospects and does not endorse the opinions or recommendations of the blogs or other sources of information. Clients and prospects are advised to carefully consider the opinions and analysis offered in the blogs or other information sources in the context of the client or prospect's individual analysis and decision making. None of the blogs or other sources of information is to be considered as constituting a track record. Past performance is no guarantee of future results and investingLive specifically hereby acknowledges clients and prospects to carefully review all claims and representations made by advisors, bloggers, money managers and system vendors before investing any funds or opening an account with any Forex dealer. Any news, opinions, research, data, or other information contained within this website is provided on an "as-is" basis as a general market commentary and does not constitute investment or trading advice, and we do not purport to present the entire relevant or available public information with respect to a specific market or security. investingLive expressly disclaims any liability for any lost principal or profits which may arise directly or indirectly from the use of or reliance on such information, or with respect to any of the content presented within its website, nor its editorial choices.
+
+Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
+
+

@@ -1,0 +1,190 @@
+================================================================================
+TITRE : AI's debt binge is becoming a bond market problem, South Africa's central bank warns
+DATE  : 25-11-2026 22:34 UTC
+URL   : https://investinglive.com/central-banks/ai-s-debt-binge-is-becoming-a-bond-market-problem-south-africa-s-central-bank-warns/
+================================================================================
+
+The SARB's warning adds an official voice to a concern that has mostly lived in credit markets until now, and it widens the debate from tech valuations to the cost of government borrowing. The most exposed markets are emerging-market bonds and currencies, which tend to suffer first when global investors cut risk. For equities, the concentration figure is the warning sign: when so much fund exposure sits in a handful of mega-cap names, a selloff in those stocks spreads quickly through portfolios worldwide. Long-end yields and credit spreads on heavily indebted AI borrowers are the gauges to watch alongside the chip stocks.
+
+---
+
+Earlier:
+
+---
+
+The SARB has put into words what credit markets have been signalling all week: the AI boom's borrowing bill is now everyone's problem, governments included.
+
+Summary:
+
+The borrowing behind the artificial intelligence build-out is starting to matter for bond markets as well as stocks, according to South Africa's central bank. AI companies now compete with governments for long-term funding, Governor Lesetja Kganyago said on Wednesday, and that competition is adding to pressure on long-term borrowing costs.
+
+The warning came in the South African Reserve Bank's twice-yearly Financial Stability Review. It lands in a week when the cost of financing AI has been tested across several markets.
+
+What the SARB found
+
+The central bank said heavy debt issuance by AI firms is competing with sovereign borrowing, which could push up yields on South Africa's own government debt. It also flagged growing exposure at home. Local pooled investment funds held nearly 13% of their portfolio assets in AI-related companies by the third quarter, and more than two-thirds of that sat in five large US technology stocks, including Nvidia and Microsoft.
+
+The risk, in the bank's view, is that AI investment returns disappoint. That could trigger a sharp technology selloff, capital outflows and tighter financial conditions, with emerging markets particularly exposed. The review stressed that South Africa's financial system remains resilient, with banks well capitalised and liquid, so this is a risk to watch rather than a warning of imminent stress.
+
+A week of evidence
+
+Recent days offer a live example of the pressures the SARB described. The cost of insuring CoreWeave's debt against default jumped by a record amount on Wednesday, and its banks are lining up a $4.5 billion loan that relies on Meta's credit rather than CoreWeave's own. Gauges of Nvidia's credit risk also hit record highs, even as Moody's kept the chipmaker's Aa1 rating, citing its exceptionally strong financial position.
+
+That contrast is the key point. The strongest AI companies can still borrow cheaply, while the more heavily indebted operators are paying much more. The SARB's concern is the combined weight of all that borrowing on the supply of long-term capital.
+
+Why it matters beyond South Africa
+
+The SARB's specific warning concerned its own bond market, but the mechanism isn't unique to South Africa. Large AI borrowers draw on the same pool of long-term investors that governments rely on. With the Federal Reserve still on a hiking path, that money isn't getting any cheaper. Emerging-market governments, which typically pay more to borrow and depend more on foreign money, would likely be among the first to feel any squeeze.
+
+For investors, the practical takeaway is that AI spending is no longer only an equity story. Credit spreads, government bond yields and capital flows into emerging markets are now worth watching alongside chip stocks.
+
+
+================================================================================
+TITRE : PBOC is expected to set the USD/CNY reference rate at 6.6655 – Reuters estimate
+DATE  : 26-11-2026 00:25 UTC
+URL   : https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6655-reuters-estimate-0/
+================================================================================
+
+High risk warning: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade foreign exchange, carefully consider your investment objectives, experience level, and risk tolerance. You could lose some or all your initial investment; do not invest money that you cannot afford to lose. Educate yourself on the risks associated with foreign exchange trading and seek advice from an independent financial or tax advisor if you have any questions.
+
+Advisory warning: investingLive is not an investment advisor, investingLive provides references and links to selected news, blogs and other sources of economic and market information for informational purposes and as an educational service to its clients and prospects and does not endorse the opinions or recommendations of the blogs or other sources of information. Clients and prospects are advised to carefully consider the opinions and analysis offered in the blogs or other information sources in the context of the client or prospect's individual analysis and decision making. None of the blogs or other sources of information is to be considered as constituting a track record. Past performance is no guarantee of future results and investingLive specifically hereby acknowledges clients and prospects to carefully review all claims and representations made by advisors, bloggers, money managers and system vendors before investing any funds or opening an account with any Forex dealer. Any news, opinions, research, data, or other information contained within this website is provided on an "as-is" basis as a general market commentary and does not constitute investment or trading advice, and we do not purport to present the entire relevant or available public information with respect to a specific market or security. investingLive expressly disclaims any liability for any lost principal or profits which may arise directly or indirectly from the use of or reliance on such information, or with respect to any of the content presented within its website, nor its editorial choices.
+
+Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
+
+
+================================================================================
+TITRE : Bank of Korea hikes to 3.25%, sees 4.1% growth in 2027 as chip boom drives economy
+DATE  : 26-11-2026 01:00 UTC
+URL   : https://investinglive.com/central-banks/bank-of-korea-hikes-to-3-25-sees-4-1-growth-in-2027-as-chip-boom-drives-economy/
+================================================================================
+
+With the hike fully priced, the won and Korean bonds are likely to react more to Governor Rhee's guidance than to the decision itself. A signal that one more hike is coming would support the won and push up short-term yields, while hints that the cycle is ending could ease pressure on rate-sensitive stocks. The 4.1% growth forecast for 2027 is a strong vote of confidence in chip demand, which may help steady Samsung and SK Hynix after this week's selloff, but it also ties Korea's rate path closely to the global AI spending cycle.
+
+---
+
+Earlier:
+
+---
+
+South Korea's central bank is raising rates into a chip boom, betting that growth above 4% can absorb tighter policy while inflation slowly returns to target.
+
+Summary:
+
+The Bank of Korea raised its benchmark interest rate by a quarter of a percentage point to 3.25% on Thursday, its third increase since July. A semiconductor-led export boom is keeping the economy growing strongly and inflation above target.
+
+The decision, announced at around 0100 GMT (2000 US Eastern on Wednesday), matched expectations, with 32 of 34 economists in a Reuters poll forecasting the move. It follows back-to-back hikes in July and August and a pause at 3% in October, when the board kept its tightening bias.
+
+New forecasts underline the strength
+
+Alongside the decision, the central bank released updated projections that show an economy running well above its usual pace. It now expects growth of 3.9% this year and 4.1% in 2027, before easing to 3.0% in 2028. Inflation is forecast at 2.7% this year, slowing to 2.4% in 2027 and 2.1% in 2028, so it only gets close to the bank's 2% target by the end of the forecast period.
+
+The inflation projections for this year and next are unchanged from the bank's August outlook, which suggests the board sees price pressures as sticky rather than worsening. Growth of more than 4% would be exceptional for South Korea, and it explains why the bank has room to keep tightening.
+
+Chips drive the economy, and the hikes
+
+Semiconductors sit at the centre of the story. South Korea's chip exports nearly quadrupled from a year earlier to a record in the first 20 days of November, and made up almost half of total exports. That boom has lifted incomes and investment, while home prices in Seoul have climbed sharply, adding to the central bank's concerns about financial stability.
+
+What comes next
+
+The focus now turns to Governor Rhee Chang-yong's guidance on whether this is the last move. Economists in the Reuters poll expected one final hike to 3.50% in early 2027, while some local surveys see the peak as high as 3.75%. Whether the board was unanimous, and whether its statement keeps language about further tightening, will shape that debate.
+
+Market reaction has been limited so far. The Kospi was up about 1% in morning trade, recovering part of Wednesday's slide of more than 6%, as investors weighed the steady policy outlook against volatility in global chip stocks.
+
+For markets, the risk lies in the gap between strong local fundamentals and fragile global sentiment. A chip-driven economy gives the Bank of Korea reason to keep rates higher for longer. But any reversal in global AI spending would hit the same exports that are powering growth, and could quickly change the outlook for rates.
+
+
+================================================================================
+TITRE : BoJ's Tamura says rates must reach neutral 'soon', still sees neutral near 2%
+DATE  : 26-11-2026 01:09 UTC
+URL   : https://investinglive.com/central-banks/boj-s-tamura-says-rates-must-reach-neutral-soon-still-sees-neutral-near-2/
+================================================================================
+
+With a December hike already largely priced, the speech matters mainly for expectations of where the cycle ends. Tamura's 2% neutral estimate sits at the top of the market's assumed endpoint of 1.75% to 2%, so any sign that his view is spreading on the board would lift Japanese government bond yields at the short end and support the yen. Yen bears may test how much the BoJ is willing to do, with USD/JPY near 159 and intervention risk in the background. His explicit openness to accelerating hikes makes upcoming Tokyo CPI and wage data more sensitive for the yen.
+
+Newswire cut:BoJ hawk Tamura says rates must reach neutral soon and still puts neutral near 2%, well above the 1.25% policy rate. He warns Japan's less firmly anchored inflation could require a faster pace of rate hikes if upside price pressures keep building.
+
+One-line wrap:Tamura wants the BoJ to get to neutral soon and believes neutral is a long way above today's rate, which makes him the clearest voice on the board for a longer hiking cycle.
+
+Summary:
+
+Bank of Japan board member Naoki Tamura called on Thursday for interest rates to rise to a neutral level "soon". He repeated his view that neutral sits around 2% and warned that the central bank may need to speed up its hikes if inflation pressures build.
+
+Tamura, one of the board's most hawkish members, was speaking to local leaders in Yamanashi at 0100 GMT (2000 US Eastern on Wednesday). His remarks reinforce expectations of a rate rise at the BoJ's December 17-18 meeting and suggest he wants further increases well into 2027.
+
+Policy is still loose, and neutral is a long way off
+
+The BoJ raised its short-term policy rate to around 1.25% in September. Tamura said financial conditions remain accommodative and the policy rate is "still some way" from neutral, the level that neither heats nor cools the economy. He said he first put neutral at around 2% in June and that his view hasn't changed.
+
+That gap matters for markets. If Tamura is right, the BoJ would need roughly three more quarter-point hikes to reach neutral, more than many investors expect. He was candid that neutral can't be known in advance and can only be found by raising rates and watching how the economy responds. The point echoes the RBA's discussion of uncertainty around the neutral rate in its latest Bulletin.
+
+Make haste slowly
+
+Tamura described the right approach as "make haste slowly". He argued that the BoJ can judge the impact of each hike within a few months by talking to firms and reading surveys, and that a thorough assessment doesn't have to be a slow one. Most firms, he said, see the effect of past and near-term hikes on their business as limited, although some have started to warn that higher borrowing costs will restrain investment.
+
+He also flagged the option of moving faster. Inflation expectations in Japan have only recently risen from very low levels, so Tamura said they are less firmly anchored than in the United States or Europe. In his view, that means the BoJ should respond more quickly and strongly to signs that inflation is overshooting, including by speeding up the pace of hikes.
+
+Upside risks are building
+
+Tamura laid out why he is worried about inflation running above the 2% target. Producer prices rose 7.1% from a year earlier in October, driven by high oil prices linked to the Middle East conflict, the weak yen and AI-related demand. Those costs are now reaching consumers. He said CPI inflation excluding temporary government measures has risen to around 3.5%, and pointed to sharp price increases in items such as plastic goods and laptops.
+
+He was also struck by how far the AI boom reaches. He said it is helping a much wider range of Japanese industries than he expected, from data centres to power equipment, air conditioning and construction. He described Japan as rich in "pick-and-shovel" firms, the businesses that supply the tools for a boom rather than taking part in it directly, a reference to the suppliers who profited most from the California Gold Rush. He added that AI is likely to push prices up in the short term, even if it lowers them later through higher productivity.
+
+What it means for the yen
+
+Tamura's views are well known, so the speech is unlikely to shift December pricing much on its own. The more important signal is his push for a faster path toward 2%, which is at the top end of market pricing for an endpoint of around 1.75% to 2%. A more hawkish path would generally support the yen, which is trading near 159 per dollar, close to levels that have previously raised the risk of intervention by Japanese authorities. The weak yen is itself one of the inflation pressures Tamura cites, which makes his case for steady hikes harder to dismiss.
+
+
+================================================================================
+TITRE : PBOC sets USD/ CNY reference rate for today at 6.7096 (vs. estimate at 6.6655)
+DATE  : 26-11-2026 01:15 UTC
+URL   : https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7096-vs-estimate-at-6-6655/
+================================================================================
+
+High risk warning: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade foreign exchange, carefully consider your investment objectives, experience level, and risk tolerance. You could lose some or all your initial investment; do not invest money that you cannot afford to lose. Educate yourself on the risks associated with foreign exchange trading and seek advice from an independent financial or tax advisor if you have any questions.
+
+Advisory warning: investingLive is not an investment advisor, investingLive provides references and links to selected news, blogs and other sources of economic and market information for informational purposes and as an educational service to its clients and prospects and does not endorse the opinions or recommendations of the blogs or other sources of information. Clients and prospects are advised to carefully consider the opinions and analysis offered in the blogs or other information sources in the context of the client or prospect's individual analysis and decision making. None of the blogs or other sources of information is to be considered as constituting a track record. Past performance is no guarantee of future results and investingLive specifically hereby acknowledges clients and prospects to carefully review all claims and representations made by advisors, bloggers, money managers and system vendors before investing any funds or opening an account with any Forex dealer. Any news, opinions, research, data, or other information contained within this website is provided on an "as-is" basis as a general market commentary and does not constitute investment or trading advice, and we do not purport to present the entire relevant or available public information with respect to a specific market or security. investingLive expressly disclaims any liability for any lost principal or profits which may arise directly or indirectly from the use of or reliance on such information, or with respect to any of the content presented within its website, nor its editorial choices.
+
+Disclaimer: investingLive may be compensated by the advertisers that appear on the website, based on your interaction with the advertisements or advertisers.
+
+
+================================================================================
+TITRE : Bank of Korea signals more hikes as 15 of 21 rate projections sit above 3.25%
+DATE  : 26-11-2026 02:02 UTC
+URL   : https://investinglive.com/central-banks/bank-of-korea-signals-more-hikes-as-15-of-21-rate-projections-sit-above-3-25/
+================================================================================
+
+The projections lift the risk that Korean rates peak above the 3.50% most economists expected, which should support the won and keep short-dated Korean government bond yields firm. Two dissents limit the hawkish reading and leave room for the governor's tone to swing sentiment either way. For equities, the higher-for-longer message weighs on rate-sensitive sectors such as property and consumer stocks, while chipmakers remain driven by global AI demand. The bank's focus on household lending also raises the chance of tighter lending rules alongside rate hikes.
+
+---
+
+-The Bank of Korea's vote was split, but its projections weren't: most of the board expects rates to keep rising.
+
+Summary:
+
+The Bank of Korea's decision to raise interest rates on Thursday wasn't unanimous, but the board's own projections point to more tightening ahead, with most members expecting rates to be higher in six months' time.
+
+The central bank lifted its base rate by a quarter of a percentage point to 3.25%, its third increase since July. Board members Lee Soo-hyung and Hwang Kun-il dissented. The bank didn't say in its initial statement which way they would have voted, so it isn't yet clear whether they favored holding rates or a different move.
+
+A hawkish set of projections
+
+The bigger signal for markets came from the board's rate projections for the next six months. Of 21 projections, only 6 put the base rate at today's 3.25%. Eight placed it at 3.50%, implying one more hike, and seven at 3.75%, implying two. That means 15 of the 21 projections sit above the current rate.
+
+That leans more hawkish than expectations going into the meeting. A Reuters poll before the decision showed economists expecting one final hike to 3.50% in early 2027. The projections suggest a meaningful share of the board sees a higher peak than that.
+
+The policy statement backs up that message. The bank said the timing of further base rate hikes will depend on inflation trends, domestic economic conditions and financial stability. That language assumes more increases are coming rather than asking whether they're needed.
+
+Inflation and housing keep pressure on
+
+The central bank expects inflation to stay above its 2% target for a prolonged period, as elevated cost pressures continue to feed through to prices. It said the outlook will depend on global oil prices and the exchange rate, both of which have been pushing prices higher this year.
+
+Financial stability is the other concern. The bank said growth in household lending has picked up, expectations of further house price gains remain elevated, and risks of financial imbalances linked to housing and household debt need continued monitoring.
+
+On growth, the bank was confident. It expects the economy to sustain robust growth, with exports and investment supported by the semiconductor sector. It did flag one clear uncertainty: how far the expansion in semiconductors will go.
+
+What it means for markets
+
+For the Korean won and short-term bond yields, the projections matter more than the dissents. A board that sees rates at 3.50% or 3.75% within six months gives the won some support and argues against any early easing, although the two dissents show the board isn't of one mind.
+
+The link to chips cuts both ways. Strong semiconductor demand is driving the growth that allows the bank to keep tightening. If the global AI spending cycle slows, the same sector would weaken the economy and the case for further hikes, which is why the bank singled it out as the main uncertainty. Governor Rhee Chang-yong's comments at his news conference should help clarify which way the dissenters leaned and how firmly the board is committed to the next move.
+
+
